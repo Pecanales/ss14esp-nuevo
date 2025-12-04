@@ -9,11 +9,11 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-# Janitorial
+# conserje
 
-You keep things clean, it's a rough job sometimes, but someone's gotta do it. This will walk you through the tools of the trade, and how they're used.
+Mantienes las cosas limpias, a veces es un trabajo duro, pero alguien tiene que hacerlo. Esto le guiará a través de las herramientas del oficio y cómo se utilizan.
 
-## Basic Equipment
+## Equipo básico
 <Box>
 <GuideEntityEmbed Entity="MopItem"/>
 <GuideEntityEmbed Entity="JanitorialTrolley"/>
@@ -28,7 +28,7 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="Mousetrap"/>
 </Box>
 
-## Additional Equipment
+## Equipo adicional
 <Box>
 <GuideEntityEmbed Entity="WetFloorSign"/>
 <GuideEntityEmbed Entity="Holoprojector" Caption="holosign projector"/>
@@ -39,43 +39,43 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="AdvMopItem" Caption="Advanced mop, ask in R&D"/>
 </Box>
 
-## Fluid Acquisition and Disposal
+## Adquisición y eliminación de fluidos
 <Box>
 <GuideEntityEmbed Entity="WaterTankFull"/>
 <GuideEntityEmbed Entity="Sink"/>
 <GuideEntityEmbed Entity="FloorDrain"/>
 </Box>
 
-## Tidying up.
-Now, onto the (figurative) meat and potatoes. We're here to clean, right? Lets keep it simple. The main tools you'll be putting to use are the trusty mop, a trash bag, space cleaner, and one of the three different buckets.
+## Ordenando.
+Ahora, pasemos a la carne (figurativa) y las patatas. Estamos aquí para limpiar, ¿verdad? Mantengámoslo simple. Las principales herramientas que utilizarás son el confiable trapeador, una bolsa de basura, un limpiador de espacio y uno de los tres cubos diferentes.
 
-Mopping: Fill your cart up with water, then, find some puddles! Wet your mop, and wipe them up, the resulting water puddle will dry after a short time. Don't forget the wet floor signs!
-- To drain your cart, drag it (with your cursor) onto a floor drain. This will dump all the fluids inside! Floor drains can usually be found somewhere in medical, the kitchen freezer, and of course, the janitor closet.
+Trapear: Llena tu carrito con agua y luego encuentra algunos charcos. Moja tu trapeador y límpialo, el charco de agua resultante se secará después de un corto tiempo. ¡No olvides los carteles de suelo mojado!
+- Para drenar su carrito, arrástrelo (con el cursor) hacia un desagüe de piso. ¡Esto arrojará todos los fluidos del interior! Los desagües del piso generalmente se pueden encontrar en algún lugar médico, en el congelador de la cocina y, por supuesto, en el armario del conserje.
 
-Trash: Place it in the bag directly, or hold it in your hand. Click -near- trash to scoop -all- nearby junk up, or click on each piece individually. Using the bag on a disposal will empty it.
-- Cargo might want some of your trash, it might be worthwhile to check in from time to time!
+Basura: colóquela directamente en la bolsa o sosténgala en la mano. Haga clic en -cerca- de la basura para recoger -toda- la basura cercana, o haga clic en cada pieza individualmente. Usar la bolsa en un triturador la vaciará.
+- Es posible que la carga quiera algo de su basura, ¡podría valer la pena registrarse de vez en cuando!
 
-Space Cleaner: This miracle spray can do two things, clean graffiti, and in a pinch, clean up puddles!
-- You might be able to get more of this from chemistry.
+Limpiador de espacios: ¡Este spray milagroso puede hacer dos cosas: limpiar graffitis y, en caso de necesidad, limpiar charcos!
+- Es posible que puedas obtener más de esto de la química.
 
-Light Replacer: Just point at broken bulbs and click!
-- Replace enough broken ones, get a bulb for free!
+Reemplazo de luz: ¡Simplemente apunte a las bombillas rotas y haga clic!
+- ¡Reemplace suficientes bombillas rotas y obtenga una bombilla gratis!
 
-Janitorial Keyring: Your trusty keys, hundreds of them on a single ring. If only you could remember which goes where...
-- At the start of the round, the keyring will spawn with a few randomized access levels. It could open cargo, it could open medical, who knows?
+Llavero de limpieza: Tus llaves de confianza, cientos de ellas en un solo anillo. Si tan sólo pudieras recordar cuál va a dónde...
+- Al comienzo de la ronda, el llavero aparecerá con algunos niveles de acceso aleatorios. Podría abrir carga, podría abrir atención médica, ¿quién sabe?
 
-## Dealing with footprints and trails.
-It gets a little tedious cleaning [italic]every[/italic] little footprint left behind by those pesky doctors.
-The solution? A little bit of elbow grease!
+## Lidiando con huellas y senderos.
+Se vuelve un poco tedioso limpiar [italic]cada[/italic] pequeña huella dejada por esos molestos médicos.
+¿La solución? ¡Un poco de esfuerzo!
 
-There's two ways of going about this:
-- Using a mop on the floor near footprints will scrub the area of footprints and trails. [bold]Although slow, this has the benefit of not gunking up your mop.[/bold]
-- You can use a bar of soap or a damp rag for the same effect, albeit worse.
+Hay dos maneras de hacer esto:
+- Usar un trapeador en el piso cerca de las huellas limpiará el área de huellas y senderos. [bold]Aunque es lento, esto tiene la ventaja de no ensuciar el trapeador.[/bold]
+- Puedes utilizar una pastilla de jabón o un trapo húmedo para obtener el mismo efecto, aunque peor.
 
-## Extra Duties
-A good janitor is always on the lookout for a bit more to do, and there are plenty of tools at your disposal. Keep an eye out for broken lights, help the chef take care of mice in the kitchen, and if you're feeling -really- generous, try to restock the vending machines and emergency closets around the station!
+## Deberes adicionales
+Un buen conserje siempre está buscando algo más que hacer y hay muchas herramientas a tu disposición. Esté atento a las luces rotas, ayude al chef a cuidar de los ratones en la cocina y, si se siente (realmente) generoso, intente reabastecer las máquinas expendedoras y los armarios de emergencia alrededor de la estación.
 
-##Additional Information:
+##Información adicional:
 <GuideReagentEmbed Reagent="SpaceCleaner"/>
 <GuideReagentEmbed Reagent="Ammonia"/>
 

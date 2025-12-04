@@ -7,19 +7,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Moth People
+	# Personas Polilla
 
-  <Box>
-    <GuideEntityEmbed Entity="MobMoth" Caption=""/>
-  </Box>
+	<Box>
+		<GuideEntityEmbed Entity="MobMoth" Caption=""/>
+	</Box>
 
-  They can eat cotton, fabrics and clothing, but virtually none of the food that others would consider "edible". They prefer a somewhat lower temperature range than humans. They are obsessed with the number "65".
+	Las personas polilla pueden comer algodón, telas y ropa, pero prácticamente ninguno de los alimentos que otros considerarían "comestibles". Prefieren un rango de temperatura más bajo que los humanos.
+	Su sangre de insecto no puede ser metabolizada a partir del hierro como la sangre normal.
 
-  Their wings give them better acceleration if there is no gravity on the station, but they still can't move without equipment when floating out in space.
-  They can also dash small distances once in 6.5 seconds using their wings, but that requires the gravity to be present. However they move 6.5% slower than other species due to their weak legs.
+	Sus alas les proporcionan mejor aceleración en ausencia de gravedad en la estación, pero aún no pueden moverse sin equipo cuando flotan en el espacio.
 
-  They take [color=#1e90ff]30% less Cold damage[/color] but [color=#ffa500]30% more Heat and 6.5% more Brute damage, and catch on fire more easily[/color].
-
-  They are also 6.5% lighter than most species.
+	Reciben [color=#1e90ff]30% menos daño por frío[/color], pero [color=#ffa500]30% más daño por calor, y se incendian con mayor facilidad[/color].
 
 </Document>

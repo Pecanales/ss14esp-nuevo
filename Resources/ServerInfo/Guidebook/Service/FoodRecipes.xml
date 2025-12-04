@@ -18,53 +18,53 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
 
-# Microwave Recipes
+# Recetas de microondas
 
-This is the latest published version of NanoTrasen Central Command Kitchen de Cuisine's recipe collection for chefs upon NanoTrasen vessels to prepare.
+Esta es la última versión publicada de la colección de recetas de Nano Trasen Central Command Kitchen de Cuisine para que las preparen los chefs en los recipientes Nano Trasen.
 
-## Pizza Pies
+## Pizza 
 <GuideMicrowaveGroupEmbed Group="Pizza"/>
 
-## Savory Cooking
+## Cocina salada
 <GuideMicrowaveGroupEmbed Group="Savory"/>
 
-## Breads
+## Panes
 <GuideMicrowaveGroupEmbed Group="Breads"/>
 
-## Breakfast Foods
+## Alimentos para el desayuno
 <GuideMicrowaveGroupEmbed Group="Breakfast"/>
 
-## Moth Foods
+## Alimentos para polillas
 <GuideMicrowaveGroupEmbed Group="Moth"/>
 
-## Pastas & Noodles
+## Pastas y fideos
 <GuideMicrowaveGroupEmbed Group="Pasta"/>
 
-## Pastries & Desserts
+## Pasteles y Postres
 <GuideMicrowaveGroupEmbed Group="Dessert"/>
 
-## Soups & Stews
+## Sopas y guisos
 <GuideMicrowaveGroupEmbed Group="Soup"/>
 
-## Pies & Tarts
+## Tartas y pasteles
 <GuideMicrowaveGroupEmbed Group="Pie"/>
 
-## Bars & Cookies
+## Barras y galletas
 <GuideMicrowaveGroupEmbed Group="BarsAndCookies"/>
 
-## Cakes
+## Tortas
 <GuideMicrowaveGroupEmbed Group="Cake"/>
 
-## Salads
+## Ensaladas
 <GuideMicrowaveGroupEmbed Group="Salad"/>
 
 ## Medicinal
 <GuideMicrowaveGroupEmbed Group="Medicinal"/>
 
-## Other
+## Otro
 <GuideMicrowaveGroupEmbed Group="Other"/>
 
-## Secret
+## Secreto
 <GuideMicrowaveGroupEmbed Group="Secret"/>
 
 </Document>

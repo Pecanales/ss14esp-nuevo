@@ -5,31 +5,33 @@ SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
 SPDX-License-Identifier: MIT
 -->
 
-<Document>
-  
-  # Specialized Brute Chemicals
 
-  Nanotrasen's greatest scientists have synthesized three more specific brute chemicals! Each one heals a specific damage subtype.
 
-  <GuideReagentEmbed Reagent="Bruizine"/>
-  <GuideReagentEmbed Reagent="Puncturase"/>
-  <GuideReagentEmbed Reagent="Lacerinol"/>
+	<Document>
 
-  # Razorium
+		# Químicos Bruto Especializados
 
-  [color=red]USE CAUTION[/color] when using the aforementioned specialized brute chemicals. Should one mix together with a different type of brute chemical, the resulting mixture will create a dangerous chemical known as Razorium!
-  <GuideReagentEmbed Reagent="Razorium"/>
-  To avoid this, make sure the patient is done metabolizing one brute medication before giving them another. Keep an eye on the rate their health is changing.
+		Los mejores científicos de Nanotrasen han sintetizado tres químicos bruto más específicos. ¡Cada uno cura un subtipo de daño específico!
 
-  [bold]Some examples of mixtures that create Razorium are as follows:[/bold]
+		<GuideReagentEmbed Reagent="Bruizine"/>
+		<GuideReagentEmbed Reagent="Puncturase"/>
+		<GuideReagentEmbed Reagent="Lacerinol"/>
 
-  Bicaridine and Puncturase
+		# Razorium
 
-  Puncturase and Lacerinol
+		[color=red]USAR CON PRECAUCIÓN[/color] al utilizar los químicos bruto especializados mencionados. Si se mezclan con otro tipo de químico avanzado de daño, la mezcla resultante creará un químico peligroso conocido como Razorium.
+		<GuideReagentEmbed Reagent="Razorium"/>
+		Para evitar esto, asegúrate de que el paciente haya terminado de metabolizar un medicamento antes de administrarle otro. Observa la velocidad a la que cambia su salud.
 
-  Bruizine and Bicaridine
+		[bold]Algunos ejemplos de mezclas que crean Razorium son los siguientes:[/bold]
 
-  Lacerinol and Bruizine
+		Ácido Salicílico y Puncturase
 
-  Please note that [bold]any[/bold] combination of these 4 chemicals will likely mix and create Razorium! Be careful when creating these chemicals, as they contain Bicaridine. Any leftover Bicaridine will likely mix to create Razorium!
-</Document>
+		Puncturase y Lacerinol
+
+		Bruizine y Ácido Salicílico
+
+		Lacerinol y Bruizine
+
+		Ten en cuenta que [bold]cualquier[/bold] combinación de estos 4 químicos probablemente se mezclará y creará Razorium.
+	</Document>

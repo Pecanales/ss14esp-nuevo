@@ -7,10 +7,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
 
-# Special
+	# Especial
 
-These reagents either have exotic sources, unique properties, or both.
+	Estos reactivos tienen fuentes exóticas, propiedades únicas, o ambas.
 
-<GuideReagentGroupEmbed Group="Special"/>
+	<GuideReagentGroupEmbed Group="Special"/>
 
 </Document>

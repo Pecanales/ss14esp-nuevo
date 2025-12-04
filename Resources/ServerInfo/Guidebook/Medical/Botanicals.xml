@@ -7,11 +7,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Botanicals
+	# Botánica
 
-Botany and Chemistry can often work together to produce better medicine (or recreational cocktails). It may be worthwhile to give them the fertilizers they need, and request some medicinal plants in return.
+	La Botánica y la Química a menudo pueden trabajar juntas para producir mejores medicinas (o cócteles recreativos). Puede ser útil proporcionarles los fertilizantes que necesiten y, a cambio, solicitar algunas plantas medicinales.
 
-<Box>
+
+	<Box>
 <GuideEntityEmbed Entity="FoodGalaxythistle"/>
 <GuideEntityEmbed Entity="FoodLingzhi"/>
 <GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>

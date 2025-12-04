@@ -7,14 +7,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Technologies
+	# Tecnologías
 
-All technologies have a cost and a tier requirement in order to be researched. Unlocking them adds a variety of recipes that can be printed at various lathes.
+	Todas las tecnologías tienen un costo y un requisito de nivel para poder ser investigadas. Desbloquearlas añade una variedad de recetas que pueden ser impresas en varios lathes.
 
-The different technologies and their respective discipline are listed below.
+	A continuación se enumeran las diferentes tecnologías y sus respectivas disciplinas.
 
-## Industrial
-<GuideTechDisciplineEmbed Discipline="Industrial"/>
+	## Industrial
+	<GuideTechDisciplineEmbed Discipline="Industrial"/>
 
 ## Arsenal
 <GuideTechDisciplineEmbed Discipline="Arsenal"/>
@@ -22,7 +22,7 @@ The different technologies and their respective discipline are listed below.
 ## Experimental
 <GuideTechDisciplineEmbed Discipline="Experimental"/>
 
-## Civilian Services
+## Servicios civiles
 <GuideTechDisciplineEmbed Discipline="CivilianServices"/>
 
 </Document>

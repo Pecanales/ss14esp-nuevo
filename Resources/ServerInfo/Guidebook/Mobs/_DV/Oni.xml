@@ -16,21 +16,21 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="MobOni" Caption=""/>
   </Box>
 
-  Large, horned people that come in a variety of colors. Their accuracy with guns is terrible, but their physical strength brings them a lot of boons both in and out of combat.
+Personas grandes con cuernos que vienen en una variedad de colores. Su precisión con las armas es terrible, pero su fuerza física les aporta muchas ventajas tanto dentro como fuera del combate.
 
-  ## Diet
-  - Just about anything. Can even eat many things raw.
+  ## Dieta
+  - Casi cualquier cosa. Incluso puede comer muchas cosas crudas.
 
-  ## Benefits
-  - They take [color=#1e90ff]20% less Blunt, Slash, and Piercing damage[/color].
-  - Does more damage in melee; 25% more Blunt, Slash, Piece, Stamina, and Structural damage.
-  - Due to their big size, they can easily carry and pull any other species.
-  - Slightly more stamina than Humans.
+ ## Beneficios
+  - Reciben [color=#1e90ff]20% menos de daño contundente, cortante y perforante[/color].
+  - Hace más daño cuerpo a cuerpo; 25% más de daño contundente, cortante, en piezas, de resistencia y estructural.
+  - Debido a su gran tamaño, pueden transportar y tirar fácilmente de cualquier otra especie.
+  - Un poco más de resistencia que los humanos.
 
-  ## Drawbacks
-  - Oni are unable to fire any weapons but shotguns with accuracy, with reports of bullets managing to fire even behind them
-  - They are harder to carry and pull.
-  - They are bigger than Humans, making them easier to hit.
-  - Sources of holy damage are their bane, and will injure them greatly
+ ## Desventajas
+  - Los Oni no pueden disparar ningún arma excepto escopetas con precisión, y hay informes de balas que logran disparar incluso detrás de ellos.
+  - Son más difíciles de transportar y tirar.
+  - Son más grandes que los humanos, lo que los hace más fáciles de golpear.
+  - Las fuentes de daño sagrado son su perdición y los dañarán gravemente.
 
 </Document>

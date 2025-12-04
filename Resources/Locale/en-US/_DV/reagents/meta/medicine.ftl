@@ -1,5 +1,5 @@
 reagent-name-umbroxol = umbroxol
-reagent-desc-umbroxol = An ominous chemical. Used to treat holy damage from those weak to the veil. Overdoses may leave patients feeling cold.
+reagent-desc-umbroxol = Una sustancia química siniestra. Se utiliza para tratar el daño sagrado de aquellos débiles al velo. Las sobredosis pueden hacer que los pacientes sientan frío.
 
 reagent-name-unholy-water = unholy water
-reagent-desc-unholy-water = Water treated with blood and sulfur. Just looking at it chills you to the bone.
+reagent-desc-unholy-water = Agua tratada con sangre y azufre. Sólo mirarlo te hiela hasta los huesos.

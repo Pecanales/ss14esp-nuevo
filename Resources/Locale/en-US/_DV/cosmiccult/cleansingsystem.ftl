@@ -1,7 +1,7 @@
-cleanse-deconvert-attempt-begin = {CAPITALIZE(THE($target))} holds a rosary out towards you!
-cleanse-deconvert-attempt-begin-user = You attempt to cleanse {CAPITALIZE(THE($target))} of otherworldly influences!
-cleanse-deconvert-attempt-success = You cleanse {CAPITALIZE(THE($target))} in a cascade of holy light!
-cleanse-deconvert-attempt-success-empowered = You cleanse {CAPITALIZE(THE($target))}, but a pulse of malign energy bursts forth!
-cleanse-deconvert-attempt-notcult = {CAPITALIZE(THE($target))} wasn't under the influence of anything.
+cleanse-deconvert-attempt-begin = {CAPITALIZE(THE($target))} ¡Sostiene un rosario hacia ti!
+cleanse-deconvert-attempt-begin-user = Intentas limpiarte {CAPITALIZE(THE($target))} de influencias de otro mundo!
+cleanse-deconvert-attempt-success = tu limpias {CAPITALIZE(THE($target))} ¡En una cascada de luz sagrada!
+cleanse-deconvert-attempt-success-empowered = tu limpias {CAPITALIZE(THE($target))}, ¡Pero estalla un pulso de energia maligna!
+cleanse-deconvert-attempt-notcult = {CAPITALIZE(THE($target))} No estaba bajo la influencia de nada.
 
-cleanse-item-sizzle = {CAPITALIZE(THE($target))} sizzles in your hands!
+cleanse-item-sizzle = {CAPITALIZE(THE($target))} chisporrotea en tus manos!

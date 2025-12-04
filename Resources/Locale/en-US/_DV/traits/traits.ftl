@@ -7,10 +7,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-trait-ultravision-name = Ultraviolet Vision
-trait-ultravision-desc = Whether through custom bionic eyes, random mutation,
-                         or being a Harpy, you perceive the world with ultraviolet light.
+trait-ultravision-name = vision ultra violeta
+trait-ultravision-desc = Ya sea a través de ojos biónicos personalizados, mutaciones aleatorias,
+                         o siendo una Arpía, percibes el mundo con luz ultravioleta.
 
 trait-deuteranopia-name = Deuteranopia
-trait-deuteranopia-desc = Whether through custom bionic eyes, random mutation,
-                          or being a Vulpkanin, you have red–green colour blindness.
+trait-deuteranopia-desc =Ya sea a través de ojos biónicos personalizados, mutaciones aleatorias,
+                          o siendo un Vulpkanin, tienes daltonismo rojo-verde.

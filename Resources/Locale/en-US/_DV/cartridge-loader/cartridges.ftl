@@ -9,180 +9,191 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-crime-assist-program-name = Crime Assist
-crime-assist-yes-button = Yes
-crime-assist-no-button = No
-crime-assist-crimetype-innocent = Innocent
-crime-assist-crimetype-misdemeanour = Misdemeanour
-crime-assist-crimetype-felony = Felony
-crime-assist-crimetype-capital = Capital
-crime-assist-crime-innocent = No crime was committed
-crime-assist-crime-animalcruelty = Code 101: Animal Cruelty
-crime-assist-crime-theft = Code 102: Theft
-crime-assist-crime-trespass = Code 110: Trespass
-crime-assist-crime-vandalism = Code 111: Vandalism
-crime-assist-crime-hooliganism = Code 112: Hooliganism
-crime-assist-crime-manslaughter = Code 201: Manslaughter
-crime-assist-crime-grandtheft = Code 202: Grand Theft
-crime-assist-crime-blackmarketeering = Code 203: Black Marketeering
-crime-assist-crime-sabotage = Code 204: Sabotage
-crime-assist-crime-mindbreaking = Code 205: Mindbreaking
-crime-assist-crime-assault = Code 206: Assault
-crime-assist-crime-abuseofpower = Code 207: Abuse of Power
-crime-assist-crime-possession = Code 208: Possession
-crime-assist-crime-endangerment = Code 209: Endangerment
-crime-assist-crime-breakingandentering = Code 210: Breaking and Entering
-crime-assist-crime-rioting = Code 211: Rioting
-crime-assist-crime-contemptofcourt = Code 212: Contempt of Court
-crime-assist-crime-perjuryfalsereport = Code 213: Perjury or False Report
-crime-assist-crime-obstructionofjustice = Code 214: Obstruction of Justice
-crime-assist-crime-murder = Code 301: Murder
-crime-assist-crime-terrorism = Code 303: Terrorism
-crime-assist-crime-grandsabotage = Code 304: Grand Sabotage
-crime-assist-crime-decorporealisation = Code 305: Decorporealisation
-crime-assist-crime-kidnapping = Code 309: Kidnapping
-crime-assist-crime-sedition = Code 311: Sedition
-crime-assist-crime-sexualharassment = Code 314: Sexual Harassment
-crime-assist-mainmenu = Welcome to Crime Assist!
-crime-assist-question-isitterrorism = Did the suspect hold hostages, cause many deaths or major destruction to force compliance from the crew?
-crime-assist-question-wassomeoneattacked = Was an entity attacked?
-crime-assist-question-wasitsophont = Was the victim in question a sophont?
-crime-assist-question-didvictimdie = Did the victim die as a result to the attack?
-crime-assist-question-isvictimremovedfrombody = Is the victim alive, but intentionally and permanently removed from the body?
-crime-assist-question-wasdeathintentional = Did the suspect attack the victim with intent to kill?
-crime-assist-question-forcedmindbreakertoxin = Was the victim forced to take Mindbreaker Toxin?
-crime-assist-question-hadillicititem = Did the suspect have an illicit or controlled item, substance or entity?
-crime-assist-question-wasitaperson = Did the suspect hold another sophont against its will?
-crime-assist-question-wassuspectselling = Was the suspect selling or distributing the illicit items?
-crime-assist-question-wassuspectseentaking = Can it be proven that the suspect took the item knowing that it was illegal for the suspect to possess the item?
-crime-assist-question-isitemextremelydangerous = Is the item in question dangerous to other sophonts or the station as a whole?
-crime-assist-question-wassuspectinarestrictedlocation = Was the suspect in a restricted location, or anywhere the suspect did not have legal access to?
-crime-assist-question-wasentrancelocked = Did the suspect force through a locked access point to get to the location?
-crime-assist-question-didsuspectbreaksomething = Did the suspect break something?
-crime-assist-question-weretheremanysuspects = Were there many suspects in a group causing a disturbance?
-crime-assist-question-wasdamagesmall = Was the damage minor, or easily undone?
-crime-assist-question-wasdestroyeditemimportanttostation = Was the damaged or destroyed item important to the functioning of the station?
-crime-assist-question-islargepartofstationdestroyed = Was a large part of the station destroyed or made uninhabitable?
-crime-assist-question-wascrimesexualinnature = Was the crime sexual in nature?
-crime-assist-question-wassuspectanuisance = Was the suspect being a nuisance to other sophonts?
-crime-assist-question-falselyreportingtosecurity = Has the suspect made a report, in person or through radio channels, to security that was proven to be intentionally false?
-crime-assist-question-happenincourt = Was the suspect a nuisance in court?
-crime-assist-question-duringactiveinvestigation = Was the suspect a nuisance during an active investigation, and hindered the investigation as a result?
-crime-assist-question-tocommandstaff = Did the suspect overthrow or compromise a lawfully established Chain of Command, or attempt to do so?
-crime-assist-question-wasitcommanditself = Was a command staff or department head abusing authority over another sophont?
-crime-assist-crimedetail-innocent = Crime could not be determined. Use your best judgement to resolve the situation.
-crime-assist-crimedetail-animalcruelty = To inflict unnecessary suffering on a sapient being with malicious intent.
-crime-assist-crimedetail-theft = To unlawfully take property or items without consent.
-crime-assist-crimedetail-trespass = To enter into an area where one is not authorised nor invited.
-crime-assist-crimedetail-vandalism = To deface or superficially damage public property, or property belonging to another person.
-crime-assist-crimedetail-hooliganism = To intentionally and maliciously engage in disruptive conduct, where one refuses to cease.
-crime-assist-crimedetail-manslaughter = To effect violence upon a sophont, resulting in their death, without the apparent intent to kill them.
-crime-assist-crimedetail-grandtheft = To unlawfully take highly restricted, dangerous, valuable, or highly sensitive property or items without consent.
-crime-assist-crimedetail-blackmarketeering = To sell, distribute, or otherwise circulate restricted items or substances to unauthorised sophonts or entities.
-crime-assist-crimedetail-sabotage = To engage in malicious actions that directly or indirectly hinder the operation of a vessel or its part, modify and/or damage technology one is not authorised to access, or endanger multiple sophonts.
-crime-assist-crimedetail-mindbreaking = To unlawfully and maliciously rid a psionic sophont of their powers.
-crime-assist-crimedetail-assault = To cause physical harm or to effect unwanted physical contact on a sophont, without the apparent intent to kill them, or to threaten such actions with both capability and intent to do so.
-crime-assist-crimedetail-abuseofpower = To intentionally misuse or wrongfully exercise one’s own authority, influence, or control, resulting in harm, unjust treatment, or demonstrable loss to a separate party due to violation of ethical and professional standards.
-crime-assist-crimedetail-possession = To be in unauthorised possession of restricted items or items of particular danger.
-crime-assist-crimedetail-endangerment = To recklessly abandon obligations involving the continued wellbeing and/or protection of life and property, through malpractice, action, or inaction.
-crime-assist-crimedetail-breakingandentering = To break and enter into a high security area where one is not authorised nor invited, with intent to commit a crime within.
-crime-assist-crimedetail-rioting = To partake in an unauthorised riotous, tumultuous, and disruptive public assembly that refuses to disperse after warning.
-crime-assist-crimedetail-contemptofcourt = To conduct oneself disruptively and disrespectfully before the court.
-crime-assist-crimedetail-perjuryfalsereport = To wilfully and maliciously tell an untruth either in court or in the process of making an actionable report to law enforcement.
-crime-assist-crimedetail-obstructionofjustice = To wilfully disobey, interfere with, or refuse a decree of the court, warrant, or arrest.
-crime-assist-crimedetail-murder = To kill a sophont with malicious intent and premeditation.
-crime-assist-crimedetail-terrorism = To commit an act with the intent to cause injury or death, or to take hostages, in order to provoke a state of terror in, intimidate, or compel a group of sophonts to do or to abstain from doing any act.
-crime-assist-crimedetail-grandsabotage = To engage in malicious actions that directly or indirectly make uninhabitable or inoperable a vessel or its part, or irreversibly modify and/or damage technology one is not authorised to access, causing severe bodily harm or death to multiple sophonts.
-crime-assist-crimedetail-decorporealisation = To unlawfully, maliciously, and permanently strip a sophont’s mind from their body.
-crime-assist-crimedetail-kidnapping = To unlawfully confine or restrict the free movement of a sophont against their will.
-crime-assist-crimedetail-sedition = To act to overthrow a lawfully established Chain of Command or governing body without lawful or legitimate cause.
-crime-assist-crimedetail-sexualharassment = To sexually harass, attempt to coerce into sexual relations, or effect unwanted sexual contact with an unwilling sophont.
-crime-assist-crimepunishment-innocent = No punishment may be necessary
-crime-assist-crimepunishment-animalcruelty = Punishment: 3 minutes
-crime-assist-crimepunishment-theft = Punishment: 2 minutes
-crime-assist-crimepunishment-trespass = Punishment: 2 minutes
-crime-assist-crimepunishment-vandalism = Punishment: 2 minutes
-crime-assist-crimepunishment-hooliganism = Punishment: As necessary
-crime-assist-crimepunishment-manslaughter = Punishment: 8 minutes
-crime-assist-crimepunishment-grandtheft = Punishment: 8 minutes
-crime-assist-crimepunishment-blackmarketeering = Punishment: 6 minutes
-crime-assist-crimepunishment-sabotage = Punishment: 6 minutes
-crime-assist-crimepunishment-mindbreaking = Punishment: 5 minutes
-crime-assist-crimepunishment-assault = Punishment: 5 minutes
-crime-assist-crimepunishment-abuseofpower = Punishment: 5 minutes
-crime-assist-crimepunishment-possession = Punishment: Up to 5 minutes
-crime-assist-crimepunishment-endangerment = Punishment: 4 minutes
-crime-assist-crimepunishment-breakingandentering = Punishment: 4 minutes
-crime-assist-crimepunishment-rioting = Punishment: 4 minutes
-crime-assist-crimepunishment-contemptofcourt = Punishment: 4 minutes
-crime-assist-crimepunishment-perjuryfalsereport = Punishment: 3 minutes
-crime-assist-crimepunishment-obstructionofjustice = Punishment: 2 minutes
-crime-assist-crimepunishment-murder = Punishment: Capital
-crime-assist-crimepunishment-terrorism = Punishment: Capital
-crime-assist-crimepunishment-grandsabotage = Punishment: Capital
-crime-assist-crimepunishment-decorporealisation = Punishment: Capital
-crime-assist-crimepunishment-kidnapping = Punishment: Capital
-crime-assist-crimepunishment-sedition = Punishment: Capital
-crime-assist-crimepunishment-sexualharassment = Punishment: Capital
-crime-assist-sophont-explanation = A sophont is described as any entity with the capacity to display the following attributes:
-                                   • [bold]Sapience[/bold]: the entity possesses basic logic and problem-solving skills, or at a minimum some level of significant intelligence.
-                                   • [bold]Sentience[/bold]: the entity has the capacity to process an emotion or lack thereof, or at a minimum the ability to recognise its own pain.
-                                   • [bold]Self-awareness[/bold]: the entity is capable of altering its behaviour in a reasonable fashion as a result of stimuli, or at a minimum is capable of recognising its own sapience and sentience.
-                                   Any sophont is considered a legal person, regardless of origin or prior cognitive status. Much like any other intelligent organic, a sophont may press charges against crew and be tried for crimes.
+# SPDX-FileCopyrightText: 2024 BombasterDS <115770678+BombasterDS@users.noreply.github.com>  
+# SPDX-FileCopyrightText: 2024 Milon <milonpl.git@proton.me>  
+# SPDX-FileCopyrightText: 2024 Skubman <ba.fallaria@gmail.com>  
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>  
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>  
+# SPDX-FileCopyrightText: 2025 deltanedas <39013340+deltanedas@users.noreply.github.com>  
+# SPDX-FileCopyrightText: 2025 deltanedas <@deltanedas:kde.org>  
+# SPDX-FileCopyrightText: 2025 gus <august.eymann@gmail.com>  
+#  
+# SPDX-License-Identifier: AGPL-3.0-or-later  
 
-mail-metrics-program-name = MailMetrics
-mail-metrics-header = Income from Mail Deliveries
-mail-metrics-opened = Earnings (Opened)
-mail-metrics-expired = Losses (Expired)
-mail-metrics-damaged = Losses (Damaged)
-mail-metrics-tampered = Losses (Tampered)
-mail-metrics-unopened = Unopened
-mail-metrics-count-header = Packages
-mail-metrics-money-header = Spesos
-mail-metrics-total = Total
-mail-metrics-progress = {$opened} out of {$total} packages opened!
-mail-metrics-progress-percent = Success rate: {$successRate}%
+crime-assist-program-name = Asistente de Crímenes  
+crime-assist-yes-button = Sí  
+crime-assist-no-button = No  
+crime-assist-crimetype-innocent = Inocente  
+crime-assist-crimetype-misdemeanour = Delito menor  
+crime-assist-crimetype-felony = felony  
+crime-assist-crimetype-capital = Capital  
+crime-assist-crime-innocent = No se cometió ningún crimen  
+crime-assist-crime-animalcruelty = Código 101: Crueldad hacia los animales  
+crime-assist-crime-theft = Código 102: Robo  
+crime-assist-crime-trespass = Código 110: Allanamiento  
+crime-assist-crime-vandalism = Código 111: Vandalismo  
+crime-assist-crime-hooliganism = Código 112: Vandalismo grave  
+crime-assist-crime-manslaughter = Código 201: Homicidio involuntario  
+crime-assist-crime-grandtheft = Código 202: Gran robo  
+crime-assist-crime-blackmarketeering = Código 203: Mercado negro  
+crime-assist-crime-sabotage = Código 204: Sabotaje  
+crime-assist-crime-mindbreaking = Código 205: Ruptura mental  
+crime-assist-crime-assault = Código 206: Agresión  
+crime-assist-crime-abuseofpower = Código 207: Abuso de poder  
+crime-assist-crime-possession = Código 208: Posesión  
+crime-assist-crime-endangerment = Código 209: Poner en peligro  
+crime-assist-crime-breakingandentering = Código 210: Allanamiento con fuerza  
+crime-assist-crime-rioting = Código 211: Disturbios  
+crime-assist-crime-contemptofcourt = Código 212: Desacato al tribunal  
+crime-assist-crime-perjuryfalsereport = Código 213: Perjurio o informe falso  
+crime-assist-crime-obstructionofjustice = Código 214: Obstrucción a la justicia  
+crime-assist-crime-murder = Código 301: Asesinato  
+crime-assist-crime-terrorism = Código 303: Terrorismo  
+crime-assist-crime-grandsabotage = Código 304: Gran sabotaje  
+crime-assist-crime-decorporealisation = Código 305: Descarnación  
+crime-assist-crime-kidnapping = Código 309: Secuestro  
+crime-assist-crime-sedition = Código 311: Sedición  
+crime-assist-crime-sexualharassment = Código 314: Acoso sexual  
+crime-assist-mainmenu = ¡Bienvenido al Asistente de Crímenes!  
+crime-assist-question-isitterrorism = ¿El sospechoso tomó rehenes, causó muchas muertes o una gran destrucción para forzar el cumplimiento de la tripulación?  
+crime-assist-question-wassomeoneattacked = ¿Se atacó a una entidad?  
+crime-assist-question-wasitsophont = ¿La víctima era un sofón?  
+crime-assist-question-didvictimdie = ¿La víctima murió como resultado del ataque?  
+crime-assist-question-isvictimremovedfrombody = ¿La víctima está viva, pero intencional y permanentemente separada de su cuerpo?  
+crime-assist-question-wasdeathintentional = ¿El sospechoso atacó a la víctima con intención de matarla?  
+crime-assist-question-forcedmindbreakertoxin = ¿Se obligó a la víctima a tomar Toxina Rompe-mentes?  
+crime-assist-question-hadillicititem = ¿El sospechoso tenía un objeto, sustancia o entidad ilícita o controlada?  
+crime-assist-question-wasitaperson = ¿El sospechoso retuvo a otro sofón contra su voluntad?  
+crime-assist-question-wassuspectselling = ¿El sospechoso estaba vendiendo o distribuyendo los objetos ilícitos?  
+crime-assist-question-wassuspectseentaking = ¿Se puede probar que el sospechoso tomó el objeto sabiendo que era ilegal para él poseerlo?  
+crime-assist-question-isitemextremelydangerous = ¿El objeto en cuestión es peligroso para otros sofones o para la estación en su conjunto?  
+crime-assist-question-wassuspectinarestrictedlocation = ¿El sospechoso estaba en una ubicación restringida o en un lugar al que no tenía acceso legal?  
+crime-assist-question-wasentrancelocked = ¿El sospechoso forzó un punto de acceso bloqueado para llegar a la ubicación?  
+crime-assist-question-didsuspectbreaksomething = ¿El sospechoso rompió algo?  
+crime-assist-question-weretheremanysuspects = ¿Había muchos sospechosos en un grupo causando disturbios?  
+crime-assist-question-wasdamagesmall = ¿El daño fue menor o fácilmente reparable?  
+crime-assist-question-wasdestroyeditemimportanttostation = ¿El objeto dañado o destruido era importante para el funcionamiento de la estación?  
+crime-assist-question-islargepartofstationdestroyed = ¿Una gran parte de la estación fue destruida o quedó inhabitable?  
+crime-assist-question-wascrimesexualinnature = ¿El crimen fue de naturaleza sexual?  
+crime-assist-question-wassuspectanuisance = ¿El sospechoso estaba siendo una molestia para otros sofones?  
+crime-assist-question-falselyreportingtosecurity = ¿El sospechoso hizo un informe, en persona o por radio, a seguridad que se demostró que era intencionalmente falso?  
+crime-assist-question-happenincourt = ¿El sospechoso fue una molestia en el tribunal?  
+crime-assist-question-duringactiveinvestigation = ¿El sospechoso fue una molestia durante una investigación activa y obstaculizó la investigación como resultado?  
+crime-assist-question-tocommandstaff = ¿El sospechoso derrocó o comprometió una Cadena de Mando establecida legalmente, o intentó hacerlo?  
+crime-assist-question-wasitcommanditself = ¿Un miembro del personal de mando o jefe de departamento abusó de su autoridad sobre otro sofón?  
+crime-assist-crimedetail-innocent = No se pudo determinar el crimen. Usa tu mejor juicio para resolver la situación.  
+crime-assist-crimedetail-animalcruelty = Infligir sufrimiento innecesario a un ser sapiente con intención maliciosa.  
+crime-assist-crimedetail-theft = Tomar propiedad o artículos sin consentimiento de manera ilegal.  
+crime-assist-crimedetail-trespass = Entrar en un área donde no se está autorizado ni invitado.  
+crime-assist-crimedetail-vandalism = Dañar o desfigurar superficialmente propiedad pública o propiedad de otra persona.  
+crime-assist-crimedetail-hooliganism = Participar intencional y maliciosamente en conductas disruptivas, negándose a cesar.  
+crime-assist-crimedetail-manslaughter = Efectuar violencia sobre un sofón, resultando en su muerte, sin la aparente intención de matarlo.  
+crime-assist-crimedetail-grandtheft = Tomar de manera ilegal propiedad o artículos altamente restringidos, peligrosos, valiosos o altamente sensibles sin consentimiento.  
+crime-assist-crimedetail-blackmarketeering = Vender, distribuir o circular artículos o sustancias restringidas a sofones o entidades no autorizadas.  
+crime-assist-crimedetail-sabotage = Participar en acciones maliciosas que directa o indirectamente obstaculicen la operación de una nave o parte de ella, modifiquen y/o dañen tecnología a la que no se está autorizado a acceder, o pongan en peligro a múltiples sofones.  
+crime-assist-crimedetail-mindbreaking = Privar de manera ilegal y maliciosa a un sofón psiónico de sus poderes.  
+crime-assist-crimedetail-assault = Causar daño físico o efectuar contacto físico no deseado sobre un sofón, sin la aparente intención de matarlo, o amenazar con tales acciones con capacidad e intención de hacerlo.  
+crime-assist-crimedetail-abuseofpower = Usar intencionalmente de manera indebida o ejercer de manera incorrecta la propia autoridad, influencia o control, resultando en daño, trato injusto o pérdida demostrable para una parte separada debido a la violación de estándares éticos y profesionales.  
+crime-assist-crimedetail-possession = Estar en posesión no autorizada de artículos restringidos o artículos de particular peligro.  
+crime-assist-crimedetail-endangerment = Abandonar de manera imprudente las obligaciones relacionadas con el bienestar continuo y/o la protección de la vida y la propiedad, a través de mala praxis, acción o inacción.  
+crime-assist-crimedetail-breakingandentering = Forzar y entrar en un área de alta seguridad donde no se está autorizado ni invitado, con intención de cometer un crimen dentro.  
+crime-assist-crimedetail-rioting = Participar en una asamblea pública tumultuosa, disruptiva y no autorizada que se niega a dispersarse después de una advertencia.  
+crime-assist-crimedetail-contemptofcourt = Comportarse de manera disruptiva e irrespetuosa ante el tribunal.  
+crime-assist-crimedetail-perjuryfalsereport = Decir intencional y maliciosamente una falsedad ya sea en el tribunal o en el proceso de hacer un informe accionable a las fuerzas del orden.  
+crime-assist-crimedetail-obstructionofjustice = Desobedecer, interferir o rechazar de manera intencional un decreto del tribunal, orden o arresto.  
+crime-assist-crimedetail-murder = Matar a un sofón con intención maliciosa y premeditación.  
+crime-assist-crimedetail-terrorism = Cometer un acto con la intención de causar lesiones o muerte, o tomar rehenes, para provocar un estado de terror, intimidar o obligar a un grupo de sofones a hacer o abstenerse de hacer cualquier acto.  
+crime-assist-crimedetail-grandsabotage = Participar en acciones maliciosas que directa o indirectamente hagan inhabitable o inoperable una nave o parte de ella, o modifiquen y/o dañen de manera irreversible tecnología a la que no se está autorizado a acceder, causando daño corporal severo o muerte a múltiples sofones.  
+crime-assist-crimedetail-decorporealisation = Separar de manera ilegal, maliciosa y permanente la mente de un sofón de su cuerpo.  
+crime-assist-crimedetail-kidnapping = Confinar o restringir de manera ilegal el movimiento libre de un sofón contra su voluntad.  
+crime-assist-crimedetail-sedition = Actuar para derrocar una Cadena de Mando o cuerpo gobernante establecido legalmente sin causa legítima o legal.  
+crime-assist-crimedetail-sexualharassment = Acosar sexualmente, intentar coaccionar en relaciones sexuales o efectuar contacto sexual no deseado con un sofón no dispuesto.  
+crime-assist-crimepunishment-innocent = No puede ser necesario ningún castigo  
+crime-assist-crimepunishment-animalcruelty = Castigo: 3 minutos  
+crime-assist-crimepunishment-theft = Castigo: 2 minutos  
+crime-assist-crimepunishment-trespass = Castigo: 2 minutos  
+crime-assist-crimepunishment-vandalism = Castigo: 2 minutos  
+crime-assist-crimepunishment-hooliganism = Castigo: Según sea necesario  
+crime-assist-crimepunishment-manslaughter = Castigo: 8 minutos  
+crime-assist-crimepunishment-grandtheft = Castigo: 8 minutos  
+crime-assist-crimepunishment-blackmarketeering = Castigo: 6 minutos  
+crime-assist-crimepunishment-sabotage = Castigo: 6 minutos  
+crime-assist-crimepunishment-mindbreaking = Castigo: 5 minutos  
+crime-assist-crimepunishment-assault = Castigo: 5 minutos  
+crime-assist-crimepunishment-abuseofpower = Castigo: 5 minutos  
+crime-assist-crimepunishment-possession = Castigo: Hasta 5 minutos  
+crime-assist-crimepunishment-endangerment = Castigo: 4 minutos  
+crime-assist-crimepunishment-breakingandentering = Castigo: 4 minutos  
+crime-assist-crimepunishment-rioting = Castigo: 4 minutos  
+crime-assist-crimepunishment-contemptofcourt = Castigo: 4 minutos  
+crime-assist-crimepunishment-perjuryfalsereport = Castigo: 3 minutos  
+crime-assist-crimepunishment-obstructionofjustice = Castigo: 2 minutos  
+crime-assist-crimepunishment-murder = Castigo: Capital  
+crime-assist-crimepunishment-terrorism = Castigo: Capital  
+crime-assist-crimepunishment-grandsabotage = Castigo: Capital  
+crime-assist-crimepunishment-decorporealisation = Castigo: Capital  
+crime-assist-crimepunishment-kidnapping = Castigo: Capital  
+crime-assist-crimepunishment-sedition = Castigo: Capital  
+crime-assist-crimepunishment-sexualharassment = Castigo: Capital  
+crime-assist-sophont-explanation = Un sofón se describe como cualquier entidad con la capacidad de mostrar los siguientes atributos:  
+                                   • [negrita]Sapiencia[/negrita]: la entidad posee habilidades básicas de lógica y resolución de problemas, o al menos algún nivel de inteligencia significativa.  
+                                   • [negrita]Sensibilidad[/negrita]: la entidad tiene la capacidad de procesar una emoción o la falta de ella, o al menos la capacidad de reconocer su propio dolor.  
+                                   • [negrita]Autoconciencia[/negrita]: la entidad es capaz de alterar su comportamiento de manera razonable como resultado de estímulos, o al menos es capaz de reconocer su propia sapiencia y sensibilidad.  
+                                   Cualquier sofón se considera una persona legal, independientemente de su origen o estado cognitivo previo. Al igual que cualquier otro ser orgánico inteligente, un sofón puede presentar cargos contra la tripulación y ser juzgado por crímenes.  
 
-## NanoChat
+mail-metrics-program-name = Métricas de Correo  
+mail-metrics-header = Ingresos por Entregas de Correo  
+mail-metrics-opened = Ganancias (Abiertos)  
+mail-metrics-expired = Pérdidas (Caducados)  
+mail-metrics-damaged = Pérdidas (Dañados)  
+mail-metrics-tampered = Pérdidas (Manipulados)  
+mail-metrics-unopened = Sin abrir  
+mail-metrics-count-header = Paquetes  
+mail-metrics-money-header = Spesos  
+mail-metrics-total = Total  
+mail-metrics-progress = ¡{$opened} de {$total} paquetes abiertos!  
+mail-metrics-progress-percent = Tasa de éxito: {$successRate}%  
 
-# General
-nano-chat-program-name = NanoChat
-nano-chat-title = NanoChat
-nano-chat-new-chat = New Chat
-nano-chat-contacts = CONTACTS
-nano-chat-no-chats = No active chats
-nano-chat-select-chat = Select a chat to begin
-nano-chat-message-placeholder = Type a message...
-nano-chat-send = Send
-nano-chat-delete = Delete
-nano-chat-loading = Loading...
-nano-chat-message-too-long = Message too long ({$current}/{$max} characters)
-nano-chat-max-recipients = Maximum number of chats reached
-nano-chat-new-message-title = Message from {$sender}
-nano-chat-new-message-body = {$message}
-nano-chat-toggle-mute = Mute notifications
-nano-chat-delivery-failed = Failed to deliver
-nano-chat-look-up-no-server = No valid telecommunications server found
-nano-chat-look-up = Look up numbers
-nano-chat-list-number = List number
+## NanoChat  
 
-# Create chat popup
-nano-chat-new-title = Add a new chat
-nano-chat-number-label = Number
-nano-chat-name-label = Name
-nano-chat-job-label = Job title
-nano-chat-number-placeholder = Enter a number
-nano-chat-name-placeholder = Enter a name
-nano-chat-job-placeholder = Enter a job title (optional)
-nano-chat-cancel = Cancel
-nano-chat-create = Create
+# General  
+nano-chat-program-name = NanoChat  
+nano-chat-title = NanoChat  
+nano-chat-new-chat = Nuevo Chat  
+nano-chat-contacts = CONTACTOS  
+nano-chat-no-chats = No hay chats activos  
+nano-chat-select-chat = Selecciona un chat para comenzar  
+nano-chat-message-placeholder = Escribe un mensaje...  
+nano-chat-send = Enviar  
+nano-chat-delete = Eliminar  
+nano-chat-loading = Cargando...  
+nano-chat-message-too-long = Mensaje demasiado largo ({$current}/{$max} caracteres)  
+nano-chat-max-recipients = Se alcanzó el número máximo de chats  
+nano-chat-new-message-title = Mensaje de {$sender}  
+nano-chat-new-message-body = {$message}  
+nano-chat-toggle-mute = Silenciar notificaciones  
+nano-chat-delivery-failed = Error al entregar  
+nano-chat-look-up-no-server = No se encontró un servidor de telecomunicaciones válido  
+nano-chat-look-up = Buscar números  
+nano-chat-list-number = Listar número  
 
-# LogProbe additions
-log-probe-scan-nanochat = Scanned {$card}'s NanoChat logs
-log-probe-header-access = Access Log Scanner
-log-probe-header-nanochat = NanoChat Log Scanner
-log-probe-label-message = Message
-log-probe-card-number = Card: {$number}
-log-probe-recipients = {$count} Recipients
-log-probe-recipient-list = Known Recipients:
+# Crear ventana emergente de chat  
+nano-chat-new-title = Agregar un nuevo chat  
+nano-chat-number-label = Número  
+nano-chat-name-label = Nombre  
+nano-chat-job-label = Título del trabajo  
+nano-chat-number-placeholder = Ingresa un número  
+nano-chat-name-placeholder = Ingresa un nombre  
+nano-chat-job-placeholder = Ingresa un título de trabajo (opcional)  
+nano-chat-cancel = Cancelar  
+nano-chat-create = Crear  
+
+# Adiciones de LogProbe  
+log-probe-scan-nanochat = Escaneados los registros de NanoChat de {$card}  
+log-probe-header-access = Escáner de Registro de Acceso  
+log-probe-header-nanochat = Escáner de Registro de NanoChat  
+log-probe-label-message = Mensaje  
+log-probe-card-number = Tarjeta: {$number}  
+log-probe-recipients = {$count} Destinatarios  
+log-probe-recipient-list = Destinatarios conocidos:  
 log-probe-message-format = {$sender} → {$recipient}: {$content}

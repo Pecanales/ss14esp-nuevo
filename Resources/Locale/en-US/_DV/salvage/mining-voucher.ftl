@@ -4,39 +4,39 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mining-voucher-select-first = Select a kit to redeem first!
-mining-voucher-unpowered = {CAPITALIZE(THE($vendor))} is unpowered!
-mining-voucher-selected = Selected {$kit}!
+mining-voucher-select-first = ¡Selecciona un kit para canjearlo primero!
+mining-voucher-unpowered = {CAPITALIZE(THE($vendor))} ¡No tiene energía!
+mining-voucher-selected = Seleccionado {$kit}!
 
-mining-voucher-crusher-name = Crusher Kit
+mining-voucher-crusher-name = Kit de trituradora
 mining-voucher-crusher-description =
-    Contains a kinetic crusher and a pocket fire extinguisher.
-    The crusher is a versatile melee mining tool capable both of mining and fighting local fauna.
-    However, it is difficult to use effectively for anyone but most skilled and/or suicidal miners.
+    Contiene una trituradora cinética y un extintor de incendios de bolsillo.
+    La trituradora es una herramienta de minería cuerpo a cuerpo versátil capaz tanto de extraer como de luchar contra la fauna local.
+    Sin embargo, es difícil de utilizar de manera efectiva para cualquiera que no sea los mineros más hábiles y/o suicidas.
 
-mining-voucher-extraction-name = Extraction and Rescue Kit
+mining-voucher-extraction-name = Kit de Extracción y Rescate
 mining-voucher-extraction-description =
-    Contains a fulton beacon and 20 fultons, which allows you to send minerals,
-    items and dead bodies back home without having to use the mining shuttle.
-    As a bonus, you get 30 marker beacons to help you better mark your path.
+    Contiene una baliza de fulton y 20 fultones, que permite enviar minerales,
+    objetos y cadáveres de vuelta a casa sin tener que utilizar el transbordador minero.
+    Como beneficio adicional, obtienes 30 balizas marcadoras para ayudarte a marcar mejor tu camino.
 
-mining-voucher-resonator-name = Resonator Kit
+mining-voucher-resonator-name = Kit de resonador
 mining-voucher-resonator-description =
-    Contains a resonator and a pocket fire extinguisher.
-    The resonator is a handheld device that creates small fields
-    of energy that resonate until they detonate, crushing rock.
-    It does increased damage in low pressure.
+    Contiene un resonador y un extintor de incendios de bolsillo.
+    El resonador es un dispositivo portátil que crea pequeños campos.
+    de energía que resuenan hasta detonar, aplastando la roca.
+    Causa un mayor daño en baja presión.
 
-mining-voucher-survival-name = Survival Capsule and Explorer's Webbing
+mining-voucher-survival-name = Cápsula de supervivencia y red del explorador
 mining-voucher-survival-description =
-    Contains an explorer's webbing, which allows you to carry even more mining equipment, and a spare shelter capsule to go with it.
+    Contiene una red de explorador, que te permite llevar aún más equipo de minería, y una cápsula de refugio de repuesto para acompañarla.
 
-mining-voucher-minebot-name = Minebot Kit
+mining-voucher-minebot-name = Kit de robot minero
 mining-voucher-minebot-description =
-    Contains a little minebot companion that helps you in storing ore and hunting wildlife.
-    Also comes with an upgraded industrial welding tool, a welding mask and a KA modkit that allows shots to pass through the minebot.
+   Contiene un pequeño compañero minebot que te ayuda a almacenar minerales y cazar vida silvestre.
+    También viene con una herramienta de soldadura industrial mejorada, una máscara de soldadura y un modkit KA que permite que los disparos pasen a través del minebot.
 
-mining-voucher-conscription-name = Mining Conscription Kit
+mining-voucher-conscription-name = Kit de reclutamiento minero
 mining-voucher-conscription-description =
-    Contains a whole new mining starter kit for one crewmember, including
-    a proto-kinetic accelerator, mineral scanner and other useful gear.
+    Contiene un kit de inicio de minería completamente nuevo para un miembro de la tripulación, que incluye
+    un acelerador protocinético, un escáner de minerales y otros equipos útiles.

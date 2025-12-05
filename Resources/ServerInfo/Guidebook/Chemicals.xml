@@ -9,11 +9,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Chemicals
+# Productos químicos
 
-Chemicals are a powerful tool that can cause a variety of effects when consumed. Some can be found in plants, purchased from cargo, or be synthesized through combination with other chemicals.
+Los productos químicos son una herramienta poderosa que puede causar una variedad de efectos cuando se consumen. Algunos se pueden encontrar en plantas, comprarse en cargamentos o sintetizarse mediante combinación con otras sustancias químicas.
 
-Knowing different types of chemicals and their effects is important for being able to manage injury and danger.
+Conocer los diferentes tipos de sustancias químicas y sus efectos es importante para poder controlar las lesiones y los peligros.
 
 ## Elements
 <GuideReagentGroupEmbed Group="Elements"/>

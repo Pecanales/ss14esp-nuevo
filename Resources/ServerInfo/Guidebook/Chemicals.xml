@@ -15,33 +15,33 @@ Los productos químicos son una herramienta poderosa que puede causar una varied
 
 Conocer los diferentes tipos de sustancias químicas y sus efectos es importante para poder controlar las lesiones y los peligros.
 
-## Elements
+## elementos
 <GuideReagentGroupEmbed Group="Elements"/>
 
-## Medicine
+## medicina
 <GuideReagentGroupEmbed Group="Medicine"/>
 
-## Narcotics
+## narcoticos
 <GuideReagentGroupEmbed Group="Narcotics"/>
 
-## Pyrotechnics
+## pirotecnia
 <GuideReagentGroupEmbed Group="Pyrotechnic"/>
 
-## Toxins
+## toxinas
 <GuideReagentGroupEmbed Group="Toxins"/>
 
-## Foods
+## comida
 <GuideReagentGroupEmbed Group="Foods"/>
 
-## Botanical
+## botanica
 <GuideReagentGroupEmbed Group="Botanical"/>
 
-## Biological
+## biologico
 <GuideReagentGroupEmbed Group="Biological"/>
 
-## Special
+## especial
 <GuideReagentGroupEmbed Group="Special"/>
 
-## Other
+## otros
 <GuideReagentGroupEmbed Group="Unknown"/>
 </Document>

@@ -1,92 +1,93 @@
 <Document>
-  # Void Summons
+ # Invocaciones del vacio
 
-  Void summons are special minions summoned by the Wraith with skills that can put even robust crewmembers to shame. Fighting one alone is generally never recommended.
-  While not entirely meant for being killing machines by themselves, together with the Wraith and their lesser minions, a void summon can easily become a major pain in the neck.
 
-  # Skeleton Commander
+  Las invocaciones del vacío son minions especiales convocados por los Wraith con habilidades que pueden avergonzar incluso a los miembros más robustos de la tripulación. Por lo general, nunca se recomienda luchar contra uno solo.
+  Si bien no están completamente destinados a ser máquinas de matar por sí mismos, junto con los Wraith y sus secuaces menores, una invocación del vacío puede convertirse fácilmente en un gran dolor de cabeza.
+
+  # Comandante esqueleto
   <Box>
     <GuideEntityEmbed Entity="MobSkeletonCommander" Caption=""/>
   </Box>
 
-  The tanky backbone of your army, skeleton commanders can hold the line and boost nearby minions.
+  Los comandantes esqueléticos, la columna vertebral de tu ejército, pueden mantener la línea y potenciar a los súbditos cercanos.
 
-  ## Skills
+  ## Habilidades
 
-  Don't expect to do much yourself to the crewmembers. You actions mostly rely on sending others to do the work for you.
+  No espere hacer mucho por los miembros de la tripulación. Sus acciones dependen principalmente de enviar a otros a hacer el trabajo por usted.
 
-  ### Rally
+  ### manifestación
 
-  - Buffs all surrounding allied critters, giving them a temporary boost in combat.
+  - Mejora a todos los bichos aliados circundantes, dándoles un impulso temporal en combate.
 
-  Best used when multiple summons are grouped together to maximize your army’s impact.
+  Se utiliza mejor cuando se agrupan varias convocatorias para maximizar el impacto de su ejército.
 
-  ### Summon Lesser Skeleton
+  ### Invocar esqueleto menor
 
-  - Spawns in a singular lesser skeleton to help you in whatever you are doing. The skeleton is mindless, and should generally be used right before a scuffle.
-  - The lesser skeleton does not have a lot of health, but they can cause a lot of damage while rallied.
-
-  # Tentacle Fiend
+  - Aparece en un esqueleto menor singular para ayudarte en cualquier cosa que estés haciendo. El esqueleto no tiene sentido y, por lo general, debe usarse justo antes de una pelea.
+  - Los esqueletos menores no tienen mucha salud, pero pueden causar mucho daño mientras se recuperan.
+  
+  # Demonio eldrich
   <Box>
     <GuideEntityEmbed Entity="MobVoidSpiker" Caption=""/>
   </Box>
 
-  Fast, ranged, and unpredictable. These fiends excel at controlling space and abducting targets to secure an easy kill for the Wraith.
-  Their meelee attacks, while extremely weak damage wise, quickly cause the target to be knocked out.
+ Rápido, a distancia e impredecible. Estos demonios se destacan en el control del espacio y en la abducción de objetivos para asegurar una muerte fácil para los Wraith.
+  Sus ataques cuerpo a cuerpo, aunque son extremadamente débiles en cuanto a daño, rápidamente hacen que el objetivo quede inconsciente.
 
-  ## Skills
+  ## Habilidades
 
-  You have the perfect set of tools for kidnapping. 
+  Tienes el conjunto perfecto de herramientas para secuestrar. 
 
-  ### Tentacle Hook
+  ### Gancho tentáculo
 
-  - Launch a tentacle at a target and drag them toward the fiend.
-  - While the target can try and run from the hook, it will always, inevitable, drag them into the fiend.
+  - Lanza un tentáculo a un objetivo y arrástralo hacia el demonio.
+  - Si bien el objetivo puede intentar huir del gancho, siempre, inevitablemente, lo arrastrará hacia el demonio.
 
-  ### Shuffle
+  ### Mezclar
 
-  - Compress your body to slip through doors, cancel stuns, and escape attacks.
-  - Prevents using other skills during the usage of this skill, so is generally only meant for evading rather than for engaging.
+  - Comprime tu cuerpo para atravesar puertas, cancelar aturdimientos y escapar de ataques.
+  - Impide el uso de otras habilidades durante el uso de esta habilidad, por lo que generalmente solo está destinada a evadir en lugar de atacar.
 
-  ### Lash
+  ### Pestaña
 
-  - Stun a target, cause them to bleed, and do considerable damage.
-  - Best used together with the tentacle hook. As soon as the target is within reach, lash them, and abduct them into maints, never to be seen again.
-
-  # Void Hound
+  - Aturde a un objetivo, le hace sangrar y le causa un daño considerable.
+  - Se utiliza mejor junto con el gancho tentáculo. Tan pronto como el objetivo esté a tu alcance, azotalo y abducelo para que no vuelva a ser visto nunca más.
+  
+  #Sabueso del Vacío
   <Box>
     <GuideEntityEmbed Entity="MobVoidHound" Caption=""/>
   </Box>
 
-  Stealthy, fast, and deadly in close quarters. Void hounds are ideal for hit-and-run attacks and disruption.
-  The only minion from the Wraith capable of sprinting.
+  Sigiloso, rápido y mortal en espacios reducidos. Los perros del vacío son ideales para ataques y perturbaciones de atropello y fuga.
+  El único siervo de los Wraith capaz de correr.
 
-  ## Skills
+  ## Habilidades
 
-  Your actions are centered around catching people by surprise. 
+  Tus acciones se centran en coger a la gente por sorpresa. 
 
-  ### Cloak
+  ### Capa
 
-  - Become partially invisible and difficult to detect.
-  - Doesn't last for very long, but is good for sneaking up on targets.
-  - Can be used for retreating into the shadows as well.
+  - Volverse parcialmente invisible y difícil de detectar.
+  - No dura mucho, pero es bueno para acercarse sigilosamente a los objetivos.
+  - También se puede utilizar para retirarse a las sombras.
 
-  ### Rush Down
+  ### Correr hacia abajo
 
-  - Leap forward, knocking down the first person in your path and stunning in a large radius around where you land.
-  - Has a lenghthy cooldown, so use it to secure kills or to escape dire situations.
+  - Salta hacia adelante, derribando a la primera persona en tu camino y aturdiendo en un gran radio alrededor de donde aterrizas.
+  - Tiene un largo tiempo de reutilización, así que úsalo para asegurar muertes o escapar de situaciones extremas.
 
-  ### General Tips
+  ### Consejos generales
 
-  Skeleton commanders are capable of soaking a lot of shots, but their rallying action is quite invaluable for the other minions. Choose wisely whether you wish to tank for them, or to stay behind buffing them from the backline.
+  Los comandantes esqueléticos son capaces de aguantar muchos disparos, pero su acción de recuperación es invaluable para los otros minions. Elige sabiamente si deseas luchar por ellos o quedarte atrás para pulirlos desde la retaguardia.
 
-  Tentacle fiends excel at picking off targets from afar and killing them while they are incapable of fighting back. Once the deed is done, call over the Wraith to absorb the corpse, and rinse and repeat.
+  Los demonios tentáculo destacan por capturar objetivos desde lejos y matarlos mientras son incapaces de defenderse. Una vez realizado el acto, llama al Wraith para que absorba el cadáver, enjuágalo y repite.
 
-  Void hounds are your mobile assassins, but not very tanky. While your stun is extremely potent, it can leave you right in the lion's den if unprepared.
+  Los perros del vacío son tus asesinos móviles, pero no muy tanques. Si bien tu aturdimiento es extremadamente potente, puede dejarte en la guarida de los leones si no estás preparado.
 
-  Always consider positioning and timing. Summons can be fragile and die quickly if left unsupported.
+  Considere siempre el posicionamiento y el tiempo. Las invocaciones pueden ser frágiles y morir rápidamente si no se apoyan.
 
-  The Wraith should aim to combine minions with portals to maintain constant pressure and cause death en masse.
+  Los Wraith deberían intentar combinar minions con portales para mantener una presión constante y causar muerte en masa.
 
-  [textlink="Back to Harbinger of the Void" link="Harbinger"]
+  [textlink="Volver a Heraldo del Vacío" link="Harbinger"]
 </Document>

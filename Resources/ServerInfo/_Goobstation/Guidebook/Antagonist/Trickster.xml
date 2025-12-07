@@ -1,8 +1,8 @@
 <Document>
-  # Trickster
+  # Embaucador
   <Box>
     <GuideEntityEmbed Entity="MobWraithTrickster" Caption=""/>
-  </Box> "The greatest trick the devil ever pulled was convincing the world he didn't exist."
+  </Box> "El mayor truco que jamás hizo el diablo fue convencer al mundo de que no existía".
 
-  [textlink="Back to Wraith Evolutions" link="Wraiths"]
+  [textlink="Volver a las evoluciones de los espectros" link="Wraiths"]
 </Document>

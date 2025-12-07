@@ -1,9 +1,9 @@
 <Document>
-# Slasher
+# Cortador
 
-[color=#ac3a0d]An unstoppable 80's terror driven by vengeance, dread, and synth beats echoing through dark maintenance.[/color]
+[color=#ac3a0d]Un terror imparable de los 80 impulsado por la venganza, el miedo y los ritmos de sintetizador que resuenan a través del mantenimiento oscuro.[/color]
 
-The Slasher is a relentless horror that stalks isolated crew, harvesting their souls and growing stronger with every victim. It thrives on fear, appearing and vanishing between flickers of light and fresh trails of blood.
+El Slasher es un horror implacable que acecha a tripulaciones aisladas, cosechando sus almas y volviéndose más fuerte con cada víctima. Se alimenta del miedo, apareciendo y desapareciendo entre destellos de luz y frescos rastros de sangre.
 
 <Box>
   <GuideEntityEmbed Entity="ClothingHeadHatSlasherMask" Caption="Mask"/>
@@ -11,43 +11,43 @@ The Slasher is a relentless horror that stalks isolated crew, harvesting their s
   <GuideEntityEmbed Entity="SlasherMeatSpike" Caption="Meat Spike"/>
 </Box>
 
-  Unlike most midround antagonists the slasher starts off weak. For every soul they steal they gain that much more strength. If left unchecked they can quickly become a terrifying force.
+ A diferencia de la mayoría de los antagonistas de nivel medio, el slasher comienza débil. Por cada alma que roban, obtienen mucha más fuerza. Si no se controlan, pueden convertirse rápidamente en una fuerza aterradora.
 
-  ## Core Loop
-  1. Find isolated targets.
+  ## Bucle central
+  1. Encuentra objetivos aislados.
 
-  2. Incapacitate and absorb their soul.
+  2. Incapacitar y absorber su alma.
 
-  3. Repeat.
+  3. Repita.
 
-  4. Once you gain enough souls you can really start embodying the 80's slasher vibes.
+  4. Una vez que ganes suficientes almas, realmente podrás comenzar a encarnar las vibraciones slasher de los 80.
 
-  ## Abilities
+  ## Habilidades
 
-  [bold]Machete Summon[/bold] – You can always call your signature weapon back. This is a great skill if you lose your weapon or want to throw it at someone for some quick damage.
+  [bold]Invocación con machete[/bold] – Siempre puedes recuperar tu arma característica. Esta es una gran habilidad si pierdes tu arma o quieres arrojársela a alguien para causarle un daño rápido.
 
-  [bold]Soul Steal[/bold] – Can only be used on an incapicated or otherwise restrained target. For every soul stolen you gain more defense and increased damage. It is much more effective on alive targets. Victims become [italic]soulless[/italic] and receive a random negative devil clause.
+  [bold]Robo de alma[/bold] – Solo se puede utilizar en un objetivo incapacitado o restringido de otro modo. Por cada alma robada, obtienes más defensa y mayor daño. Es mucho más eficaz en objetivos vivos. Las víctimas se vuelven [italic]sin alma[/italic] y reciben una cláusula diabólica negativa aleatoria.
 
-  [bold]Massacre[/bold] – An incredibly strong move that's tied to your special machete. When first used you deal much less damage but the more hits you deal the more damage you deal. After a certain point you will start chopping off the victims limbs and at the 13th hit you decapitate them. Missing resets the combo.
+  [bold]Masacre[/bold] – Un movimiento increíblemente fuerte que está vinculado a tu machete especial. Cuando lo usas por primera vez, infliges mucho menos daño, pero cuantos más golpes infliges, más daño infliges. Después de cierto punto, comenzarás a cortar las extremidades de las víctimas y en el golpe número 13 las decapitarás. Falta restablece el combo.
 
-  [bold]Regeneration / Slasherium[/bold] – An incredibly robust source of healing. It rejuvanates you and takes off any restraints. It comes at the cost of an incredibly long cooldown.
+  [bold]Regeneración / Slasherium[/bold] – Una fuente de curación increíblemente sólida. Te rejuvenece y te quita cualquier atadura. Tiene el costo de un tiempo de reutilización increíblemente largo.
 
-  [bold]Blood Trail[/bold] – Leave a trail of blood in your wake. It also plays some music. Spooky!
+  [bold]Rastro de sangre[/bold] – Deja un rastro de sangre a tu paso. También reproduce algo de música. ¡Escalofriante!
 
-  [bold]Incorporeal / Corporealization[/bold] – Dissappear and reappear from the material realm. This is your main source of traversal. You cannot use it while seen.
+  [bold]Incorpóreo / Corporalización[/bold] – Desaparece y reaparece del reino material. Esta es su principal fuente de recorrido. No puedes usarlo mientras estás visto.
+  
+  [bold]Posesión[/bold] – Toma temporalmente el control del cuerpo de la víctima. Los escudos mentales lo bloquean.
 
-  [bold]Possession[/bold] – Temporarily take control of a victims body. Mindshields block it.
+  [bold]Púa de carne[/bold] – Puedes invocar una púa de carne que puedes usar para atrapar a tus víctimas. Es increíblemente útil para robar almas y evitar que la gente huya.
 
-  [bold]Meat Spike[/bold] – You can summon a meatspike that you can use to trap your victims in. It is incredibly useful for stealing souls and preventing people from running away.
+  [bold]Área escalonada[/bold]: ralentizas a todos los que están cerca de ti durante un breve período de tiempo. Muy útil para dar el salto a la gente.
 
-  [bold]Stagger Area[/bold] – You slow down everyone that's near you for a short amount of time. Very useful for getting the jump on people.
+  ## Jugando contra el Slasher
+  [bold]No deambule solo.[/bold].
+  - Son relativamente débiles cuando aparecen por primera vez en la estación.
+  - Cuando roban almas, se vuelven mucho más tanques y causan mucho más daño.
+  - Si te caen encima, no los pierdas de vista. Si los ves, no podrán escapar.
+  - Son débiles a santos. Pídele ayuda al sacerdote si te estás quedando sin fuerzas.
 
-  ## Playing Against The Slasher
-  [bold]Do not wander alone.[/bold].
-  - They are relatively weak when they first appear on the station.
-  - When they steal souls they become much more tankier and deal that much more damage.
-  - If you get the drop on them do not let them out of your sight. If you see them they can't escape.
-  - They are weak to holy. Get the chaplain to help out if you're running low on forces.
-
-[color=red][bold]You are the legend of the midnight massacre—make it feel like one.[/bold][/color]
+[color=rojo][bold]Eres la leyenda de la masacre de medianoche: haz que se sienta como tal.[/bold][/color]
 </Document>

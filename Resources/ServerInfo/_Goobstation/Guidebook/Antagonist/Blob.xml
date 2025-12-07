@@ -1,128 +1,116 @@
 <Document>
 # Blob
 
-[color=#ff0000]Confirmed level 5 biohazard aboard the station. All personnel must contain the outbreak.[/color]
+[color=#ff0000]Riesgo biológico de nivel 5 confirmado a bordo de la estación. Todo el personal debe contener el brote.[/color]
 
-A blob is a fast-growing dangerous organism whose main goal is to take over the station.
+Una masa es un organismo peligroso de rápido crecimiento cuyo principal objetivo es apoderarse de la estación.
   <Box>
     <GuideEntityEmbed Entity="CoreBlobTile" Caption="Blob"/>
 	<GuideEntityEmbed Entity="MobMouse" Caption="Carrier of the blob"/>
   </Box>
 
-You can become a blob carrier both at the beginning of the round and in the middle if you take on the role of a ghost. The carrier of the blob is a crewmate, or a mouse.
+	Puedes convertirte en portador del blob tanto al inicio de la ronda como en el transcurso de ella si tomas el rol de fantasma. Usualmente, el portador del blob es un humanoide con conciencia, o un ratón verde radiactivo especial.
 
-## Core
+	[bold]TEN EN CUENTA:[/bold] ¡TIENES un temporizador! Una vez que has sido seleccionado como portador del blob, tienes 10 minutos para encontrar un lugar donde instalarte. Pasados los 10 minutos, te transformarás automáticamente en un blob.
 
-The most important blob tile is the [color=#a4885c]Core[/color]. By destroying the Core, the blob will be defeated, and all its other tiles will die, turning white.
+	## Núcleo
 
-You can always see the core health on the right side of the screen as a percentage. Watch your core and don't let it be destroyed!
+	La célula más importante del blob es el [color=#a4885c]núcleo[/color]. Al destruir el núcleo, el blob será derrotado, y todas sus demás células morirán.
 
-There are 2 steps you can do with the Core: [color=#a4885c]transfer[/color] and [color=#a4885c]split[/color].
-- When a core is transferred, the selected node and kernel are swapped. This is useful in case the kernel location is not very secure.
-- When the core is split, the selected node becomes [color=#a4885c]new and independent core[/color]. Although this action requires a lot of points, in the long run, a new core can help you capture the station.
+	Siempre puedes ver la salud del núcleo en el lado derecho de la pantalla en porcentaje. ¡Vigila tu núcleo y no dejes que sea destruido!
 
-## Tile Types
+	Hay 2 acciones que puedes hacer con el núcleo: [color=#a4885c]transferir[/color] y [color=#a4885c]dividir[/color].
+	- Cuando transfieres el núcleo, el nodo seleccionado y el núcleo se intercambian. Esto es útil si la ubicación del núcleo no es muy segura.
+	- Cuando divides el núcleo, el nodo seleccionado se convierte en un [color=#a4885c]nuevo núcleo independiente[/color]. Aunque esta acción requiere muchos puntos, a largo plazo un nuevo núcleo puede ayudarte a capturar la estación.
 
-Normal tiles are extremely vulnerable to burns or even mechanical damage until they're upgraded.
-They can also be upgraded to strong versions, and then reflective versions, or turned into special blob tiles.
-[bold]You cannot upgrade strong/reflective tiles to special tiles![/bold]
+	## Tipos de Blob
 
-## Special tiles
+	Tu unidad común es una [bold]celda regular[/bold]. Las celdas normales son extremadamente vulnerables al fuego o incluso al daño mecánico.
+	También pueden mejorarse a versiones reforzadas, o convertirse en celdas especiales del blob.
 
-  <Box>
+	## Celdas especiales
+
+	<Box>
     <GuideEntityEmbed Entity="ResourceBlobTile" Caption="Resource Tile"/>
 	<GuideEntityEmbed Entity="FactoryBlobTile" Caption="Factory Tile"/>
 	<GuideEntityEmbed Entity="NodeBlobTile" Caption="Node Tile"/>
 
   </Box>
 
-- [color=#a4885c]Resource Tiles[/color] are constantly gaining points for all the actions the blob performs. These are your second most important tiles, before the Core.
-- [color=#a4885c]Factory Tiles[/color] creates Blob Pods and Blobbernauts to help fight against the station.
-- [color=#a4885c]Node Tiles[/color] allow you to place other blob tiles around it within a certain radius. They will also heal Zombies and Blobbernauts when close.
+	- El [color=#a4885c]Blob de recursos[/color] gana puntos constantemente por todas las acciones que realiza el blob.
+	- La [color=#a4885c]Fábrica de blob[/color] crea Pods de blob y Blobburnouts para ayudar a luchar contra la estación.
+	- El [color=#a4885c]Nodo de blob[/color] te permite colocar otras celdas de blob a su alrededor dentro de un cierto radio.
 
-## Minions
 
-  <Box>
+	## Minions
+
+	<Box>
     <GuideEntityEmbed Entity="MobBlobBlobbernaut" Caption="Blobbernaut"/>
 	<GuideEntityEmbed Entity="MobBlobPod" Caption="Blob Spore"/>
   </Box>
 
-Blob factories can produce Blob Spores and Blobbernauts, these are your bread and butter.
-Blob Spores have the ability to turn dead humanoids into zombie blobs, which will force them to fight on your side against the rest of the crew. They will also release a cloud of smoke on death, the effect depending on your chemical.
-- Blobbernauts deal a lot of damage, and are tanky, which will come in handy for attacking. They will also carry over any effects the Blob has, such as exploding whatever they punch!
+	Las fábricas de blob pueden producir Pods de blob y Blobburnouts.
+	- Los Pods de blob tienen la capacidad de convertir humanoides muertos en blobs zombis, forzándolos a luchar de tu lado contra el resto de la tripulación.
+	- Los Blobburnouts hacen mucho daño, lo cual resulta útil para atacar.
 
-## Management
+	## Gestión
 
-- To place a blob tile, click on an empty space. If a tile is occupied, or someone or something is standing on it, clicking on it will attack and deal damage.
-- Note that [color=#a4885c]you cannot place regular blob tiles far from blob nodes. Place blob nodes to be able to grow further.[/color]
-- By pressing Alt+LMB, you can upgrade normal tiles to strong tiles and strong tiles to reflective.
+	- Para colocar una celda de blob, haz clic en un espacio vacío. Si un espacio está ocupado, o alguien o algo está encima, al hacer clic atacarás y causarás daño.
+	- Ten en cuenta que [color=#a4885c]no puedes colocar celdas regulares de blob lejos de los nodos de blob[/color]. Coloca nodos para poder expandirte más lejos.
+	- Presionando Alt+LMB, puedes mejorar celdas normales a reforzadas, y celdas reforzadas a reflectoras.
 
-  <Box>
+	<Box>
     <GuideEntityEmbed Entity="StrongBlobTile" Caption="Strong tiles"/>
 	<GuideEntityEmbed Entity="ReflectiveBlobTile" Caption="Reflective tiles"/>
   </Box>
 
-## Special Abilities
+	## Habilidades especiales
 
-In the action bar, you can use special abilities that will allow you to perform important actions, such as placing special cells, or special actions with the core and chemicals.
+	En la barra de acciones, puedes usar habilidades especiales que te permitirán realizar acciones importantes, como colocar celdas especiales, o acciones específicas con el núcleo y los químicos.
 
-- [color=#a4885c]Changing chemicals[/color] allows you to change your chemical. Each has its own characteristics suitable for different situations.
-- [color=#a4885c]Demote Blob[/color] gives you the option to downgrade any blob cell back to normal for free. It is useful in order to correct the wrong placement, or placing a special tile.
+	- [color=#a4885c]Cambiar químico[/color] te permite cambiar tu químico a cualquiera de los 5 disponibles. Cada uno tiene características propias adecuadas para diferentes situaciones.
+	- [color=#a4885c]Degradar blob[/color] te da la opción de devolver cualquier celda del blob a normal gratuitamente. Es útil para corregir una colocación equivocada.
 
-## Chemicals
+	## Desarrollo de la ronda
 
-No, not the chemistry kind of chemicals, instead, you can change what your tiles, and blob drops do! There's several types of Chemicals-
+	A medida que el blob crece, la estación pasará por varias etapas.
 
-- Reactive Spines - Your default chemical. You'll deal 25 brute damage, and your Blob Drops will release a puff of smoke when killed.
+	- 1. [color=#a4885c]Etapa silenciosa[/color] - el blob aún no ha sido detectado, y puedes evolucionar tranquilamente mientras nadie sabe de ti.
+	- 2. [color=#a4885c]Detección de amenaza[/color] - tan pronto como el blob crece un poco, se activa el código Sigma y se declara el aislamiento total de la estación. La lanzadera de evacuación no puede ser llamada en este punto.
+	- 3. [color=#a4885c]Masa crítica[/color] - si el blob captura una parte significativa de la estación, se declara un código Gamma y llega un escuadrón CBRN para ayudar. El objetivo principal de todos los sobrevivientes en esta etapa es volar la estación, lo cual debes impedir como blob. (nota: CBRN actualmente no disponible)
+	- 4. [color=#a4885c]Victoria del blob[/color] - cuando un blob crece a un tamaño gigantesco, su crecimiento se vuelve incontrolable, terminando la ronda con la victoria del blob.
 
-- Blazing Oil - You deal 15 burn damage and light targets on fire. Your blob drops will release a cloud of smoke that sets anyone in it on fire.
+	A partir de la segunda etapa, el capitán tiene como prioridad proteger el disco de autenticación nuclear. Si lo pierdes, el blob no puede ser destruido en el código Gamma, ¡lo que da una victoria casi asegurada al blob!
 
-- Regenerative Materia - You deal 6 brute damage, and 15 toxin damage. Your core will also regenerate 10 times faster then it normally would, along with generating a extra resource. Your blob drops will also release a cloud of toxic smoke on death.
-
-- Explosive Lattice - You deal 5 burn damage, BUT, you explode your target, dealing 10 brute damage. You also well, explode things in general. Your drops will also explode on death. You will however, take even more burn damage and electrical damage.
-
-- Electomagnetic Web - You will deal 20 burn damage, and have a 20% chance to cause a EMP when attacking. Your tiles will also cause a EMP pulse when destroyed, you will however, take more brute and electrical damage. You're effectively a IPC's worst nightmare.
-
-## Course of the round
-
-As the blob grows, the station will pass through several stages.
-
-- 1. [color=#a4885c]Silent stage[/color] - The blob is still undetected, and you can (probably) grow and prepare while the crew still has no idea about your existence.
-- 2. [color=#a4885c]Biohazard detection[/color] - As soon as the blob grows a little, the station is automatically set to red, and complete isolation of the station is declared. The evacuation shuttle cannot be called at this point. If it was called, it will automatically be recalled.
-- 3. [color=#a4885c]Delta Alert[/color] - If the blob captures a significant part of the station, Delta Alert is triggered. The main goal of the station now is to detonate the nuke, and the nuke codes will be sent to a fax machine. Defeating a blob at this point is most likely impossible.
-- 4. [color=#a4885c]Critical Mass[/color] - If the blob captures a majority of the station, it reaches critical mass, causing the round to end with the blob winning.
-
-Starting from the second stage, the captain has a priority goal in the form of protecting the nuclear authentication disk. If you lose it, the blob cannot be destroyed in Delta, which gives an near guaranteed victory to the blob! If you are the captain, do NOT charge head first into the blob!!
-
-  <Box>
+	<Box>
     <GuideEntityEmbed Entity="NukeDisk" Caption="Nuclear Authentication Disk"/>
   </Box>
 
-## Some dude just turned the game into a RTS, what do?
+## Un tipo acaba de convertir el juego en un RTS, ¿qué haces?
 
-"Man, I love going to wor- wait, what do you mean there's a level 5 biohazard? AND WHY DO I HEAR BOSS MUSIC?!" is probably your first thought the first time you encounter a blob. Well, get ready to kick ass and chew bubblegum. But before you're so eager to go and either get turned into a blob zombie, or be in the frontline and be honored a hero, ask yourself the following questions;
+"Hombre, me encanta ir a trabajar. Espera, ¿qué quieres decir con que hay un riesgo biológico de nivel 5? ¡¿Y POR QUÉ ESCUCHO MÚSICA DE BOSS?!" Probablemente sea lo primero que piense la primera vez que se encuentre con una masa. Bueno, prepárate para patear traseros y masticar chicle. Pero antes de que estés tan ansioso por ir y convertirte en un zombi blob, o estar en primera línea y ser honrado como un héroe, hazte las siguientes preguntas;
 
-- 1. "Do I have the nuclear disk?" If your answer is yes, great, don't go into the blob and hug the nuke like it's your best friend.
+- 1. "¿Tengo el disco nuclear?" Si tu respuesta es sí, genial, no entres en la masa y abraces la bomba nuclear como si fuera tu mejor amiga.
 
-- 2. "Do I have a ranged weapon?" If your answer is no, go grab one, most preferably a Laser Rifle, and then ask yourself these questions again. Otherwise you'll be a nice zombie.
+- 2. "¿Tengo un arma a distancia?" Si su respuesta es no, tome uno, preferiblemente un rifle láser, y luego hágase estas preguntas nuevamente. De lo contrario serás un buen zombie.
 
-- 3. "Is the blob core exposed to space?" If your answer yes, go out into space and shoot as the Blob cries in the lack of things it can do against- wait, what do you mean the Blob moved its core?
+- 3. "¿Está el núcleo de la masa expuesto al espacio?" Si tu respuesta es sí, sal al espacio y dispara mientras el Blob llora por la falta de cosas que pueda hacer contra... espera, ¿qué quieres decir con que el Blob movió su núcleo?
 
-## A drop just turned me into a zombie, what do?
+## Una gota me acaba de convertir en zombie, ¿qué hago?
 
-Congrats, you died miserably and turned into a zombie. This isn’t your usual normal zombie, that’d be LAME! Instead, you can actually use your hands and be useful for once. And unlike a Blobbernaut, you can actually go outside of your blob's boundaries. Unfortunately, you cannot use guns, but melee weapons are free game. There are some responsibilites to being a zombie, for example;
+Felicidades, moriste miserablemente y te convertiste en un zombie. Este no es tu zombie normal habitual, ¡eso sería LAME! En cambio, puedes usar tus manos y ser útil por una vez. Y a diferencia de un Blobbernaut, puedes salir de los límites de tu blob. Desafortunadamente, no puedes usar armas, pero las armas cuerpo a cuerpo son un juego gratuito. Hay algunas responsabilidades por ser un zombie, por ejemplo;
 
-- Lynching whoever is trying to go near the nuke, unless it's already activated. If it is, there is nothing you can do.
+- Linchar a quien intente acercarse a la bomba nuclear, a menos que ya esté activada. Si es así, no hay nada que puedas hacer.
 
-- Dragging the person you just lynched with your zombie friends into the blob, for a fresh new friend!
+- ¡Arrastra a la persona que acabas de linchar con tus amigos zombies a la masa, para tener un nuevo amigo!
 
-- Using the tools you found, or had, to build up some defenses. Or at least until the blob rampages through them.
+- Usar las herramientas que encontraste o tenías para construir algunas defensas. O al menos hasta que la masa los arrase.
 
-Just remember blob drops take your head slot, and that once you fall into a critical condition, a crewmember can take the drop off, killing it instantly.
+Solo recuerda que las gotas de gotas ocupan el espacio de tu cabeza y que, una vez que caes en una condición crítica, un miembro de la tripulación puede quitarlas y matarlas instantáneamente.
 
-## Methods of control
+## Métodos de control
 
-As said before, the Blob is very weak to burn damage. As such, the following items are very good for fighting against it:
+Como se dijo antes, el Blob es muy débil al daño por quemaduras. Por ello, los siguientes elementos son muy buenos para luchar contra él:
 
   <Box>
     <GuideEntityEmbed Entity="MagazineBoxPistolIncendiary" Caption="Incendiary Rounds"/>

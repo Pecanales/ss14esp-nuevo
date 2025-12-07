@@ -1,95 +1,94 @@
 <Document>
-## Playing as a Xenomorph
+##Jugando como un xenomorfo
 
 <Box>
   <GuideEntityEmbed Entity="ResinWeedNode" Caption=""/>
 </Box>
 
-  ### Initial Spawn and Survival
+  ### Generación inicial y supervivencia
 
-  When you spawn as a xenomorph, you will always begin as a Larva.
-  Larvae are extremely vulnerable, and your sole objective is to survive long enough to evolve.
-  Use your hivemind language by pressing L (or language keybind) to communicate with other xenos.
+  Cuando engendras como xenomorfo, siempre comenzarás como Larva.
+  Las larvas son extremadamente vulnerables y tu único objetivo es sobrevivir el tiempo suficiente para evolucionar.
+  Utilice su lenguaje Hivemind presionando L (o combinación de teclas de idioma) para comunicarse con otros xenos.
 
-  If you spawn alone, finding safety is critical.
-  You can hide under tables and crawl through vents (alt+click) to escape danger.
-  Being space-proof also means you can wait safely on the station's exterior.
-  Once you have survived long enough on plasma weeds, you can evolve into an adult caste.
+  Si engendras solo, encontrar seguridad es fundamental.
+  Puedes esconderte debajo de las mesas y arrastrarte por los conductos de ventilación (alt+clic) para escapar del peligro.
+  Al ser a prueba de espacio también significa que puedes esperar de forma segura en el exterior de la estación.
+  Una vez que hayas sobrevivido el tiempo suficiente con las malas hierbas plasmáticas, podrás evolucionar hacia una casta adulta.
 
-  ### Resources and Abilities
+  ### Recursos y habilidades
 
-  Once you evolve, plasma becomes your primary resource.
-  You generate it over time and can spend it to plant weeds.
-  Weeds create resin floors that significantly boost your plasma regeneration, so begin planting them immediately to establish territory and accelerate your power.
-  Adult xenomorphs share several powerful abilities:
-  - Corrosive Acid: A spit that slowly melts walls, doors, and other structures.
-  Use it to break into secure areas and reshape the station.
-  - Neurotoxin Spit: A ranged attack that stuns your target.
-  Ready the ability, then click your target to fire.
+  Una vez que evolucionas, el plasma se convierte en tu recurso principal.
+  Lo generas con el tiempo y puedes gastarlo en plantar malezas.
+  Las malas hierbas crean suelos de resina que aumentan significativamente tu regeneración de plasma, así que empieza a plantarlas inmediatamente para establecer territorio y acelerar tu poder.
+  Los xenomorfos adultos comparten varias habilidades poderosas:
+  - Ácido corrosivo: una saliva que derrite lentamente paredes, puertas y otras estructuras.
+  Úselo para entrar en áreas seguras y remodelar la estación.
+  - Neurotoxin Spit: un ataque a distancia que aturde a tu objetivo.
+  Prepara la habilidad, luego haz clic en tu objetivo para disparar.
 
-  - Innate Abilities: All adults have night vision, can see humans through walls, and can pry open airlocks.
+  - Habilidades innatas: todos los adultos tienen visión nocturna, pueden ver a los humanos a través de las paredes y pueden abrir esclusas de aire.
 
-  ### The First Xeno: Becoming the Queen
+  ### El primer Xeno: convertirse en la reina
+  
+  Si eres el primer y único xenomorfo, [bold]es absolutamente esencial que evoluciones a un Drone.[/bold]
 
-  If you are the first and only xenomorph, [bold]it is absolutely essential that you evolve into a Drone.[/bold]
+  - Tu objetivo es convertirte en Reina lo más rápido posible.
+  Esto requiere evolucionar de Drone a Pretoriano y luego a Reina.
+  Encuentra un lugar seguro y oculto antes de evolucionar, ya que los pretorianos y las reinas pierden la capacidad de arrastrarse a través de los conductos de ventilación.
+  Como Reina, tu función principal es construir un nido y poner huevos.
+  - Encuentra un nido: elige una ubicación defendible y apartada con espacio para expandirse.
+  - Asegure el área: destruya las cámaras y considere despresurizar el área para hacerla hostil a los intrusos humanos.
+  - Ponga huevos constantemente: Su plasma debe usarse casi exclusivamente para poner huevos y hacer crecer su colmena.
 
-  - Your entire goal is to become a Queen as quickly as possible.
-  This requires evolving from Drone to Praetorian, and then to Queen.
-  Find a secure, hidden location before you evolve, as Praetorians and Queens lose the ability to crawl through vents.
-  As the Queen, your main role is to build a nest and lay eggs.
-  - Find a Nest: Choose a defensible, out-of-the-way location with room to expand.
-  - Secure the Area: Destroy cameras and consider depressurizing the area to make it hostile for human intruders.
-  - Lay Eggs Constantly: Your plasma should be almost exclusively used for laying eggs to grow your hive.
+  [bold]Haga clic en un huevo completamente desarrollado para abrirlo.[/bold]
+  Una vez que tengas abrazacarass, podrás comenzar a cazar.
+  Los monos son blancos fáciles e indefensos.
+  Para objetivos humanos, un abrazacaras lanzado puede ser una incapacitación instantánea, pero tenga en cuenta que Medbay puede extirpar quirúrgicamente la larva.
+  Prioriza tu propia supervivencia por encima de todo; si la Reina muere sin sucesor, la colmena se acaba.
+  En una pelea directa, el movimiento de tu cola es un aturdimiento poderoso, pero tiene un tiempo de reutilización prolongado.
+  Eres lento y vulnerable a los atacantes a distancia, pero mortal en combate cuerpo a cuerpo.
 
-  [bold]Click a fully grown egg to open it.[/bold]
-  Once you have facehuggers, you can begin hunting.
-  Monkeys are easy, defenseless targets.
-  For human targets, a thrown facehugger can be an instant incapacitation, but be aware that Medbay can surgically remove the larva.
-  Prioritize your own survival above all; if the Queen dies without a successor, the hive is finished.
-  In a direct fight, your tail swing is a powerful stun, but it has a long cooldown.
-  You are slow and vulnerable to ranged attackers, but deadly in melee.
+  ### El cazador: ofensiva agresiva
 
-  ### The Hunter: Aggressive Offense
+  Si una colmena ya tiene una Reina, el Cazador es una excelente opción para un papel ofensivo.
+  Tu alta velocidad y tu capacidad para gatear te hacen perfecto para navegar por la estación.
+  La habilidad característica del Cazador es el salto, un salto de largo alcance que aturde fuertemente al objetivo al impactar.
+  Ten cuidado con los escudos, que te aturdirán.
+  Tu táctica principal es sacar a los abrazacaras del nido, abalanzarse sobre un miembro de la tripulación aislado, aplicar el abrazacaras y arrastrarlo.
+  Recuerda sabotear la estación destruyendo máquinas y abriendo esclusas de aire a medida que te mueves.
 
-  If a hive already has a Queen, the Hunter is an excellent choice for an offensive role.
-  Your high speed and ability to ventcrawl make you perfect for navigating the station.
-  The Hunter's signature ability is the pounce, a long-range leap that heavily stuns a target on impact.
-  Be cautious of shields, which will stun you instead.
-  Your main tactic is to carry facehuggers from the nest, pounce on an isolated crewmember, apply the facehugger, and drag them away.
-  Remember to sabotage the station by destroying machines and ripping open airlocks as you move.
+  ### El centinela: guardián defensivo
 
-  ### The Sentinel: Defensive Guardian
+  El Sentinel es el defensor dedicado de la colmena.
+  Tu función principal es proteger el nido, proteger a la reina y vigilar a los anfitriones capturados.
+  Si bien eres más lento que un cazador, eres más resistente y tienes mayores reservas de plasma que se recargan más rápido, lo que permite un uso más frecuente de neurotoxina y ácido corrosivo.
+  La habilidad clave del Sentinel es la invisibilidad parcial.
+  Si te quedas quieto, podrás mezclarte con los suelos cubiertos de resina de tu nido, lo que te hará perfecto para tender una emboscada a los intrusos.
+ ### El dron: arquitecto de la colmena
 
-  The Sentinel is the hive's dedicated defender.
-  Your primary role is to guard the nest, protect the Queen, and watch over captured hosts.
-  While slower than a Hunter, you are tougher and have larger plasma reserves that recharge faster, allowing for more frequent use of Neurotoxin Spit and Corrosive Acid.
-  The Sentinel's key ability is partial invisibility.
-  By staying still, you can blend into the resin-covered floors of your nest, making you perfect for ambushing intruders.
-
-  ### The Drone: Hive Architect
-
-  With a Queen already established, the Drone functions as the hive's architect.
-  You can construct several key structures to fortify your nest:
-
+  Con una Reina ya establecida, el Drone funciona como arquitecto de la colmena.
+  Puedes construir varias estructuras clave para fortificar tu nido:
+  
 <Box>
 <GuideEntityEmbed Entity="WallResin" Caption=""/>
 </Box>
 
-  - Resin Walls: Standard walls to block paths and create chokepoints.
-
+  - Muros de resina: muros estándar para bloquear caminos y crear cuellos de botella.
+  
 <Box>
 <GuideEntityEmbed Entity="ResinMembrane" Caption=""/>
 </Box>
 
-  - Resin Membranes: Durable windows that allow sight in and out of the nest.
+  - Membranas de Resina: Ventanas duraderas que permiten ver dentro y fuera del nido.
 
 <Box>
 <GuideEntityEmbed Entity="ResinNest" Caption=""/>
 </Box>
 
-  - Resin Nests: Beds used to secure captured hosts while their larva gestates.
-  While not a primary combatant, you must be ready to defend the Queen.
+  - Nidos de Resina: Camas utilizadas para asegurar a los huéspedes capturados mientras se gesta su larva.
+  Si bien no eres un combatiente principal, debes estar preparado para defender a la Reina.
 
-  Crucially, if the Queen dies, a Drone must evolve to replace her.
-  If you are the last surviving Drone, your priority is to escape, find a safe place, and begin the evolution process to save the hive.
+  Fundamentalmente, si la Reina muere, un Drone debe evolucionar para reemplazarla.
+  Si eres el último Drone superviviente, tu prioridad es escapar, encontrar un lugar seguro y comenzar el proceso de evolución para salvar la colmena.
 </Document>

@@ -1,51 +1,51 @@
 <Document>
-  # Revenant
+	# Revenant
 
-  A Revenant is a telekinetically controlled corpse used by the Harbinger to temporarily gain a physical body. This is your peak form, a short burst of overwhelming power that lets you turn the station into a disaster zone.
+	Un Revenant es un cadáver controlado telequinéticamente utilizado por el Heraldo para obtener temporalmente un cuerpo físico. Esta es tu forma máxima, una breve explosión de poder abrumador que te permite convertir la estación en una zona de desastre.
 
-  Once you possess a corpse, you lose access to your usual wraith powers and instead gain a limited but much more destructive arsenal. You regenerate WP faster, but your health constantly drains and cannot be healed. When your time runs out, the body collapses into smoke and your spirit returns to the void.
+	Una vez que posees un cadáver, pierdes el acceso a tus poderes espectrales habituales y, en cambio, obtienes un arsenal limitado pero mucho más destructivo. Regeneras WP más rápido, pero tu salud se agota constantemente y no se puede curar. Cuando se te acaba el tiempo, el cuerpo se convierte en humo y tu espíritu regresa al vacío.
 
-  Revenants are visually distinct, surrounded by a dark, swirling aura. When one appears, the station knows something terrible has happened.
+	Los aparecidos son visualmente distintos y están rodeados por un aura oscura y arremolinada. Cuando aparece uno, la estación sabe que algo terrible ha sucedido.
 
-  ## Push
+	## Empujar
 
-  - Shoves the targeted victim or object away with telekinetic force.
-  - Deals damage if the target hits a wall or another object.
-  - Useful for knocking enemies into hazards or clearing space in tight areas.
+	- Empuja a la víctima u objeto objetivo con fuerza telequinética.
+	- Inflige daño si el objetivo golpea una pared u otro objeto.
+	- Útil para lanzar enemigos hacia peligros o despejar espacio en áreas estrechas.
 
-  ## Mass Command
+	## Comando masivo
 
-  - Launches every nearby loose object toward a target at once. It's basically the base command action, but on steroids.
-  - Devastating in cluttered rooms like cargo or chemistry. The more sharp objects nearby, the better.
+	- Lanza todos los objetos sueltos cercanos hacia un objetivo a la vez. Es básicamente la acción de comando básica, pero con esteroides.
+	- Devastador en habitaciones abarrotadas como carga o química. Cuantos más objetos afilados haya cerca, mejor.
 
-  ## Shockwave
+	## Onda de choque
 
-  - Releases a massive blast of telekinetic energy that knocks everyone down, shatters windows, and rips plating off floors and walls.
-  - Can be used to disable entire rooms, breach areas, or make quick escapes.
+	- Libera una explosión masiva de energía telequinética que derriba a todos, rompe ventanas y arranca placas de pisos y paredes.
+	- Se puede utilizar para desactivar habitaciones enteras, penetrar áreas o realizar escapadas rápidas.
 
-  ## Touch of Evil
+	## Toque del mal
 
-  - Temporarily supercharges your physical attacks.
-  - Your punches deal enormous damage and send targets flying across the room.
+	- Sobrealimenta temporalmente tus ataques físicos.
+	- Tus golpes causan un daño enorme y envían a los objetivos volando por la habitación.
 
-  ## Crush
+	## aplastar
 
-  - Focuses your full telekinetic might on a single target, slowly pulverizing them.
-  - Deals immense brute damage over time until the target explodes into gibs.
-  - The effect ends if you lose line of sight or are interrupted.
-  - Is extremely expensive to use, so make sure you don't waste it.
+	- Enfoca todo tu poder telequinético en un solo objetivo, pulverizándolo lentamente.
+	- Inflige un daño bruto inmenso a lo largo del tiempo hasta que el objetivo explota en pedazos.
+	- El efecto finaliza si pierdes la línea de visión o eres interrumpido.
+	- Es extremadamente costoso de usar, así que asegúrese de no desperdiciarlo.
 
-  ### General Tips
+	### Consejos generales
 
-  Revenant form is temporary, make every second count. You’re not here to survive; you’re here to devastate.
+	La forma de Revenant es temporal, haz que cada segundo cuente. No estás aquí para sobrevivir; estás aquí para devastar.
 
-  Use Shockwave first to scatter and disarm the crew, then pick off survivors with Touch of Evil or Crush.
+	Usa Shockwave primero para dispersar y desarmar a la tripulación, luego elimina a los supervivientes con Touch of Evil o Crush.
 
-  Push and Mass Command can both be used to clear barricades or fling objects at fleeing crew.
+	Tanto Push como Mass Command se pueden utilizar para despejar barricadas o arrojar objetos a la tripulación que huye.
 
-  Though the revenant has access to terrifying skills, the vessel is still mortal. Don't expect to just tank a bunch of bullets for no reason and make it out alive.
+	Aunque el retornado tiene acceso a habilidades aterradoras, el recipiente sigue siendo mortal. No esperes simplemente recibir un montón de balas sin ningún motivo y salir con vida.
 
-  Remember: once you die, you return to your wraith form. Don’t waste time trying to retreat, just go ham.
-
-  [textlink="Back to Harbinger of the Void" link="Harbinger"]
+	Recuerda: una vez que mueras, volverás a tu forma de espectro. No pierdas el tiempo intentando retirarte, simplemente hazlo.
+	
+	[textlink="Volver a Heraldo del Vacío" link="Harbinger"]
 </Document>

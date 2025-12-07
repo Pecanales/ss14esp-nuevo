@@ -4,63 +4,63 @@
     <GuideEntityEmbed Entity="MobWraithPlague" Caption=""/>
   </Box>
 
-  The Plaguebringer is a path focused around curses, diseases and filth. Most of your abilities involve applying debuffs to one of those clueless crewmembers, and then, once the time is right and their soul is ripe, collecting your dues.
+  The Plaguebringer es un camino centrado en maldiciones, enfermedades y suciedad. La mayoría de tus habilidades implican aplicar desventajas a uno de esos miembros despistados de la tripulación y luego, una vez que sea el momento adecuado y su alma esté madura, cobrar tus deudas.
 
-  # Curses
+  # maldiciones
 
-  The Plaguebringer has access to four base curses, with one, final curse to rule them all.
+  El Plaguebringer tiene acceso a cuatro maldiciones básicas, con una maldición final para gobernarlas a todas.
 
-  ## Blindness
+  ## Ceguera
 
-  - Slowly damages the eyesight of the afflicted until they are rendered fully blind.
+  - Daña lentamente la vista de los afectados hasta dejarlos completamente ciegos.
 
-  ## Blood
+  ## Sangre
 
-  - Causes them to cough blood, sometimes a little, sometimes a lot. Mostly just an annoyance, but can get serious if left untreated.
-  - In an ideal world, this would also apply Hemophilia to the target, which makes them bleed for longer. However, that is not yet implemented.
+  - Les hace toser sangre, a veces un poco, a veces mucho. Principalmente es sólo una molestia, pero puede volverse grave si no se trata.
+  - En un mundo ideal, esto también aplicaría hemofilia al objetivo, lo que le hace sangrar por más tiempo. Sin embargo, eso aún no se ha implementado.
 
-  ## Enfeeblement
+  ## Debilitamiento
 
-  - This one has several effects, such as draining the stamina of the afflicted, or making them drowsy and forcing them into a sudden nap.
+  - Éste tiene varios efectos, como drenar la resistencia de los afectados, o adormecerlos y obligarlos a tomar una siesta repentina.
 
-  ## Rot
+  ## podredumbre
 
-  - Causes the afflicted to randomly puke and cough all over the place. Great for spreading disease.
-  - Prevents them from eating at all. Combined with the fact that they are slowly puking out all the contents of their stomach, this will eventually leave them starving, unable to do anything about it.
-
-  ## Death
-
-  - The final of the curses. Can only be applied once all four other curses have been applied on the same person.
-  - Once applied, the target will have less than a minute to live. They will hear a dreadful song signifying that their end is near.
-  - During that time, they will begin to experience several effects, such as falling to the ground or shaking.
-  - This curse deals damage that ramps up over time. It starts small, but quickly enough, becomes so deadly that no medicine in the world can help them survive it.
-  - Once they die, their corpse will gib, and you will permanently gain increased WP regeneration. This will count as if you had absorbed their corpse.
-
-  Do note that if one curse is used, all other curses will go on cooldown. So there is a limit to how quickly you can reap someone's soul.
-  Also, important to mention, the Chaplain can [color=red]purge all of your curses with their bible by using it on the afflicted[/color], so don't expect this to be easy.
-
-  ## Defile
-
-  This serves to fill up either some sort of drink, or to contaminate food with a chemical of your choosing (It's always poison). First, use the action on yourself to pick the reagent, then use it again on the food/drink to defile it.
-
-  ## Summon Plague Rat
-
-  Creates a diseased rat on your position, a ghost role that can be taken over by someone else. The diseased rat can eat trash to grow into a larger form of itself, gaining new abilities in the process. It starts very weak, but once fully grown, can prove to be a real pain.
-
-  ## Create Rot Hulk
-
-  Uses nearby filth to summon a mass of filth and decay that attacks nearby crew and explodes on death. Try using this action at disposals, or near large amounts of trash if you can find something of the sort.
-  If you manage to find a pile of more than 30 pieces of trash, it will spawn a much stronger version of the rot hulk.
-
-  # Sick! But how do I do better as this?
-
-  ## General tips
-
-  It takes some time for you to apply all four curses on someone. And even more so, they still have another full minute before the death curse does them in. Try to use your curses on targets that are far away from the chaplain, to reduce the chances of them wasting all of your effort.
+  - Hace que el afectado vomite y tosa al azar por todas partes. Excelente para propagar enfermedades.
+  - Les impide comer en absoluto. Combinado con el hecho de que están vomitando lentamente todo el contenido de su estómago, esto eventualmente los dejará hambrientos, incapaces de hacer nada al respecto.
   
-  Use actions such as Possess object or Spook to create more trash by breaking windows or lightbulbs. This will allow you to summon stronger rot hulks, and can even help diseased rats to evolve faster.
-  
-  Defile leaves a very distinct taste in the mouth of whoever eats the contaminated food. You can use this to frame the chef or the bartender for trying to poison someone.
+ ## Muerte
 
-  [textlink="Back to Wraith Evolutions" link="Wraiths"]
+  - El final de las maldiciones. Sólo se puede aplicar una vez que las otras cuatro maldiciones se hayan aplicado a la misma persona.
+  - Una vez aplicado, el objetivo tendrá menos de un minuto de vida. Oirán una canción espantosa que significa que su fin está cerca.
+  - Durante ese tiempo, empezarán a experimentar varios efectos, como caer al suelo o temblar.
+  - Esta maldición causa daño que aumenta con el tiempo. Comienza poco a poco, pero rápidamente se vuelve tan mortal que ninguna medicina en el mundo puede ayudarlos a sobrevivir.
+  - Una vez que mueran, su cadáver se morderá y obtendrás permanentemente una mayor regeneración de WP. Esto contará como si hubieras absorbido su cadáver.
+
+  Tenga en cuenta que si se usa una maldición, todas las demás maldiciones entrarán en tiempo de reutilización. Así que hay un límite en la rapidez con la que puedes cosechar el alma de alguien.
+  Además, es importante mencionar que el sacerdote puede [color=red]purgar todas tus maldiciones con su biblia usándola en los afligidos[/color], así que no esperes que esto sea fácil.
+
+  ## profanar
+
+  Esto sirve para llenar algún tipo de bebida o para contaminar los alimentos con un químico de tu elección (siempre es veneno). Primero, usa la acción sobre ti mismo para escoger el reactivo, luego úsala nuevamente en la comida/bebida para contaminarla.
+
+  ## Invocar rata de plaga
+
+  Crea una rata enferma en tu posición, un papel fantasma que puede ser asumido por otra persona. La rata enferma puede comer basura para crecer hasta convertirse en una forma más grande de sí misma, adquiriendo nuevas habilidades en el proceso. Comienza muy débil, pero una vez que ha crecido por completo, puede resultar un verdadero dolor de cabeza.
+  
+ ## Crear Hulk podrido
+
+  Utiliza inmundicia cercana para convocar una masa de inmundicia y descomposición que ataca a la tripulación cercana y explota al morir. Intente utilizar esta acción en los trituradores de basura o cerca de grandes cantidades de basura si puede encontrar algo por el estilo.
+  Si logras encontrar una pila de más de 30 piezas de basura, generará una versión mucho más fuerte de Hulk podrido.
+
+  # ¡Enfermo! Pero, ¿cómo puedo mejorar esto?
+
+  ## Consejos generales
+
+  Te lleva algo de tiempo aplicar las cuatro maldiciones a alguien. Y más aún, todavía tienen otro minuto completo antes de que la maldición de la muerte los acabe. Intenta usar tus maldiciones en objetivos que estén lejos del sacerdote, para reducir las posibilidades de que desperdicien todo tu esfuerzo.
+  
+  Utilice acciones como Poseer objeto o Asustar para crear más basura rompiendo ventanas o bombillas. Esto te permitirá convocar cascos podridos más fuertes e incluso puede ayudar a las ratas enfermas a evolucionar más rápido.
+  
+  Defile deja un sabor muy distintivo en la boca de quien come el alimento contaminado. Puedes usar esto para incriminar al chef o al barman por intentar envenenar a alguien.
+  
+  [textlink="Volver a las evoluciones de los espectros" link="Wraiths"]
 </Document>

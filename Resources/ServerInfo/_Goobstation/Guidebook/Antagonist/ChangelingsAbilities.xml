@@ -6,171 +6,172 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Starting Abilities
+ # Habilidades iniciales
 
-  ## Absorb DNA
+  ## Absorber ADN
   <Box>
-    [color=#999999][italic]0 Chems[italic][/color]
+    [color=#999999][italic]0 químicos[italic][/color]
   </Box>
 
-  - Allows you to slowly and noisily absorb a dead, crit, cuffed or hard-grabbed crewmate. This adds their DNA to your pool, gives you 2 evolution points, and refills your biomass.
-  - If another changeling is absorbed, you instead get half of their total evolution points and half of their max chemicals.
-  - Target must be in a HARD grab to use this ability.
-  - Can be used in lesser form.
-  - Cannot be used while on fire.
+  - Te permite absorber lenta y ruidosamente a un compañero de tripulación muerto, crítico, esposado o agarrado con fuerza. Esto agrega su ADN a tu grupo, te da 2 puntos de evolución y recarga tu biomasa.
+  - Si se absorbe otro cambiapieles, obtienes la mitad de sus puntos de evolución totales y la mitad de sus sustancias químicas máximas.
+  - El objetivo debe estar en un agarre DIFÍCIL para usar esta habilidad.
+  - Puede usarse en menor forma.
+  - No se puede utilizar mientras esté en llamas.
 
-  ## Extract DNA Sting
+  ## Extraer ADN de picadura
 
   <Box>
-    [color=#999999][italic]25 Chems[italic][/color]
+    [color=#999999][italic]25 químicos[italic][/color]
   </Box>
 
-  - Adds the stung player's DNA to your pool.
-  - Can be used while cuffed or in lesser form.
+ - Agrega el ADN del jugador picado a tu grupo.
+  - Se puede utilizar esposado o en menor forma.
 
-  ## Cycle DNA
+  ## Ciclar de ADN
   <Box>
-    [color=#999999][italic]0 Chems[italic][/color]
+    [color=#999999][italic]0 química[italic][/color]
   </Box>
 
-  - Changes the active DNA used for transform.
-  - Can be used while cuffed or in lesser form.
+  - Cambia el ADN activo utilizado para la transformación.
+  - Se puede utilizar esposado o en menor forma.
 
-  ## Transform
+ ## Transformarse
   <Box>
-    [color=#999999][italic]5 Chems[italic][/color]
+    [color=#999999][italic]5 químicos[italic][/color]
   </Box>
 
-  - Transforms you to have the exact name and voice of your currently active DNA, consumes the DNA.
-  - Can be used while cuffed or in lesser form.
+ - Te transforma para tener el nombre exacto y la voz de tu ADN actualmente activo, consume el ADN.
+  - Se puede utilizar esposado o en menor forma.
 
-  ## Enter Regenerative Statis
+  ## coma regenerativo
   <Box>
-    [color=#999999][italic]0 chems[italic][/color]
+    [color=#999999][italic]0 quimicos[italic][/color]
   </Box>
 
-  - Changeling instantly dies, and the exit stasis ability is unlocked.
-  - Can be used while cuffed or in lesser form.
-  - Can be used while on fire.
+	- cambiapueles muere instantáneamente y la habilidad de estasis de salida se desbloquea.
+	- Se puede utilizar esposado o en menor forma.
+	- Puede usarse mientras está en llamas..
 
-  ## Exit Regenerative Statis
+	## salir del coma regenerativo
+	<Box>
+    [color=#999999][italic]30 químicos[italic][/color]
+  </Box>
+
+  - cambiaformas revive instantáneamente, toda la salud se recupera por completo.
+  - Se puede utilizar esposado o en menor forma.
+  - Puede usarse mientras está en llamas.
+  - Sólo se puede utilizar después de una duración determinada. Esto aumenta con el daño recibido antes del coma, hasta 180 segundos.
+
+  # Habilidades de combate
+
+  ## Grito disonante
   <Box>
-    [color=#999999][italic]30 Chems[italic][/color]
+    [color=#999999][italic] 2 puntos de evolución / 30 químicos / 1 orgánico absorbido [italic][/color]
   </Box>
 
-  - Changeling instantly revives, all health is fully recovered.
-  - Can be used while cuffed or in lesser form.
-  - Can be used while on fire.
-  - Can only be used after a set duration. This scales with damage taken prior to stasis, up to 180 seconds.
+  - cambiaformas emite una explosión EMP, desactivando borgs, IPC, coordenadas de traje y otros equipos electrónicos.
+  - Se puede utilizar esposado o en menor forma.
+  - Puede usarse mientras está en llamas.
 
-  # Combat Abilities
-
-  ## Dissonant Shriek
+  ## Grito resonante
   <Box>
-    [color=#999999][italic] 2 Evolution Points / 30 Chems / 1 Absorbed Organic [italic][/color]
+    [color=#999999][italic]2 puntos de evolución / 30 químicos / 1 orgánico absorbido [italic][/color]
   </Box>
+  - Chirridos, que cegan a cualquiera que se encuentre en el área cercana sin protección contra flash, y también rompen las luces cercanas.
+  - Se puede utilizar esposado o en menor forma.
+  - Puede usarse mientras está en llamas.
 
-  - Changeling emits an EMP blast, disabling borgs, IPCs, suit coordinates, and other electronic equipment.
-  - Can be used while cuffed or in lesser form.
-  - Can be used while on fire.
-
-  ## Resonant Shriek
+  ## Escudo Orgánico
   <Box>
-    [color=#999999][italic] 2 Evolution Points / 30 Chems / 1 Absorbed Organic [italic][/color]
+    [color=#999999][italic] 2 puntos de evolución / 20 químicos / 1 orgánico absorbido [italic][/color]
   </Box>
-  - Screeches, blinding anyone in the nearby area without flash protection, breaks nearby lights as well.
-  - Can be used while cuffed or in lesser form.
-  - Can be used while on fire.
 
-  ## Organic Shield
+  - Uno de sus brazos se convierte en un escudo robusto, absorbe el 50% del daño recibido hasta que se destruye.
+
+  ## Músculos tensos
   <Box>
-    [color=#999999][italic] 2 Evolution Points / 20 Chems / 1 Absorbed Organic [italic][/color]
+    [color=#999999][italic] 2 puntos de evolución / 0 químicos [italic][/color]
   </Box>
+ - Acelera mucho al cambiapieles, pero con el tiempo causa un gran daño a su resistencia. Activa y desactiva.
+  - Se puede utilizar esposado o en menor forma.
+  - Puede usarse mientras está en llamas.
 
-  - Grows one of its arms into a robust shield, absorbs 50% of incoming damage until destroyed.
-
-  ## Strained Muscles
+  ## Fragmento de hueso
   <Box>
-    [color=#999999][italic] 2 Evolution Points / 0 Chems [italic][/color]
+    [color=#999999][italic] 3 puntos de evolución / 15  químicos [italic][/color]
   </Box>
-  - Speeds the changeling up greatly, but deals heavy stamina damage over time to self. Toggles on and off.
-  - Can be used while cuffed or in lesser form.
-  - Can be used while on fire
+  - cambiapieles forma un arma arrojadiza de fragmentos de hueso que aturde con dos golpes, los fragmentos se disuelven después de un rato.
 
-  ## Bone Shard
+  ## Pistola de dardos
   <Box>
-    [color=#999999][italic] 3 Evolution Points / 15 Chems [italic][/color]
+    [color=#999999][italic]3 puntos de evolución / 15  químicos [italic][/color]
   </Box>
-  - Changeling forms a bone shard throwing weapon that hardstuns in two hits, shards dissolve after a short while.
+  - el cambiapieles forma un brazo en una pistola de dardos. La pistola de dardos dispara cualquiera de las picaduras evolucionadas de Ling, cuesta 1/3 del costo de las picaduras en sustancias químicas por disparo.
+  - Puede disparar y seleccionar dardos mientras está en llamas (si está en uso/alternado)
 
-  ## Dart Gun
+  ## brazo espada
   <Box>
-    [color=#999999][italic] 3 Evolution Points / 15 Chems [italic][/color]
+    [color=#999999][italic] 4 puntos de evolución / 15 químicos [italic][/color]
   </Box>
-  - Changeling forms an arm into a dart gun. Dart gun fires any of the lings evolved stings, costs 1/3 the stings cost in chems per shot.
-  - Can shoot and select darts while on fire (if in use/toggled)
+ - el cambiapieles convierte un brazo en una espada. Inflige mucho daño a las extremidades con un ataque ligero cuando apunta a una extremidad.
 
-  ## Arm Blade
+  ## Garras
   <Box>
-    [color=#999999][italic] 4 Evolution Points / 15 Chems [italic][/color]
+    [color=#999999][italic] 4 puntos de evolución / 15 químicos [italic][/color]
   </Box>
-  - Changeling forms an arm into a blade. Deals heavy limb damage on light attack when targeting a limb.
+	- Cambiapieles convierte un brazo en una garra. Las garras pueden agarrar organismos e impedir que se muevan. La garra no se puede usar para atacar mientras se agarra.
 
-  ## Arm Claw
+	## brazo martillo
+	<Box>
+    [color=#999999][italic] 4 puntos de evolución / 15 químicos [italic][/color]
+  </Box>
+  
+  - cambiapieles convierte un brazo en un martillo. Inflige daño contundente, derriba y lanza a los objetivos con ataques ligeros.
+
+  ## Armadura quitinosa
   <Box>
-    [color=#999999][italic] 4 Evolution Points / 15 Chems [italic][/color]
+    [color=#999999][italic] 4 puntos de evolución / 25 químicos / 2 orgánicos absorbidos [italic][/color]
   </Box>
-  - Changeling forms an arm into a claw. Claws can grab organisms and prevent them from moving. Claw cannot be used to attack while grabbing.
+	- el cambiapieles transforma el cuerpo en una masa de armadura, que solo se puede usar cuando la ropa exterior y las ranuras para la cabeza están vacías.
+	- La armadura ralentiza la maruca en un 15%.
+	- La armadura reduce todo el daño en un 50%.
+	- La armadura para la cabeza reduce los daños brutos y por quemaduras en un 10%.
+	- Tiene una protección decente contra incendios.
+	- Retrasa la tasa de regeneración química en un 25%.
 
-  ## Arm Hammer
+	# habilades especiales
+
+	##picadura cegadora
+	<Box>
+    [color=#999999][italic] 2 puntos de evolución / 20 químicos [italic][/color]
+  </Box>
+  - el cambiapieles inyecta orgánicos con 2 unidades de toxina ciega, cegando al objetivo durante 12 segundos.
+  - Se puede utilizar esposado o en menor forma.
+  - No funciona en Yowies.
+  - Puede apilarse consigo mismo.
+
+  ## Picadura criogénica
   <Box>
-    [color=#999999][italic] 4 Evolution Points / 15 Chems [italic][/color]
+    [color=#999999][italic] 2 puntos de evolución / 20 químicos [italic][/color]
   </Box>
-  - Changeling forms an arm into a hammer. Deals blunt damage, knocks down, and flings targets on light attack.
+  - cambiapieles inyecta a los orgánicos con 10 unidades de fresio, bajando su temperatura a 0 grados Celsius en la mayoría de los casos.
+  - Las sustancias orgánicas frías se mueven mucho más lentamente.
+  - Se puede utilizar esposado o en menor forma.
+  - Puede apilarse consigo mismo.
 
-  ## Chitinous Armor
+  ## Picadura silenciadora
   <Box>
-    [color=#999999][italic] 4 Evolution Points / 25 Chems / 2 Absorbed Organics [italic][/color]
+    [color=#999999][italic] 2 puntos de evolución / 20 químicos [italic][/color]
   </Box>
-  - Changeling forms body into a mass of armor, only usable when outerwear and head slots are empty.
-  - Armor slows ling by 15 percent
-  - Armor reduces all damage by 50 percent
-  - Head armor reduces brute and burn damages by 10 percent
-  - Has decent protection against fires
-  - Slows down chem regen rate by 25%.
-
-  # Stings Abilities
-
-  ## Blind Sting
-  <Box>
-    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
-  </Box>
-  - Changeling injects organic with 2 units of blind toxin, blinding the target for 12 seconds.
-  - Can be used while cuffed or in lesser form.
-  - Does not work on Yowies.
-  - Can stack with itself.
-
-  ## Cryogenic Sting
-  <Box>
-    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
-  </Box>
-  - Changeling injects organic with 10 units of fresium, dropping their temperature to 0 degrees Celsius in most cases.
-  - Cold organics move far slower.
-  - Can be used while cuffed or in lesser form.
-  - Can stack with itself.
-
-  ## Mute Sting
-  <Box>
-    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
-  </Box>
-  - Changeling injects organic with 2 units of mute toxin, muting the target for 40 seconds.
-  - Can be used while cuffed or in lesser form.
-  - Can stack with itself.
-  - Does not work on Yowies.
+  - cambiapieles inyecta a los orgánicos 2 unidades de toxina muda, silenciando al objetivo durante 40 segundos.
+  - Se puede utilizar esposado o en menor forma.
+  - Puede apilarse consigo mismo.
+  - No funciona en Yowies.
 
   ## Lethargic Sting
   <Box>
-    [color=#999999][italic] 3 Evolution Points / 30 Chems [italic][/color]
+    [color=#999999][italic] 3 puntos de evolución / 30 químicos [italic][/color]
   </Box>
   - Changeling injects organic with 5 units of impredrezene and tirizene, causing numerous effects.
   - Slows target by 35%
@@ -180,131 +181,131 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - Can stack with itself.
   - Does not work on Yowies.
 
-  ## False Armblade Sting
+  ## brazo de espada falso
   <Box>
-    [color=#999999][italic] 4 Evolution Points / 50 Chems [italic][/color]
+    [color=#999999][italic] 4 puntos de evolución / 50 químicos [italic][/color]
   </Box>
-  - Changeling injects organic with some of its genome, forcing the organic to grow a temporary useless armblade.
-  - Can be used while cuffed or in lesser form.
-  - Lasts roughly 60 seconds.
+  - el cambiaformas inyecta a algo orgánico con parte de su genoma, lo que obliga al orgánico a desarrollar un brazo temporal inútil.
+  - Se puede utilizar esposado o en menor forma.
+  - Dura aproximadamente 60 segundos.
 
-  # Utility Abilities
+  # habilidades utiles 
 
-  ## Awakened Instinct
+  ## Instinto despierto
   <Box>
-    [color=#999999][italic] Free [italic][/color]
+    [color=#999999][italic] Gratis [italic][/color]
   </Box>
-  - Gain a flat 25% boost to chemical regeneration.
-  - The user will require biomass to sustain themselves.
-  - Biomass is replenished by absorbing compatible humanoids.
-  - Maximum biomass capacity can be increased by absorbing other changelings.
-  - Running out of biomass will cause the user to be absorbed, and permanently killed.
+  - Obtenga un aumento fijo del 25 % en la regeneración química.
+  - El usuario necesitará biomasa para sustentarse.
+  - La biomasa se repone absorbiendo humanoides compatibles.
+  - La capacidad máxima de biomasa se puede aumentar absorbiendo otros cambiapieles.
+  - Quedarse sin biomasa hará que el usuario sea absorbido y muerto permanentemente.
 
-  ## Anatomic Panacea
+  ## panacea anatomica
   <Box>
-    [color=#999999][italic] 2 Evolution Points / 30 Chems [italic][/color]
+    [color=#999999][italic]2 puntos de evolución / 30 químicos [italic][/color]
   </Box>
-  - User is given the "Anatomic panacea" status effect, lasting 10 seconds.
-  - Treats eye damage
-  - Sobers the user, removing the influence of drugs and alcohol.
-  - Removes any present disabilities from the user.
-  - Removes and destroys any present xenomorph embryos in the user.
-  - Cleanses 25u of chemicals from the bloodstream per tick (250 in total).
-  - Heals 10 overall toxin damage per tick (100 in total).
-  - Heals 10 cellular damage per tick (100 in total).
+  - El usuario recibe el efecto de estado "Panacea anatómica", que dura 10 segundos.
+  - Trata el daño ocular
+  - Calma al usuario, eliminando la influencia de las drogas y el alcohol.
+  - Elimina cualquier discapacidad presente del usuario.
+  - Elimina y destruye cualquier embrión xenomorfo presente en el usuario.
+  - Limpia 25u de químicos del torrente sanguíneo por garrapata (250 en total).
+  - Cura 10 daños totales por toxinas por garrapata (100 en total).
+  - Cura 10 daños celulares por garrapata (100 en total).
 
-  ## Last Resort
+  ## Último recurso
   <Box>
-    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
+    [color=#999999][italic] 2 puntos de evolución / 20 químicos [italic][/color]
   </Box>
-  - Explodes the changelings current body and turns them into a headslug.
-  - Headslugs are extremely fast, can ventcrawl, and can crawl under doors.
-  - It can be used while cuffed but cannot be used in lesser form.
-  - Headslugs can infect a non-hollow corpse to turn into a lesser form changeling after a short timer.
-  - If the infected body is destroyed, the headslug will not revive, and will be forever lost.
-  - Can be activated while on fire.
+  - Explota el cuerpo actual de los cambiaformas y los convierte en una babosa.
+  - Los Headslugs son extremadamente rápidos, pueden gatear y pasar por debajo de las puertas.
+  - Se puede utilizar con esposas, pero no se puede utilizar en menor forma.
+  - Los Headslugs pueden infectar un cadáver  para convertirlo en una forma menor de cambiaformas después de un corto tiempo.
+  - Si el cuerpo infectado es destruido, la babosa no revivirá y se perderá para siempre.
+  - Puede activarse mientras está en llamas.
 
-  ## Lesser Form
+  ## Forma menor
   <Box>
-    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
+    [color=#999999][italic] 2 puntos de evolución / 20 químicos [italic][/color]
   </Box>
-  - Changeling turns into a monkey.
-  - Uncuffs changeling.
-  - Money can ventcrawl, but loses some abilities that the ling would otherwise have.
+  -el cambiaformas se convierte en mono.
+  - Quita las esposas al cambiaformas.
+  - El mono puede arrastrarse, pero pierde algunas habilidades que de otro modo tendría en su forma original.
 
-  ## Absorb Biomatter
+  ## Absorber biomateria
   <Box>
-    [color=#999999][italic] 3 Evolution Points [italic][/color]
+    [color=#999999][italic]3 puntos de evolución [italic][/color]
   </Box>
-  - Consuming meat products restores the changelings chemical stores.
+  -El consumo de productos cárnicos restaura las reservas químicas de los cambiaformas.
 
-  ## Augmented Eyesight
+  ## Vista aumentada
   <Box>
-    [color=#999999][italic] 4 Evolution Points / 0 Chems [italic][/color]
+    [color=#999999][italic] 4 puntos de evolución / 0 químicos [italic][/color]
   </Box>
-  - Changeling can toggle eyesight between flash resistant and thermal vision.
-  - While using thermal vision, flashes stun the changeling for twice as long.
-  - Thermal vision also provides changeling with night vision.
-  - Can be used while cuffed or in lesser form.
+	- el cambiapieles puede alternar la vista entre visión térmica y resistente al flash.
+	- Mientras se usa la visión térmica, los destellos aturden al cambiaformas durante el doble de tiempo.
+	- La visión térmica también proporciona al cambiapieles visión nocturna.
+	- Se puede utilizar esposado o en menor forma.
 
-  ## Biodegrade
-  <Box>
-    [color=#999999][italic] 4 Evolution Points / 30 Chems [italic][/color]
+	## Biodegradar
+	<Box>
+    [color=#999999][italic] 4 puntos de evolución / 30 químicos [italic][/color]
   </Box>
-  - Burns cuffs off the changeling.
-  - Uncuffs changeling.
-  - Splashes anyone grabbing changeling with acid, doing slight caustic damage, blinding them and knocking them down.
-  - Can be used while cuffed or in lesser form.
-  - Can be used while on fire.
+	- Quema las esposas del cambiapieles.
+	- Quita las esposas al cambiapieles.
+	- Salpica con ácido a cualquiera que agarre a un cambiapieles, causándole un ligero daño cáustico, cegándolo y derribándolo.
+	- Se puede utilizar esposado o en menor forma.
+	- Puede usarse mientras está en llamas.
 
-  ## Chameleon Skin
-  <Box>
-    [color=#999999][italic] 4 Evolution Points / 20 Chems [italic][/color]
+	## Piel de camaleón
+	<Box>
+    [color=#999999][italic]4 puntos de evolución / 20 químicos [italic][/color]
   </Box>
-  - Changeling gains invisibility.
-  - Invisibility increases while standing still.
-  - Invisibility rapidly decreases while moving.
-  - Can be used while cuffed.
-  - Slows down chem regen rate by 25%.
+	- cambiapieles gana invisibilidad.
+	- La invisibilidad aumenta mientras estás parado.
+	- La invisibilidad disminuye rápidamente mientras se mueve.
+	- Se puede utilizar con esposas.
+	- Retrasa la tasa de regeneración química en un 25%.
 
-  ## Adrenaline Reserves
-  <Box>
-    [color=#999999][italic] 4 Evolution Points / 25 Chems [italic][/color]
+	## Reservas de adrenalina
+	<Box>
+    [color=#999999][italic] 4 puntos de evolución / 25 químicos [italic][/color]
   </Box>
-  - User is given the "Adrenaline reserves" status effect, lasting for 10 seconds.
-  - Renders the user completely immune to stuns, stamina damage, damage slowdown and most incapacitation methods.
-  - Regenerates 10 stamina per tick (100 in total).
-  - Deals 1.5 poison damage to the user per tick (15 in total).
-  - Can be used while on fire.
+  - El usuario recibe el efecto de estado "Reservas de adrenalina", que dura 10 segundos.
+  - Hace que el usuario sea completamente inmune a los aturdimientos, el daño de resistencia, la desaceleración del daño y la mayoría de los métodos de incapacitación.
+  - Regenera 10 de resistencia por tic (100 en total).
+  - Inflige 1,5 daños por veneno al usuario por tic (15 en total).
+  - Puede usarse mientras está en llamas.
+  
+  ## Acceso a la mente colmena
+  <Box>
+    [color=#999999][italic]4 puntos de evolución [italic][/color]
+  </Box>
+  - Muestra un símbolo sobre todos los cambiantes con esta habilidad.
+  - Activable y desactivado.
+  - Otorga acceso al canal de Hivemind - :g
 
-  ## Hivemind Access
+  ## Adaptación al vacío
   <Box>
-    [color=#999999][italic] 4 Evolution Points [italic][/color]
+    [color=#999999][italic] 4 puntos de evolución / Automático  [italic][/color]
   </Box>
-  - Shows a symbol above all changelings with this ability.
-  - Togglable on and off.
-  - Grants access to the hivemind channel - :g
+  - Te protegerá automáticamente de baja presión o temperatura.
+  - Elimina la necesidad de la presencia de aire para respirar. Todavía puede verse afectado al respirar gases peligrosos.
+  - No protegerá contra daños por frío de otras fuentes.
+  - Si bien está activo contra baja presión o temperatura, la tasa de regeneración química disminuye en un 25 %.
 
-  ## Void Adaption
+  ## reparar carne
   <Box>
-    [color=#999999][italic] 4 Evolution Points / Automatic  [italic][/color]
+    [color=#999999][italic]5 puntos de evolución / 35 químicos [italic][/color]
   </Box>
-  - Will automatically protect you from low pressure or temperature.
-  - Removes the need for the presence of air to breathe. Can still be affected by breathing in dangerous gases.
-  - Will not protect from cold damage from other sources.
-  - While active against low pressure or temperature, chem regen rate is decreased by 25%
-
-  ## Fleshmend
-  <Box>
-    [color=#999999][italic] 5 Evolution Points / 35 Chems [italic][/color]
-  </Box>
-  - User is given the "Fleshmend" status effect, lasting for 10 seconds.
-  - Fleshmend's effects will temporarily cease while on fire.
-  - Heals 10 overall brute damage per tick (100 in total).
-  - Heals 5 overall burn damage per tick (50 in total).
-  - Heals 2 asphyxiation damage per tick (20 in total).
-  - Reduces bleeding severity by 2.5 per tick (25 in total).
-  - Restores roughly 3.5% blood level per tick (35% in total).
-  - Usable while in critical condition.
-  - Can be used while cuffed or in lesser form.
+  - El usuario recibe el efecto de estado "Fleshmend", que dura 10 segundos.
+  - Los efectos de Fleshmend cesarán temporalmente mientras esté en llamas.
+  - Cura 10 daños brutos totales por tic (100 en total).
+  - Cura 5 daños totales por quemaduras por tic (50 en total).
+  - Cura 2 daños por asfixia por garrapata (20 en total).
+  - Reduce la gravedad del sangrado en un 2,5 por garrapata (25 en total).
+  - Restaura aproximadamente el 3,5% del nivel sanguíneo por garrapata (35% en total).
+  - Utilizable en condiciones críticas.
+  - Se puede usar esposado o en menor forma..
 </Document>

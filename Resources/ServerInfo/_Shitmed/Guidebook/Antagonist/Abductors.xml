@@ -8,26 +8,26 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Abductors
+  # Abductores
 
   <Box>
     <GuideEntityEmbed Entity="MobLoneAbductor"/>
     <GuideEntityEmbed Entity="MobAbductorAgent"/>
     <GuideEntityEmbed Entity="MobAbductorScientist"/>
   </Box>
-  Abductors are an alien society set on cataloging and experimenting on the sectors personnel.
-  Its important to note: Abductors, unlike most antagonists are [color=red]NOT set on killing people[/color] and are rather purely interested in completing their experiments.
+ Los secuestradores son una sociedad alienígena decidida a catalogar y experimentar con el personal del sector.
+  Es importante tener en cuenta: los secuestradores, a diferencia de la mayoría de los antagonistas, [color=red]NO están decididos a matar personas[/color] y están más bien interesados ​​en completar sus experimentos.
 
-  Abductors do not possess the ability to speak and therefore communicate through telepathy.
+  Los secuestradores no poseen la capacidad de hablar y por lo tanto se comunican mediante telepatía.
 
-  ##Abductors
-  There are three types of abductors; lone abductors, scientists, and agents.
-  - [color=#a4885c]Lone abductors[/color] are a solo abductor, and will not have support or allies.
-  - [color=#a4885c]Scientists[/color] are group abductors, and need to support the agent by toggling their armor and experimenting on crew.
-  - [color=#a4885c]Agents[/color] are group abductors, and work to kidnap crew for the scientist to experiment on.
-  - Any abductor can fill anothers role in the event of an unfortunate death.
+  ##Abductores
+  Hay tres tipos de secuestradores; secuestradores solitarios, científicos y agentes.
+  - [color=#a4885c]Los secuestradores solitarios[/color] son ​​secuestradores solitarios no tendrán apoyo ni aliados.
+  - [color=#a4885c]Los científicos[/color] son ​​secuestradores de grupos y necesitan apoyar al agente a experimentandar con la tripulación.
+  - [color=#a4885c]Agentes[/color] son ​​secuestradores de grupos y trabajan para secuestrar a la tripulación para que el científico experimente.
+  - Cualquier secuestrador puede desempeñar el papel de otro en caso de una muerte desafortunada.
 
-  ##Abduction
+  ##Abduccion
 
   <Box>
     <GuideEntityEmbed Entity="Wonderprod"/>
@@ -37,35 +37,36 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="AbductorGizmo"/>
   </Box>
 
-  Abductors begin on their ship somewhere near the station. Using the [color=#a149bf]"Human Observation Console"[/color] you can seek out victims who are alone and [color=lightblue]warp[/color] near them to begin abduction.
+Los secuestradores comienzan a subir a su barco en algún lugar cerca de la estación. Usando la [color=#a149bf]"Consola de observación humana"[/color] puedes buscar víctimas que estén solas y [color=lightblue]deformarte[/color] cerca de ellas para comenzar la abducción.
 
-  The wonderprod is the primary tool of an Abductor. It has four modes you will use for abduction:
-  - [color=yellow]{Stun}[/color] Stuns the victim for roughly 5 seconds.
-  - [color=pink]{Restrain}[/color] binds the victims hands in weak cables.
-  - [color=blue]{Sleep}[/color] Induces a sleep-like state in the victim, and inflicts ion damage on anything that cannot be slept.
+  El Wonderprod es la herramienta principal de un secuestrador. Tiene cuatro modos que usarás para la abducción:
+  - [color=yellow]{Aturdir}[/color] Aturde a la víctima durante aproximadamente 5 segundos.
+  - [color=pink]{Restrain}[/color] ata las manos de la víctima con cables débiles.
+  - [color=blue]{Sleep}[/color] Induce un estado similar al sueño en la víctima.
+  - [color=red]{Daño}[/color] Quema al objetivo y le causa daño. [negrita] UTILIZAR SÓLO SI ES NECESARIO. [/bold]
 
-  Once a target is immobilized you can use the [italic]gizmo[/italic] to implant them with a nano tracker, return to your ship using the [color=lightblue]return action[/color], then use the gizmo on your [color=#a149bf]Abductor Console[/color].
+  Una vez que un objetivo está inmovilizado, puedes usar el [italic]artilugio[/italic] para implantarle un nano rastreador, regresar a tu nave usando la [color=lightblue]acción de retorno[/color] y luego usar el artilugio en tu [color=#a149bf]Consola abductora[/color].
 
-  In a bad situation you can use the alien pistol to get out of a pinch, it is completely armor piercing but has low capacity. [color=red] You are not here to kill, use sparingly.[/color]
+  En una mala situación, puedes usar la pistola alienígena para salir de un apuro, es completamente perforadora pero tiene poca capacidad. [color=red] No estás aquí para matar, úsalo con moderación.[/color]
 
-  ##Experimentation
+  ##Experimentación
 
   <Box>
     <GuideEntityEmbed Entity="AbductorConsole"/>
     <GuideEntityEmbed Entity="AbductorExperimentator"/>
   </Box>
 
-  Once you have linked the most recent nano tracker to the console, select [bold]{ATTRACT}[/bold] to warp your victim to your ship.
+  Una vez que hayas vinculado el nano tracker más reciente a la consola, selecciona [bold]{ATTRACT}[/bold] para transportar a tu víctima a tu nave.
 
-  Now that you have your victim aboard, its recommended you:
-  - Buckle them to your surgical table.
-  - Change out their cuffs for a higher grade of handcuffs provided on the ship.
-  - Remove any of their belongings that could damage you or the secrecy of the experiment.
-  - Use your vast surgical knowledge to replace their heart with a gland. You don't need to remove their clothes to do surgery, unlike normal surgeons.
+  Ahora que tienes a tu víctima a bordo, te recomendamos:
+  - Abróchelos a su mesa quirúrgica.
+  - Cambiar sus esposas por unas de mayor calidad proporcionadas en el barco.
+  - Retirar cualquiera de sus pertenencias que puedan perjudicarle a usted o al secreto del experimento.
+  - Utilice su vasto conocimiento quirúrgico para reemplazar su corazón con una glándula. No es necesario quitarles la ropa para realizar la cirugía, a diferencia de los cirujanos normales.
 
-  Finally, drag the victim whom you have completed your experiment on into the [color=#a149bf]Experimentator[/color] to confirm the results of the experiment on the [color=#a149bf]Abductor Console[/color] and send them back where you found them.
+  Finalmente, arrastre a la víctima con la que completó su experimento al [color=#a149bf]Experimentador[/color] para confirmar los resultados del experimento en la [color=#a149bf]Consola de abductores[/color] y envíela de regreso a donde la encontró.
 
-  ## Abductor Tools
+  ## Herramientas abductoras
 
   <Box>
     <GuideEntityEmbed Entity="Silencer"/>
@@ -73,12 +74,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="CrowbarAbductor"/>
   </Box>
 
-  Abductors have access to more advanced tools than normal surgeons or engineers. Their surgical tools are faster than advanced surgical tools, and from their normal tools, the multitool's alternative mode is able to be used to hijack doors.
+  Los abductores tienen acceso a herramientas más avanzadas que los cirujanos o ingenieros normales. Sus herramientas quirúrgicas son más rápidas que las herramientas quirúrgicas avanzadas y, a partir de sus herramientas normales, el modo alternativo de la multiherramienta se puede utilizar para hackear puertas.
 
-  You also have access to a silencer, which prevents the crew from speaking when they are hit with it.
+  También tienes acceso a un silenciador, que impide que la tripulación hable cuando lo golpean.
 
-  ##Getting rid of an Abductor
-  Like [textlink="Changelings" link="Changelings"], Abductors are not protected by [textlink="space law" link="SpaceLaw"] and are able to be executed freely.
+  ##Deshacerse de un secuestrador
+  Al igual que [textlink="Changelings" link="Changelings"], los secuestradores no están protegidos por la [textlink="space law" link="Space Law"] y pueden ser ejecutados libremente.
 
-  Also, an abductor's ship is a physical object in the world, anyone with access to a space-faring ship such as [textlink="salvage" link="Salvage"] can bump into them in space and dismantle their ship.
+  Además, la nave de un secuestrador es un objeto físico en el mundo, cualquiera con acceso a una nave espacial como [textlink="salvage" link="Salvage"] puede toparse con ellos en el espacio y desmantelar su nave.
 </Document>

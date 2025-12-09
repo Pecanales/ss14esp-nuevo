@@ -8,29 +8,28 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Surgery
-Your usual weekly activity. By performing surgical operations on your patients, you can heal wounds, remove or add body parts, organs, and more.
+# Cirugía
+Tu actividad semanal habitual. Al realizar operaciones quirúrgicas en sus pacientes, puede curar heridas, eliminar o agregar partes del cuerpo, órganos y más.
 
-## The Basics
-To start surgery your patient needs to be laying down, and ideally sedated.
+## Los conceptos básicos
+Para iniciar la cirugía el paciente debe estar acostado e idealmente sedado.
 
-If they are not sedated, they will be in a lot of pain, which decreases their mood, and will make surgical wounds worse.
+Si no están sedados, sentirán mucho dolor, lo que disminuirá su estado de ánimo y empeorará las heridas quirúrgicas.
 
 <Box>
 <GuideEntityEmbed Entity="NitrousOxideTank" Caption="nitrous oxide"/>
 <GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="any breathing tool"/>
 </Box>
 
-You also need to wear protective gear such as a mask and gloves to prevent harming the patient due to contamination.
+También es necesario utilizar equipo de protección, como mascarilla y guantes, para evitar dañar al paciente debido a la contaminación.
 
 <Box>
 <GuideEntityEmbed Entity="ClothingMaskSterile" Caption="any mask"/>
 <GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="any gloves"/>
 </Box>
+## Empezando
 
-## Getting Started
-
-To engage in surgery, you'll need a set of surgical tools.
+Para realizar una cirugía, necesitará un conjunto de herramientas quirúrgicas.
 
 <Box>
 <GuideEntityEmbed Entity="Scalpel" Caption="scalpel"/>
@@ -44,11 +43,11 @@ To engage in surgery, you'll need a set of surgical tools.
 <GuideEntityEmbed Entity="BoneGel" Caption="bone gel"/>
 </Box>
 
-Once you've got tools in hand, interact with your patient to begin surgery. You'll be able to choose which part you want to operate on.
+Una vez que tenga las herramientas en la mano, interactúe con su paciente para comenzar la cirugía. Podrás elegir qué parte quieres operar.
 
-## Ghetto Surgery
+## Cirugía del gueto
 
-Certain non-surgical tools can be used in a pinch, use the scalpel examine icon to see how good or bad something is.
+Ciertas herramientas no quirúrgicas se pueden usar en caso de necesidad; use el ícono de examen con bisturí para ver qué tan bueno o malo está algo.
 <Box>
 <GuideEntityEmbed Entity="Welder" Caption="welder"/>
 <GuideEntityEmbed Entity="Wirecutter" Caption="wirecutter"/>
@@ -57,6 +56,6 @@ Certain non-surgical tools can be used in a pinch, use the scalpel examine icon 
 <GuideEntityEmbed Entity="CableApcStack" Caption="lv cable"/>
 </Box>
 
-They aren't ideal compared to real surgical equipment, but they'll do in a pinch!
+No son ideales en comparación con el equipo quirúrgico real, ¡pero servirán en caso de necesidad!
 
 </Document>

@@ -8,11 +8,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Part Manipulation
-  This is how you will turn Tajaran into humans, or vice versa if you're feeling particularly cruel.
+ # Manipulación de piezas
+  Así es como convertirás a Tajaran en humanos, o viceversa si te sientes particularmente cruel.
 
-  ## Anatomy
-  Normally a body has 11 main parts. Those being:
+  ## Anatomía
+  Normalmente un cuerpo tiene 11 partes principales. siendo estos:
 
   <Box>
 <GuideEntityEmbed Entity="HeadHuman" Caption="head"/>
@@ -32,30 +32,28 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <GuideEntityEmbed Entity="LeftFootHuman" Caption="left foot"/>
 </Box>
 
-Certain species might have more or less parts, such as tails, wings, or extra limbs, but this is the rough outline of what you'll see.
-To detach a limb, you'll need to apply the Remove Part surgery on it, which will then remove it without harming the patient.
+Ciertas especies pueden tener más o menos partes, como colas, alas o extremidades adicionales, pero esto es un resumen aproximado de lo que verás.
+Para separar una extremidad, deberá aplicarle la cirugía de extracción de parte, que luego la eliminará sin dañar al paciente.
 
-However if you want to reattach the limb, you'll need to apply the Attach Part surgery where you want it attached.
-Hands are attached to the arms, feet are attached to the legs. And everything else is attached to the torso.
+Sin embargo, si desea volver a colocar la extremidad, deberá aplicar la cirugía Adjuntar parte donde desee que se adjunte.
+Las manos están unidas a los brazos, los pies a las piernas. Y todo lo demás va pegado al torso.
 
 
-## Where do I get more parts?
+## ¿Dónde consigo más piezas?
 
-Normally when your patients come in needing new limbs, they'll need to get a new one, as their old ones will be either missing, or damaged beyond repair.
-For this you can use the Medical Biofabricator with some Biomass. Which can manufacture Biosynthetic limbs for all species.
-
+Normalmente, cuando sus pacientes llegan necesitando extremidades nuevas, necesitarán conseguir unas nuevas, ya que las antiguas faltarán o estarán dañadas sin posibilidad de reparación.
+Para ello puedes utilizar el Biofabricador Médico con algo de Biomasa. Que puede fabricar extremidades biosintéticas para todas las especies.
 <Box>
 <GuideEntityEmbed Entity="MedicalBiofabricator" Caption="medical biofabricator"/>
 <GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="biofabricator board"/>
 <GuideEntityEmbed Entity="MaterialBiomass" Caption="biomass"/>
 </Box>
 
-By default, every Chief Medical Officer has access to a Medical Biofabricator board in their locker.
+De forma predeterminada, cada director médico tiene acceso a un tablero de biofabricante médico en su casillero.
 
-## I reattached my patient's limb, but
-## it's not working?
+## Volví a colocar la extremidad de mi paciente, pero
+## ¿no funciona?
 
-Your patient has taken enough damage to the point that their limb's nerves were badly damaged, and they need to be healed properly before it can work again.
-For this you can try the Tend Wounds surgeries, or letting them use topicals on their wounds.
-
+Su paciente ha sufrido suficiente daño hasta el punto de que los nervios de sus extremidades resultaron gravemente dañados y es necesario curarlos adecuadamente antes de que pueda volver a funcionar.
+Para esto puedes probar las cirugías de Tend Wounds, o dejarles usar tópicos en sus heridas.
 </Document>

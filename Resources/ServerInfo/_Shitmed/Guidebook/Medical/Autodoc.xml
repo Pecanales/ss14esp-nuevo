@@ -7,44 +7,45 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Autodoc Mk.XIV
+#Autodoc Mk.XIV
 
-With designs rescued from the derelict KC13, this powerhouse of a mechanical surgeon can be programmed to do just about anything.
+Con diseños rescatados del KC13 abandonado, este poderoso cirujano mecánico puede programarse para hacer casi cualquier cosa.
 
-WARNING: Operation of this device requires proper medical certification and adherence to established medical protocols.
+ADVERTENCIA: El funcionamiento de este dispositivo requiere una certificación médica adecuada y el cumplimiento de los protocolos médicos establecidos.
 
-To get started, use a multitool to link it to a nearby operating table, once it detects a patient sleeping on it, you are ready to operate!
+Para comenzar, use una multiherramienta para vincularla a una mesa de operaciones cercana; una vez que detecte que un paciente duerme sobre ella, ¡está listo para operar!
 
-Before operating put any items a program needs in its storage trays. The Autodoc cannot pick up items off your dirty, blood-stained floor.
+Antes de operar, coloque cualquier elemento que necesite un programa en sus bandejas de almacenamiento. El Autodoc no puede recoger objetos del suelo sucio y manchado de sangre.
 
-# How I make it do the thing help
+# ¿Cómo hago para que funcione?
 
-An autodoc unit has a list of programs, which have steps that are completed in order until the program is complete.
+Una unidad de autodoc tiene una lista de programas, que tienen pasos que se completan en orden hasta que se completa el programa.
 
-Should any issues arise during these steps, it will immediately abort the procedure, unless the program has safety disabled.
+Si surge algún problema durante estos pasos, cancelará inmediatamente el procedimiento, a menos que el programa tenga la seguridad desactivada.
 
-To get started, create a new program with a memorable name, such as "organ stealy". Hit "ADD STEP" to add different kinds of steps:
-- PERFORM SURGERY, the beast itself. Can target any bodypart and complete any surgery. It is up to the programmer to ensure that compatible surgeries are selected, it's a bad idea to install a brain in someones feet.
-  You do not need to add prerequesites like opening the ribcage, they are automatically done.
-- GRAB ITEM, this will look in its item trays for an item with that exact name and grab it for use in surgeries. Use a hand labeler to distinguish multiple of the same item.
-- GRAB ORGAN, this is a shorthand to grab any kind of organ.
-- GRAB PART, this is a shorthand to grab any kind of bodypart.
-- STORE ITEM, this puts the held item in the item trays (if they aren't full). You have to do this after removing an item from the patient, or future operations will get dropped on the floor!
-- SET LABEL, gives the held item a short label. Extremely useful for organ transplants, where specific a organ is needed.
-- WAIT, this just waits a length of time before continuing.
+Para comenzar, cree un nuevo programa con un nombre fácil de recordar, como "robo de órganos". Presione "AGREGAR PASO" para agregar diferentes tipos de pasos:
+- REALIZAR CIRUGÍA, la propia bestia. Puede apuntar a cualquier parte del cuerpo y completar cualquier cirugía. Depende del programador asegurarse de que se seleccionen cirugías compatibles; es una mala idea instalar un cerebro en los pies de alguien.
+  No es necesario agregar requisitos previos como abrir la caja torácica, se realizan automáticamente.
+- GRAB ITEM, esto buscará en sus bandejas de artículos un artículo con ese nombre exacto y lo agarrará para usarlo en cirugías. Utilice una etiquetadora manual para distinguir varios artículos del mismo artículo.
+- GRAB ORGAN, esta es una abreviatura para agarrar cualquier tipo de órgano.
+- GRAB PART, esta es una forma abreviada de agarrar cualquier tipo de parte del cuerpo.
+- ALMACENAR ARTÍCULO, esto coloca el artículo retenido en las bandejas de artículos (si no están llenas). Tienes que hacer esto después de quitarle un objeto al paciente, o futuras operaciones se caerán al suelo.
+- SET LABEL, le da al artículo retenido una etiqueta corta. Extremadamente útil para trasplantes de órganos, donde se necesita un órgano específico.
+- ESPERE, esto solo espera un rato antes de continuar.
 
-So what are you waiting for comrade? Commit war crimes today!
+Entonces, ¿qué estás esperando, camarada? ¡Comete crímenes de guerra hoy!
 
-# Additional program usage
+#Uso adicional del programa
 
-- Disabling a program's safety makes it skip failed steps instead of aborting the entire program.
-  Only do this if you know what you are doing!
-- Selecting a step lets you remove it or add a new step before it, instead of always inserting at the end.
+- Deshabilitar la seguridad de un programa hace que se salte pasos fallidos en lugar de abortar todo el programa.
+  ¡Haz esto sólo si sabes lo que estás haciendo!
+- Seleccionar un paso le permite eliminarlo o agregar un nuevo paso antes, en lugar de insertarlo siempre al final.
 
-# Caveats
+# Advertencias
 
-- Do not under any circumstances snip the machines SAFETY wire, automated personnel medical license would be void.
-  Anesthesia is REQUIRED for safe operation and disabling the need for it is highly unethical to patients.
-- Amputating legs or arms will detach their feet and hands to the floor. Manual intervention will be required, so cut them off first if you need them.
-- If the storage trays are filled, storing items will be impossible and the device will essentially seize up.
+- No cortar en ningún caso el cable de SEGURIDAD de la máquina, quedaría anulada la licencia médica del personal automatizado.
+  Se REQUIERE anestesia para una operación segura y desactivar su necesidad es muy poco ético para los pacientes.
+- Amputar piernas o brazos despegará los pies y las manos del suelo. Se requerirá intervención manual, así que córtelos primero si los necesita.
+- Si las bandejas de almacenamiento están llenas, será imposible almacenar artículos y el dispositivo prácticamente se atascará.
+
 </Document>

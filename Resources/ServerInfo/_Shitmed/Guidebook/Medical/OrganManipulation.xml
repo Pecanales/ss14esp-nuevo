@@ -6,11 +6,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Organ Manipulation
-These surgeries allow you to remove or replace organs from a patient for healthy ones. Which can help treat conditions on their bodies.
+# Manipulación de órganos
+Estas cirugías le permiten extirpar o reemplazar órganos de un paciente por otros sanos. Lo que puede ayudar a tratar afecciones en sus cuerpos.
 
-## Anatomy
-Normally a body has the following organs:
+## Anatomía
+Normalmente un cuerpo tiene los siguientes órganos:
 
 <Box>
 <GuideEntityEmbed Entity="OrganHumanBrain" Caption="brain"/>
@@ -24,23 +24,23 @@ Normally a body has the following organs:
 <GuideEntityEmbed Entity="OrganHumanStomach" Caption="stomach"/>
 </Box>
 
-Certain species might have more or less organs, such as Diona having a combined organ that serves multiple functions, but this is the rough outline of what you'll see.
-To remove an organ, you'll need to apply the respective Organ Removal surgery on it, which will then remove it without harming the patient.
+Ciertas especies pueden tener más o menos órganos, como Diona, que tiene un órgano combinado que cumple múltiples funciones, pero este es un resumen aproximado de lo que verás.
+Para extirpar un órgano, deberás aplicarle la respectiva cirugía de extirpación de órganos, que luego lo extraerá sin dañar al paciente.
 
-However if you want to transplant an organ, you'll need to apply the respective Organ Transplant surgery where it originally was.
+Sin embargo, si desea trasplantar un órgano, deberá realizar la respectiva cirugía de Trasplante de Órganos en el lugar donde estaba originalmente.
 
-## What does each organ transplant do?
+## ¿Qué hace cada trasplante de órgano?
 
-- Transplanting a [color=#a4885c]brain[/color] will allow the patient to take over another body. An excellent alternative to cloning if you can afford to spare another body.
-- Transplanting a [color=#a4885c]liver[/color] will cure severe poisoning from a patient's body.
-- Transplanting [color=#a4885c]lungs[/color] will help cure patients from severe asphyxiation.
-- Transplanting a [color=#a4885c]heart[/color] will cure a patient's body of rot and decay.
-- Transplanting [color=#a4885c]eyes[/color] will allow the patient to see again, and heal any eye damage.
+- Trasplantar un [color=#a4885c]cerebro[/color] permitirá al paciente hacerse cargo de otro cuerpo. Una excelente alternativa a la clonación si puedes permitirte el lujo de prescindir de otro cuerpo.
+- El trasplante de un [color=#a4885c]hígado[/color] curará una intoxicación grave del cuerpo del paciente.
+- El trasplante de [color=#a4885c]pulmones[/color] ayudará a curar a los pacientes de una asfixia grave.
+- Trasplantar un [color=#a4885c]corazón[/color] curará la putrefacción y el deterioro del cuerpo del paciente.
+- El trasplante de [color=#a4885c]ojos[/color] permitirá al paciente volver a ver y curar cualquier daño ocular.
 
-## Where do I get more organs?
+## ¿De dónde consigo más órganos?
 
-Normally when your patients come in needing new organs, they'll need to get a new one, as their old ones will be either missing, or damaged beyond repair.
-For this you can use the Medical Biofabricator with some Biomass. Which can manufacture Biosynthetic organs for all species.
+Normalmente, cuando sus pacientes llegan necesitando órganos nuevos, necesitarán obtener uno nuevo, ya que los antiguos faltarán o estarán dañados sin posibilidad de reparación.
+Para ello puedes utilizar el Biofabricador Médico con algo de Biomasa. Que puede fabricar órganos biosintéticos para todas las especies.
 
 <Box>
 <GuideEntityEmbed Entity="MedicalBiofabricator" Caption="medical biofabricator"/>
@@ -48,11 +48,11 @@ For this you can use the Medical Biofabricator with some Biomass. Which can manu
 <GuideEntityEmbed Entity="MaterialBiomass" Caption="biomass"/>
 </Box>
 
-By default, every Chief Medical Officer has access to a Medical Biofabricator board in their locker.
+De forma predeterminada, cada director médico tiene acceso a un tablero de biofabricante médico en su casillero.
 
-## Why didn't the organ transplant
-## do anything?
+## ¿Por qué no se realizó el trasplante de órganos?
+## hacer algo?
 
-Your patient's body rejected the organ as it is in a bad shape, try using a fresh organ from a donor, or getting a new one from the Medical Biofabricator.
+El cuerpo de su paciente rechazó el órgano porque está en mal estado. Intente utilizar un órgano nuevo de un donante o conseguir uno nuevo del biofabricante médico.
 
 </Document>

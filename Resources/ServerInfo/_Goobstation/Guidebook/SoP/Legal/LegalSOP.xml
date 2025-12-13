@@ -6,15 +6,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Legal Procedures
-This is the list of procedures for separate actions involving Space Law, Legal Actions, and other precedents that may take place on this station.
+# Trámites Legales
+Esta es la lista de procedimientos para acciones separadas que involucran Derecho Espacial, Acciones Legales y otros precedentes que puedan tener lugar en esta estación.
 
-These are more than guidelines, generally speaking, and can/will be enforced by Command/Security.
-
-The following Legal procedures have entries in this folder:
-- [textlink="Execution Procedures" link="Execution SOP"]
-- [textlink="Permanent Brigging Procedures" link="PermaBrig SOP"]
-- [textlink="Punishments Procedures" link="Punishments SOP"]
-- [textlink="Searches Procedures" link="Searches SOP"]
+Estas son más que pautas, en términos generales, y Comando/Seguridad pueden o serán aplicadas.
+Los siguientes trámites legales tienen entradas en esta carpeta:
+- [textlink="Procedimientos de ejecución" link="Execution SOP"]
+- [textlink="Procedimientos de encarselamiento permanente" link="PermaBrig SOP"]
+- [textlink="Procedimientos de Sanciones" link="Punishments SOP"]
+- [textlink="Procedimientos de búsqueda" link="Searches SOP"]
 
 </Document>

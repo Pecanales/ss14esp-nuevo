@@ -1,0 +1,29 @@
+<Document>
+  # Brigmedic SOP
+  Esta es la lista de procedimientos, responsabilidades y deberes del [color=#ba292c][bold]Brigmedic[/bold][/color] de esta estación.
+
+  <ColorBox>
+    <Box>
+A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
+</Box>
+  </ColorBox>
+
+  ## Alerta Verde
+  1. Brigmedic debe brindar atención médica de emergencia a los prisioneros y, lo más importante, al personal de seguridad. Brigmed siempre debe priorizar a comando. No hacerlo es motivo para que HOS o Warden rescindan el contrato del brigmed. 
+
+  2. Brigmedic puede realizar arrestos, registros o cualquier otro procedimiento de seguridad, sin embargo, su prioridad número uno es mantener bajo control la seguridad y la salud de los prisioneros.
+
+  3. Brigmedic puede dejar la seguridad a voluntad, sin embargo, debe priorizar los deseos del director o de HOS si alguna vez hay un conflicto de intereses. Si se rechaza o ignora una solicitud razonable, su contrato puede rescindirse.
+  <Box>Se hace una excepción si un miembro de seguridad está caído y requiere rescate, o si debe visitar el departamento médico para reponer suministros.</Box>
+
+  4. Brigmedic podrá llevar cualquier equipo de seguridad, pero deberá respetar los niveles de alerta. Al igual que el detective, tu papel es más importante que el de un simple oficial de seguridad.
+
+  ## Alerta azul
+  1. Las pautas 1 y 2 se transfieren de [color=#388c34]Alerta Verde[/color].
+
+  ## Alerta roja
+  1. La pauta 1 se transfiere de [color=#388c34]Alerta verde[/color].
+
+  2. Brigmedic tiene la misma autoridad y derechos que los oficiales de seguridad con la aprobación del Jefe de Seguridad, pero aún así deben priorizar la curación.
+  
+</Document>

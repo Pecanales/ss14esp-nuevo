@@ -1,0 +1,19 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP del Departamento de Ingeniería
+Esta es la lista de POE que debe seguir el personal de ingeniería. Como se indicó anteriormente, no son listas de verificación [/bold] y deben tratarse como pautas.
+
+Para mayor claridad, [color=#c8a404][bold]Ingeniero de estación[/bold][/color] y [color=#c8a404][bold]Asistente técnico[/bold][/color] se combinan en la misma entrada y deben seguirse como tales.
+
+Los siguientes trabajos tienen entradas en este Departamento, siendo [color=#1b67a5][bold]Ingeniero Jefe[/bold][/color] el Jefe de Personal:- [textlink="Chief Engineer" link="ChiefEngineer SOP"]
+- [textlink="Técnico Atmosférico" link="AtmosTech SOP"]
+- [textlink="Ingeniero de estación" link="StationEngineer SOP"]
+- [textlink="Asistente Técnico" link="StationEngineer SOP"]
+
+</Document>

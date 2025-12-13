@@ -1,0 +1,21 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP del Departamento de Seguridad
+Esta es la lista de POE que debe seguir el personal de seguridad. Como se indicó anteriormente, no son listas de verificación [/bold] y deben tratarse como pautas.
+
+Como referencia, [color=#ba292c][bold]Oficial de seguridad[/bold][/color] y [color=#ba292c][bold]Cadete de seguridad[/bold][/color] se han combinado en la misma entrada para facilitar su uso.
+
+Los siguientes trabajos tienen entradas en este departamento, siendo el [color=#1b67a5][bold]Jefe de Seguridad[/bold][/color] el Jefe de Personal y el [color=#ba292c][bold]Guardián[/bold][/color] al mando debajo de ellos:
+- [textlink="jefe de seguridad" link="HeadOfSecurity SOP"]
+- [textlink="Guardián" link="Warden SOP"]
+- [textlink="Detective" link="Detective SOP"]
+- [textlink="Oficial de seguridad" link="OfficerCadet SOP"]
+- [textlink="Cadete de seguridad" link="OfficerCadet SOP"]
+
+</Document>

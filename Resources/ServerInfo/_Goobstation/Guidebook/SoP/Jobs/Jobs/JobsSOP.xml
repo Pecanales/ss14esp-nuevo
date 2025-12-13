@@ -1,0 +1,25 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Estándares laborales
+A continuación se adjuntan varias categorías diferentes de procedimientos operativos estándar (SOP) específicos del trabajo. Estos están aquí para ayudar a aclarar diferentes objetivos en su trabajo o departamento.
+
+<Box>
+[bold][color=#f0e4b4]Para ser claro:[/color][/bold] ésta no es una lista de verificación [cursiva][/italic] que usted debe seguir. Se pueden utilizar como tales, pero deberían utilizarse más como directrices.
+</Box>
+
+Las siguientes carpetas se enumeran debajo de esta carpeta:
+- [textlink="Departamento de Carga" link="Cargo SOP"]
+- [textlink="Departamento de Comando" link="Command SOP"]
+- [textlink="Departamento de Ingeniería" link="Engineering SOP"]
+- [textlink="Departamento Médico" link="Medical SOP"]
+- [textlink="Departamento de Ciencias" link="Science SOP"]
+- [textlink="Departamento de Seguridad" link="Security SOP"]
+- [textlink="Departamento de Servicio" link="Service SOP"]
+
+</Document>

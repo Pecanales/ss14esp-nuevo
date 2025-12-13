@@ -1,0 +1,30 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<Document>
+# PNT del ingeniero jefe (CE)
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#1b67a5][bold]Ingeniero jefe[/bold][/color] de esta estación.
+
+1. El ingeniero jefe debe asegurarse de que AME, Supermatter Engine, Tesla y/o Singularity estén completamente configurados y suministrando energía a la estación antes de que ellos o su equipo tomen cualquier medida adicional.
+<Box>Los técnicos atmosféricos deben configurar la atmósfera a menos que haya escasez de personal. Se espera que el ingeniero jefe se encargue de esto [italic]después de que[/italic] se haya configurado la energía.</Box>
+
+2. El Ingeniero Jefe es responsable de mantener la integridad de las Telecomunicaciones.
+<Box>El Ingeniero Jefe no debe obstaculizar el correcto funcionamiento de las Telecomunicaciones, debiendo diagnosticar y reparar cualquier problema que surja.</Box>
+
+3. El ingeniero jefe no puede sacar el hacha de su estuche a menos que exista una amenaza inmediata y urgente a su vida o sea necesario un acceso urgente a lugares de crisis.
+<Box>El hacha debe ser devuelta al caso después, y el caso cerrado.</Box>
+
+4. El ingeniero jefe puede llevar un bastón telescópico, flash y cualquier equipo de ingeniería necesario para su trabajo.
+
+5. El Ingeniero Jefe es Responsable de mantener la Integridad de los motores, sistemas de suministro de energía, [bold]y[/bold] sistemas atmosféricos de la estación.
+<Box>No mantener esto es motivo de rescisión.</Box>
+
+6. El ingeniero jefe podrá declarar un área "condenada" si está dañada hasta el punto de que las reparaciones no puedan completarse razonablemente dentro de un plazo aceptable.
+<Box>Esta área debe estar bloqueada por el personal de ingeniería (incluido el ingeniero jefe) para evitar daños al personal de la estación. Esta área debe anunciarse a través de la Consola central de comunicaciones.</Box>
+
+7. El ingeniero jefe puede otorgar permisos de construcción a los miembros de la tripulación.
+
+</Document>

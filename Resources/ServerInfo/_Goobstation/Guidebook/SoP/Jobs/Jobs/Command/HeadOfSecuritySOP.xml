@@ -1,0 +1,58 @@
+<!--
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP del Jefe de Seguridad (HOS)
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#1b67a5][bold]Jefe de Seguridad[/bold][/color] de esta estación.
+
+<colorbox>
+  <box>
+    A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
+  </box>
+</colorbox>
+
+El [color=#1b67a5][bold]Jefe de seguridad[/bold][/color] puede llevar su equipo de inicio de turno, pero debe seguir los procedimientos de intensificación y abstenerse de usar armas letales.
+
+## Alerta Verde
+1. El Jefe de Seguridad podrá practicar detenciones en las mismas condiciones que sus Oficiales de Seguridad.
+
+2. El Jefe de Seguridad puede llevar un desactivador estándar, un flash, un bastón telescópico, una granada flash y una pistola de energía estándar.
+<Box>Si bien se les permite llevar su exclusiva pistola de energía, deben mantenerla en modo Stun/Desactivar.</Box>
+
+3. El Jefe de Seguridad puede llevar su equipo estándar provisto en su casillero, incluida su metralleta, pero debe abstenerse de utilizarlo.
+
+4. El Jefe de Seguridad no está obligado a ofrecer un juicio, pero se le alienta a permitir representación legal si el sospechoso lo solicita. Esto sólo se aplica a los delitos capitales.
+
+5. El Jefe de Seguridad no puede anular a un Capitán/Representante de Nanotrasen, a menos que sus decisiones infrinjan descaradamente el Procedimiento Operativo Estándar y/o la Ley Espacial. En cuyo caso también se debe contactar al Comando Central.
+
+6. El Jefe de Seguridad debe seguir las mismas pautas que el Guardián para el equipo de la Armería, luces intermitentes portátiles y barreras desplegables.
+
+7. El Jefe de Seguridad no tiene permitido recoger equipo de la Armería para llevarlo consigo.
+
+8. El Jefe de Seguridad puede utilizar su abrigo normal o su gabardina blindada.
+
+9. El Jefe de Seguridad puede usar su máscara antigás exclusiva.
+
+10. El Jefe de Seguridad no podrá anular las penas establecidas, salvo que se aporten nuevas pruebas o el preso en cuestión intente evadirse.
+
+11. El Jefe de Seguridad debe seguir las mismas pautas que los Oficiales de Seguridad en cuanto a vestimenta, con la excepción de que su propia vestimenta asignada también es aceptable para cualquiera de las vestimentas mencionadas para los Oficiales de Seguridad.
+
+## Alerta azul
+1. Todas las pautas se transfieren desde [color=#388c34]Alerta Verde[/color].
+<Box>La excepción es que la pistola de energía ahora se puede usar en modo de energía o de iones si es necesario.</Box>
+
+2. El Jefe de Seguridad puede utilizar la metralleta de forma letal con fines de autodefensa. Deben seguir las mismas leyes de escalada para los hostiles.
+
+## Alerta roja
+1. Todas las pautas se transfieren de [color=#388c34]Alerta verde[/color] y [color=#1b67a5]Alerta azul[/color].
+
+2. Se requiere que el Jefe de Seguridad haga un Anuncio de la Estación sobre la naturaleza de la amenaza confirmada que causó la [color=#ba292c]Alerta Roja[/color].
+<Box>El Capitán podrá realizar esta tarea en lugar del Jefe de Seguridad.</Box>
+
+3. El Jefe de Seguridad también podrá vestir su traje protector si fuera necesario.
+
+</Document>

@@ -1,0 +1,21 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP del Departamento Médico
+Esta es la lista de POE que debe seguir el personal médico. Como se indicó anteriormente, no son listas de verificación [/bold] y deben tratarse como pautas.
+
+Para condensar las entradas, se combinan [color=#42636d][bold]Médico[/bold][/color], [color=#42636d][bold]Médico pasante[/bold][/color], [color=#42636d][bold]Paramédico[/bold][/color].
+
+Los siguientes trabajos tienen entradas en este Departamento, siendo el [color=#1b67a5][bold]Director Médico[/bold][/color] el Jefe de Personal:
+- [textlink="Director médico" link="ChiefMedicalOfficer SOP"]
+- [textlink="Químico" link="Chemist SOP"]
+- [textlink="Paramédico" link="DoctorIntern SOP"]
+- [textlink="Doctor" link="DoctorIntern SOP"]
+- [textlink="Pasante Médico" link="DoctorIntern SOP"]
+
+</Document>

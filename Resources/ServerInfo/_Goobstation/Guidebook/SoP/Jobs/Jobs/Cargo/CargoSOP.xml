@@ -1,0 +1,18 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+	# SOP del Departamento de Carga
+	Esta es la lista de POE que debe seguir el personal de carga. Como se indicó anteriormente, no son listas de verificación [/bold] y deben tratarse como pautas.
+
+	Los siguientes trabajos tienen entradas en este Departamento, siendo el [color=#1b67a5][bold]Intendente[/bold][/color] el Jefe de Personal:
+	- [textlink="Intendente" link="Quartermaster SOP"]
+	- [textlink="Técnico de carga" link="CargoTech SOP"]
+	- [textlink="Especialista en salvamento" link="SalvageSpecialist SOP"]
+
+</Document>
+

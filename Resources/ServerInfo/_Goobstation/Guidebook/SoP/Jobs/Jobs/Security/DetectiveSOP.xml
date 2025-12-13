@@ -1,0 +1,49 @@
+<!--
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Detective SOP
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#ba292c][bold]Detective[/bold][/color] de esta estación.
+
+<ColorBox>
+  <Box>
+A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
+</Box>
+</ColorBox>
+El [color=#ba292c][bold]Detective[/bold][/color] puede llevar su equipo de inicio de turno, pero debe seguir las leyes de escalada y dejarlos enfundados en Alerta Verde.
+
+## Alerta Verde
+1. Al detective se le permite ayudar a los oficiales de seguridad con todas las tareas de patrulla. Esto incluye detenciones, registros y arrestos según el Código de Alerta actual.
+<Box>Sin embargo, deberían priorizar las investigaciones y la recopilación de pruebas forenses.</Box>
+
+2. El detective debe seguir todos los procedimientos operativos estándar descritos por el oficial de seguridad SOP con respecto a detenciones, registros y arrestos según el Código de alerta actual.
+
+3. El Detective podrá llevar su revólver Inspector, munición de repuesto para el mismo y su paraguas Betty, así como el equipo de seguridad estándar, excluidos los cinturones paralizantes y de Judo.
+
+4. No se permite al detective obtener más municiones sin el permiso del Capitán, Jefe de Seguridad y/o Guardián.
+
+5. Al detective se le permite usar ropa que no sea de seguridad con el permiso del Capitán y/o Jefe de Seguridad para fines de investigaciones encubiertas.
+
+6. Cuando no esté encubierto, el Detective debe seguir las mismas pautas que los Oficiales de Seguridad en cuanto a vestimenta, con la excepción de que su propia vestimenta asignada también es aceptable para cualquiera de las vestimentas mencionadas para los Oficiales de Seguridad.
+
+## Alerta azul
+1. Todas las pautas se transfieren desde [color=#388c34]Alerta Verde[/color].
+
+2. El Detective puede separar a cualquier sospechoso para interrogarlo durante el transcurso de su tiempo en Procesamiento. Ningún detenido podrá permanecer retenido durante más de cinco (5) minutos en procesamiento si no hay pruebas disponibles en su contra.
+<Box>Se pueden hacer excepciones para cambiantes, herejes y/o revolucionarios.</Box>
+
+3. El Detective podrá utilizar su revólver durante las detenciones.
+
+## Alerta roja
+1. Las pautas 1, 2, 3, 4, 5 y 7 se transfieren de [color=#388c34]Alerta Verde[/color].
+
+2. Las pautas 2 y 3 se transfieren de [color=#1b67a5]Alerta azul[/color].
+
+3. El Detective puede llevar consigo cualquier arma o equipo disponible en la Armería, a discreción del Capitán, Jefe de Seguridad y/o Guardián, pero nunca más de uno a la vez.
+<Box>Se hacen excepciones para emergencias extremas, como Operativos Nucleares, Blob y/o Alerta Delta.</Box>
+
+</Document>

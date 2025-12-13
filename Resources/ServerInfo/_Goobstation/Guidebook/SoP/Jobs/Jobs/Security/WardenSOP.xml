@@ -1,0 +1,73 @@
+<!--
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# POE del Guardián
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#ba292c][bold]Guardián[/bold][/color] de esta estación.
+
+<ColorBox>
+  <Box>
+A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
+</Box>
+</ColorBox>
+
+El [color=#ba292c][bold]Guardián[/bold][/color] puede llevar su equipo de inicio de turno, pero debe seguir los procedimientos de escalada y abstenerse de usar letales.
+
+## Alerta Verde
+1. El Guardián está obligado a permanecer en el Departamento de Seguridad en todo momento excepto para ayudar en el transporte de prisioneros.
+<Box>El Guardián también debe mantener el control sobre la Armería, con solo excepciones para el Capitán y el Jefe de Seguridad.</Box>
+
+2. El Guardián no podrá realizar detenciones si hay Oficiales de Seguridad activos.
+
+3. El Guardián debe realizar una búsqueda minuciosa de las pertenencias de cada prisionero, incluidos los bolsillos, las ranuras para PDA, los bolsillos de los abrigos y las ranuras para guardar trajes.
+<Box>Siguiendo la ley espacial adecuada: la PDA, la ropa y los auriculares deben devolverse cuando finalice la búsqueda; a menos que el contrabando/manipulación sea evidente. Entonces deberían emitirse reemplazos.</Box>
+
+4. El Guardián debe asegurarse de que todos los reclusos estén equipados con su PDA, auriculares y ropa (siempre que no sean de contrabando ni hayan sido manipulados).
+<Box>En los casos en que el PDA, los auriculares y/o la ropa sean manipulados o contengan contrabando, se deben emitir reemplazos.</Box>
+
+5. El Guardián no está obligado a ofrecer un juicio, pero se le recomienda permitir representación legal si el sospechoso lo solicita. Esto sólo se aplica a los delitos capitales.
+
+6. El Guardián no podrá entregar armas o armaduras de la Armería, excepto inutilizadores adicionales.
+
+7. El Guardián puede llevar un desactivador estándar, un flash, un bastón paralizante, una granada aturdidora y la escopeta de energía proporcionada.
+
+8. El Guardián no podrá colocar luces intermitentes portátiles ni barreras desplegables dentro del Brig.
+
+9. El Guardián debe leer a cada preso los delitos a los que está condenado.
+
+10. Al Guardián no se le permite dejar prisioneros abrochados y esposados ​​a sus camas.
+<Box>Se hace una excepción si los prisioneros actúan de manera demasiado hostil o intentan entrar en la celda para escapar.</Box>
+
+11. El Guardián debe seguir las mismas pautas que los Oficiales de Seguridad en cuanto a vestimenta, con la excepción de que su propia vestimenta asignada también es aceptable para cualquiera de las vestimentas mencionadas para los Oficiales de Seguridad.
+
+12. El Guardián puede colocar las luces intermitentes portátiles dentro del calabozo si hay una afluencia de personal recluso y/o varios intentos de escapar.
+
+## Alerta azul
+1. Las pautas 2, 3, 5, 7, 10 y 12 se transfieren de [color=#388c34]Alerta Verde[/color].
+
+2. El Guardián puede entregar todo el equipo de la Armería. Las pistolas de energía y láser solo se entregarán con la aprobación del Capitán y/o Jefe de Seguridad, ya que presentan un riesgo letal.
+<Box>Se aplican excepciones si existe una amenaza letal y/o una emergencia, como agentes nucleares, Blob y/o alerta Delta.</Box>
+
+3. El Guardián puede colocar flashes portátiles y barreras desplegables dentro del Brig en todo momento.
+
+4. El Guardián aún debe permanecer en el Departamento de Seguridad a menos que una emergencia requiera mudarse.
+
+## Alerta roja
+1. Las pautas 3, 5, 7, 10 y 12 se transfieren de [color=#388c34]Alerta Verde[/color].
+
+2. Las pautas 2 y 3 se transfieren de [color=#1b67a5]Alerta azul[/color]. Además, el Guardián también podrá portar cualquier arma de la Armería, pero nunca más de una a la vez.
+
+3. El Guardián puede distribuir cualquier arma o equipo en la Armería. Esto incluye todo lo que la investigación haya proporcionado.
+
+4. El Guardián podrá realizar detenciones libremente.
+
+5. El Guardián, con la aprobación del Capitán y/o Jefe de Seguridad, podrá entregar una (1) arma letal a un Jefe de Estado Mayor.
+<Box>El arma letal deberá ser devuelta cuando se reduzca la alerta.</Box>
+
+6. El Guardián aún debe permanecer en el Departamento de Seguridad a menos que una emergencia requiera mudarse.
+
+</Document>

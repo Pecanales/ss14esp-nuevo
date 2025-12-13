@@ -1,0 +1,25 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP del Departamento de Servicio
+Esta es la lista de POE que debe seguir el personal de servicio. Como se indicó anteriormente, no son listas de verificación [/bold] y deben tratarse como pautas.
+
+Además, estos listados no necesariamente coinciden entre sí y están separados por Job a menos que se indique lo contrario.
+
+Los siguientes puestos de trabajo tienen entradas en este Departamento, siendo el [color=#1b67a5][bold]Jefe de Personal[/bold][/color] el Jefe de Personal:
+- [textlink="jefe de personal" link="HeadOfPersonnel SOP"]
+- [textlink="Barman" link="Bartender SOP"]
+- [textlink="Botánico" link="Botanist SOP"]
+- [textlink="Chef" link="Chef SOP"]
+- [textlink="Payaso" link="Clown SOP"]
+- [textlink="Conserje" link="Janitor SOP"]
+- [textlink="Bibliotecario" link="Librarian SOP"]
+- [textlink="mimo" link="Mime SOP"]
+- [textlink="Reportero" link="Reporter SOP"]
+
+</Document>

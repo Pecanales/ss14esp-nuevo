@@ -1,0 +1,38 @@
+<!--
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Científico SOP
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#cc74fc]Científico[/color] de esta estación.
+
+<ColorBox>
+  <Box>
+A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
+</Box>
+</ColorBox>
+
+## Alerta Verde
+1. A los científicos no se les permite traer granadas, productos químicos nocivos ni bombas tóxicas fuera del Departamento de Ciencias.
+<Box>[bullet/]Excepciones para las bombas Toxinas si se entregan al Departamento de Carga para operaciones de salvamento.</Box>
+
+2. Los científicos deben dar una advertencia a través de Commons Channel y Science Channel antes de generar una anomalía.
+
+3. No se permite a los científicos crear tableros de consola de IA ni tableros de control de IA sin el permiso del director de investigación y/o el capitán.
+
+## Alerta azul
+1. A los científicos no se les permite traer químicos dañinos fuera del Departamento de Ciencias.
+
+2. Los científicos deben dar una advertencia a través de Commons Channel y Science Channel antes de generar una anomalía.
+
+3. Los científicos pueden traer granadas fuera del Departamento de Ciencias, pero deben justificar su uso.
+
+4. Los científicos pueden llevar bombas de toxinas fuera del Departamento de Ciencias, pero solo para entregarlas en la Armería y/o el Departamento de Carga para operaciones de Salvamento.
+
+## Alerta roja
+1. Todas las pautas de [color=#388c34]Alerta verde[/color] y [color=#1b67a5]Alerta azul[/color] se transfieren. No hay pautas especiales en [color=#ba292c]Alerta Roja[/color].
+
+</Document>

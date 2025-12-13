@@ -1,0 +1,33 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP técnico atmosférico
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#c8a404][bold]Técnico Atmosférico[/bold][/color] de esta estación.
+
+1. A los técnicos atmosféricos se les permite cambiar las tuberías de su región para satisfacer sus necesidades, pero deben mantener el soporte vital para la distribución.
+
+2. A los Técnicos Atmosféricos se les permite realizar mezclas, pero deben tener una utilidad y ser beneficiosas para la estación y/o sus motores.
+<Box>El incumplimiento de esto puede resultar en la rescisión o, en casos graves, la anulación del contrato.</Box>
+
+3. Los Técnicos Atmosféricos pueden enfriar Plasma y almacenarlo para su uso posterior en Colectores de Radiación. Asimismo, se les permite enfriar Nitrógeno o Dióxido de Carbono y almacenarlo para usarlo como refrigerante del Motor de Supermateria;
+
+4. A los Técnicos Atmosféricos no se les permite sacar el hacha de su caja a menos que exista una amenaza inmediata y urgente a su vida o que sea necesario un acceso urgente a lugares de crisis.
+<Box>El hacha debe ser devuelta al caso después, y el caso cerrado.</Box>
+
+5. Los técnicos atmosféricos no pueden alterar los valores predeterminados de las alarmas de aire, pero deben corregirlos y/o cambiar sus valores para situaciones de emergencia. [bold]Esto no incluye secciones aisladas para cámaras de combustión, cámaras de mezcla, etc.[/bold]
+<Box>Sin embargo, se les permite crear pequeñas habitaciones climatizadas para especies que requieren condiciones atmosféricas especiales (como Vox), siempre que reciban el permiso expreso del Ingeniero Jefe.</Box>
+
+6. Los Técnicos Atmosféricos deberán realizar revisiones periódicas en la Computadora Central de Alarmas, en períodos máximos de treinta (30) minutos.
+
+7. Los técnicos atmosféricos deben responder con prontitud a las roturas de tuberías y estaciones.
+<Box>No informar dentro de los quince (15) minutos se considerará una infracción del Procedimiento operativo estándar, a menos que no haya técnicos atmosféricos de repuesto para informar o que un ingeniero haya llegado primero a la escena.</Box>
+<Box>Todas las zonas de peligro deben estar acordonadas con cinta de ingeniería u holobarreras, por el bien de todos los demás.</Box>
+
+8. Los técnicos atmosféricos están sujetos a las mismas pautas y estándares que los [color=#c8a404][bold]ingenieros de estación[/bold][/color]s, pero tienen acceso elevado y sus propias reglas para atmosféricos.
+
+</Document>

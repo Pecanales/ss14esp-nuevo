@@ -1,0 +1,27 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP del ingeniero de estación
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#c8a404][bold]Ingeniero de Estación[/bold][/color] y del [color=#c8a404][bold]Asistente Técnico[/bold][/color] de esta estación.
+
+1. Los ingenieros son responsables de la adecuada activación y mantenimiento de los motores de la estación, así como del mantenimiento de la Red Eléctrica de la Estación.
+<Box>No hacerlo es motivo de rescisión.</Box>
+
+2. No se permite a los ingenieros construir motores adicionales (como motores SM/Tesla/Singularity adicionales y/o paneles solares) hasta que al menos un motor esté configurado correctamente y alimente la estación.
+
+3. Los ingenieros deben revisar cada motor activo al menos una vez cada 30 minutos para garantizar la seguridad y el abastecimiento de combustible.
+
+4. Los ingenieros pueden realizar proyectos de reconstrucción/reconstrucción/personales en solitario si no hay daños en la estación que requieran reparación.
+<Box>Los proyectos grandes requieren la aprobación del Capitán y/o Ingeniero Jefe. Los recursos deben contabilizarse y no privarse de otros Departamentos.</Box>
+
+5. Los ingenieros deben responder con prontitud a las infracciones en un plazo de quince (15) minutos y pueden piratear puertas para obtener acceso en caso de que la ubicación necesite reparaciones.
+<Box>Todas las zonas de peligro deben estar acordonadas con holofanes o barreras.</Box>
+
+6. Los ingenieros deben responder inmediatamente a cualquier emergencia solicitada por Seguridad/Comando para bergantín permanente, puente, bergantín, etc.
+
+</Document>

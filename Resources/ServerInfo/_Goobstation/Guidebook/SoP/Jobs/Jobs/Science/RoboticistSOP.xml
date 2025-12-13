@@ -1,0 +1,39 @@
+<!--
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP robótico
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#cc74fc]Robotista[/color] de esta estación.
+<Box>Para mayor claridad, en este POE se hace referencia a 'Científico' y 'Robotista' como 'Científico'.</Box>
+
+<ColorBox>
+  <Box>
+    A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
+  </Box>
+</ColorBox>
+
+## Alerta Verde
+1. Al Científico no se le permite construir ningún Mech de Combate sin el permiso expreso del Capitán y/o Jefe de Seguridad.
+<Box>El [color=#1b67a5][bold]Director de Investigación[/bold][/color] está sujeto a estas mismas restricciones.</Box>
+
+2. Al Científico se le permite libremente construir Mechs de Utilidad, junto con Equipos de Utilidad. Esto se refiere a Ripley.
+
+3. El Científico puede construir libremente Cyborgs y todo el equipo variado (módulos y más).
+
+4. Al Científico no se le permite transferir MMI de personal a Cyborgs sin el consentimiento expreso, escrito o verbal, de la persona en cuestión.
+<Box>El formulario de consentimiento debe mantenerse seguro.</Box>
+
+## Alerta azul
+1. Las pautas 2, 3 y 4 se transfieren de [color=#388c34]Alerta Verde[/color].
+
+2. El científico puede construir Mechs de combate, pero [bold] debe entregarlos a la Armería[/bold] para su almacenamiento. De no hacerlo, el Combat Mech será destruido.
+<Box>La única excepción a esta política es para emergencias extremas, como Alerta Delta, Operativos Nucleares, Blob, etc.</Box>
+<Box>El [color=#1b67a5][bold]Director de Investigación[/bold][/color] está sujeto a estas mismas restricciones.</Box>
+
+## Alerta roja
+1. Todas las pautas de [color=#388c34]Alerta Verde[/color] y [color=#1b67a5]Alerta Azul[/color] se mantienen. No hay pautas especiales en [color=#ba292c]Alerta Roja[/color].
+</Document>

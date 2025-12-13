@@ -1,0 +1,46 @@
+<!--
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Director de Investigación (RD) SOP
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#1b67a5][bold]Director de Investigación[/bold][/color] de esta estación.
+
+<colorbox>
+  <box>
+    A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
+  </box>
+</colorbox>
+
+## Alerta Verde
+1. El Director de Investigación debe asegurarse de que se esté realizando la Investigación y monitorear el progreso de las Anomalías y los Artefactos, incluida también la Robótica.
+
+2. El Director de Investigación podrá llevar bastón telescópico y flash.
+
+3. Al Director de Investigación no se le permite traer sustancias químicas nocivas fuera de la Ciencia.
+
+4. El Director de Investigación puede llevar/usar su Traje Experimental, pero debe mantenerlo inactivo a menos que sea necesario, por seguridad personal.
+
+5. El Director de Investigación puede cambiar el conjunto de leyes de la Unidad de IA, siempre que reciba la aprobación general del Capitán y otro Jefe de Estado Mayor.
+<Box>Si no hay otros Jefes de Personal disponibles, la aprobación del Capitán será suficiente.</Box>
+
+6. El Director de Investigación debe garantizar que la computadora cyborg se mantenga segura y se use apropiadamente, evitando cualquier daño innecesario a la tripulación o a la propiedad de Nano Trasen.
+
+## Alerta azul
+1. Todas las pautas de [color=#388c34]Alerta Verde[/color] se trasladan a [color=#1b67a5]Alerta Azul[/color]. No se agregaron pautas especiales.
+
+## Alerta roja
+1. Las pautas 1, 4, 5 y 6 se transfieren de [color=#388c34]Alerta Verde[/color].
+
+2. Además del bastón telescópico y el flash, el Director de Investigación puede llevar una sola arma creada en el Protolathe, con permiso del Capitán, Jefe de Seguridad y/o Guardián.
+<Box>Se aplican excepciones para emergencias extremas, lo que permite el uso sin aprobación, para casos como Blobs, Operadores Nucleares y/o Alerta Delta.</Box>
+
+3. El Director de Investigación tiene permitido traer químicos dañinos fuera de Seguridad siempre que sea para personal de Seguridad.
+<Box>Dichos productos químicos deben tener fines orientados a la seguridad, como termita, explosivos controlados, control de multitudes, contención de riesgos biológicos, etc.</Box>
+
+4. El Director de Investigación debe garantizar que la IA y los Cyborgs permanezcan bajo el control del personal de la tripulación (no corruptos) en la medida de sus posibilidades.
+
+</Document>

@@ -1,0 +1,70 @@
+<!--
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Oficial/Cadete SOP
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#ba292c][bold]Oficial de Seguridad[/bold][/color] y del [color=#ba292c][bold]Cadete de Seguridad[/bold][/color] de esta estación.
+
+<ColorBox>
+  <Box>
+A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
+</Box>
+</ColorBox>
+
+Los [color=#ba292c][bold]Los oficiales de seguridad[/bold][/color] pueden llevar sus pistolas durante el turno, pero deben seguir las leyes de escalada y dejarlas enfundadas en Alerta Verde.
+
+## Alerta Verde
+1. Los agentes de seguridad deben indicar los motivos de un arresto antes de tomar cualquier medida adicional.
+<Box>Se hace una excepción si el sospechoso se niega a detenerse.</Box>
+
+2. Los agentes de seguridad deben intentar llevar a todos los sospechosos o testigos al Brig sin esposarlos ni incapacitarlos. Si el sospechoso no coopera, el oficial puede proceder como de costumbre.
+
+3. No se debe desenfundar ningún arma letal a menos que el sospechoso intente huir o se vuelva activamente hostil.
+
+4. A los agentes de seguridad se les permite llevar un inutilizador estándar, una granada aturdidora, un bastón paralizante o un cinturón de judo, el arma cuerpo a cuerpo que les entregan (porra de polímero, cuchillo de combate o una lanza telescópica) y otras armas cuerpo a cuerpo estándar.
+
+5. Los Oficiales de Seguridad no podrán exigir el acceso al interior de otros Departamentos durante las patrullas periódicas. Sin embargo, sigue siendo aceptable solicitar acceso al Jefe de Personal.
+<Box>Se aplican excepciones cuando un sospechoso hostil se encuentra dentro de un área inaccesible.</Box>
+
+6. A los agentes de seguridad no se les permite sacar armas durante las patrullas regulares.
+<Box>Consulte las reglas de escalada para el uso necesario de pistolas con arranque de servicio.</Box>
+
+7. Los agentes de seguridad pueden realizar registros, siempre que existan pruebas o sospechas razonables de que la persona en cuestión ha cometido un delito.
+<Box>Cualquier búsqueda adicional requiere una orden judicial del Capitán y/o Jefe de Seguridad.</Box>
+
+8. Los oficiales de seguridad deben usar al menos una (1) pieza de equipo de seguridad identificable y visible en todo momento.
+<Box>Los artículos aceptables son: cualquier mono de seguridad, cualquier armadura de seguridad, cualquier chaqueta de seguridad o abrigo de invierno de seguridad, cualquier casco o gorro de seguridad.</Box>
+	
+## Alerta azul
+
+1. Las pautas 1, 2, 4 y 8 se transfieren de [color=#388c34]Alerta Verde[/color].
+
+2. Los Oficiales de Seguridad pueden llevar consigo cualquier arma o equipo disponible en la Armería, a discreción del Guardián, pero nunca más de uno a la vez.
+<Box>Se hacen excepciones para emergencias extremas, como Operativos Nucleares, Blob y/o Alerta Delta.</Box>
+
+3. Los agentes de seguridad pueden llevar armas en la mano durante las patrullas regulares, aunque no se recomienda.
+
+4. Los agentes de seguridad pueden presentar armas durante los arrestos.
+<Box>Los oficiales de seguridad deben priorizar los derribos no letales a menos que el personal sospechoso/buscado sea hostil y/o evada continuamente el arresto (durante períodos prolongados).</Box>
+
+5. Los Oficiales de Seguridad podrán exigir el ingreso a Departamentos específicos durante las patrullas regulares.
+
+6. Los oficiales de seguridad pueden registrar aleatoriamente a los miembros de la tripulación, pero no se les permite aplicar ningún grado de fuerza a menos que dicho miembro de la tripulación actúe abiertamente hostil.
+<Box>El personal de la estación que se niegue a ser registrado puede ser aturdido y esposado durante el registro.</Box>
+
+7. Los agentes de seguridad pueden dejar a los prisioneros esposados con hebillas en caso de que actúen de forma hostil.
+
+## Alerta roja
+1. Las pautas 2, 3, 4, 5, 6 y 7 se transfieren de [color=#1b67a5]Alerta azul[/color].
+
+2. La directriz 8 se traslada de [color=#388c34]Alerta Verde[/color].
+
+3. Los agentes de seguridad podrán arrestar a los miembros de la tripulación sin ningún motivo indicado si hay pruebas de que están involucrados en actividades delictivas.
+
+4. Los Oficiales de Seguridad podrán reubicar por la fuerza a los miembros de la tripulación en sus respectivos Departamentos si es necesario.
+
+</Document>

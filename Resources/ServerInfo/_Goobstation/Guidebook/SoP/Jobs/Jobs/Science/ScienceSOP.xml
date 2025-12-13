@@ -1,0 +1,21 @@
+<!--
+SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
+SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# SOP del Departamento de Ciencias
+Esta es la lista de POE que debe seguir el personal científico. Como se indicó anteriormente, no son listas de verificación [/bold] y deben tratarse como pautas.
+
+<Box>Para aclarar, Roboticist puede extenderse a cualquier personal científico que trabaje con robots.</Box>
+
+Se espera que el [color=#cc74fc]Asistente de Investigación[/color] y el [color=#cc74fc]Científico[/color] coincidan en las mismas pautas de SOP.
+Los siguientes puestos de trabajo tienen entradas en este Departamento, siendo el [color=#1b67a5][bold]Director de Investigación[/bold][/color] el Jefe de Personal:
+- [textlink="Director de Investigación" link="ResearchDirector SOP"]
+- [textlink="Roboticist" link="Roboticist SOP"]
+- [textlink="Científico" link="Scientist SOP"]
+- [textlink="Asistente de investigación" link="Scientist SOP"]
+
+</Document>

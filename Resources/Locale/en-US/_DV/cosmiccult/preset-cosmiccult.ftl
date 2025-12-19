@@ -3,10 +3,6 @@
 cosmiccult-announcement-sender = ???
 
 
-## COSMIC CULT ROUND, ANTAG & GAMEMODE TEXT
-
-cosmiccult-announcement-sender = ???
-
 cosmiccult-title = Cosmic Cult
 cosmiccult-description = Los cultistas acechan entre la tripulacion.
 

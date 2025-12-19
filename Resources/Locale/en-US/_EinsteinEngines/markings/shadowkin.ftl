@@ -1,10 +1,10 @@
 marking-EyesShadowkin = Shadowkin
 
 marking-TailShadowkin = Shadowkin
-marking-TailShadowkinBig = Shadowkin (Big)
-marking-TailShadowkinShorter = Shadowkin (Short)
-marking-TailShadowkinMedium = Shadowkin (Medium)
-marking-TailShadowkinBigFluff = Shadowkin (Big and Fluffy)
+marking-TailShadowkinBig = Shadowkin (Grande)
+marking-TailShadowkinShorter = Shadowkin (Corto)
+marking-TailShadowkinMedium = Shadowkin (Medio)
+marking-TailShadowkinBigFluff = Shadowkin (Grande y esponjoso)
 
 marking-EarsShadowkin = Shadowkin
-marking-EarsShadowkinStriped = Shadowkin (Striped)
+marking-EarsShadowkinStriped = Shadowkin (A rayas)

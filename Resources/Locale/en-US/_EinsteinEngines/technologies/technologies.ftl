@@ -1,3 +1,3 @@
-# Touching for REUSE Headers.
-research-technology-basic-translation = Basic Translation
-research-technology-advanced-translation = Advanced Translation
+# Tocando para REUTILIZAR encabezados.
+research-technology-basic-translation = Traduccion Basica
+research-technology-advanced-translation = Traduccion avanzada

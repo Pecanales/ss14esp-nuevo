@@ -1,4 +1,4 @@
 shadowling-destroy-engines-sender = Shadowling
-shadowling-destroy-engines-message = Intervention unnecessary. The engines listened to our influence and obeyed.
-shadowling-destroy-engines-delay = The shuttle will be delayed by {$time} minutes.
+shadowling-destroy-engines-message = Intervencion innecesaria. Las locomotoras escucharon nuestra influencia y obedecieron.
+shadowling-destroy-engines-delay =El servicio de rescate se retrasara {$time} minutos.
 

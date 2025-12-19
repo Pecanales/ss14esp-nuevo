@@ -5,11 +5,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ### goblin tusks
-marking-GoblinTusksBasic = No Tusks
-marking-GoblinTusksBasic-goblin_tusks_none = No Tusks
+marking-GoblinTusksBasic = Sin colmillos
+marking-GoblinTusksBasic-goblin_tusks_none = Sin colmillos
 
-marking-GoblinTusksSmall = Small Tusks
-marking-GoblinTusksSmall-goblin_tusks_small = Small Tusks
+marking-GoblinTusksSmall = pequeños colmillos
+marking-GoblinTusksSmall-goblin_tusks_small = pequeños colmillos
 
-marking-GoblinTusksBig = Long Tusks
-marking-GoblinTusksBig-goblin_tusks_big = Long Tusks
+marking-GoblinTusksBig = colmillos largos
+marking-GoblinTusksBig-goblin_tusks_big =colmillos largos

@@ -10,36 +10,36 @@ chat-manager-shadowling-channel-name = Shadowmind
 
 shadowling-dead = You strangely regain your mind.
 
-shadowling-thrall-examined = This is your Thrall.
-shadowling-thrall-other-examined = {CAPITALIZE(POSS-ADJ($target))} eyes seem to gaze into another reality...
+shadowling-thrall-examined = Este es tu esclavo.
+shadowling-thrall-other-examined = Los ojos {CAPITALIZE(POSS-ADJ($target))} parecen contemplar otra realidad...
 
 guide-entry-shadowlings = Shadowlings
 
 reagent-effect-guidebook-blind-non-sling =
     { $chance ->
-        [1] Blinds any
-        *[other] blind any
-    } non-shadowling
+        [1] Ciega a cualquier
+        *[other] ciega a cualquier
+    } no-shadowling
 
 reagent-effect-guidebook-heal-sling =
     { $chance ->
-        [1] Heals any
-        *[other] heal any
-    } shadowling and thrall
+        [1] Cura a cualquier
+        *[other] cura a cualquier
+    } shadowling y esclavo
 
-marking-LesserShadowlingEyes = Lesser Shadowling Eyes
-marking-AbominationHorns = Abomination Horns
-marking-AbominationTorso = Abomination Torso
+marking-LesserShadowlingEyes = Ojos sombrios menores
+marking-AbominationHorns = Cuernos abominables
+marking-AbominationTorso = torso abominable
 
-admin-verb-make-shadowling = Make the target into a shadowling.
-admin-verb-text-make-shadowling = Make Shadowling
+admin-verb-make-shadowling = Convierte al objetivo en un esclavo.
+admin-verb-text-make-shadowling = hacer esclavo
 
 species-name-shadowling = Shadowling
-species-name-shadow = Shadow
+species-name-shadow = Sombra
 
 # Examine Texts
-shadowling-examine-self = [color=#D22B2B]You take {$damage} burn damage from light[/color]
+shadowling-examine-self = [color=#D22B2B]Recibes {$damage} daño por quemaduras debido a la luz[/color]
 
 # UI
-asc-broadcast-title = Ascendant Broadcast
-asc-broadcast-prompt = Message
+asc-broadcast-title = Transmision ascendente
+asc-broadcast-prompt = Mensaje

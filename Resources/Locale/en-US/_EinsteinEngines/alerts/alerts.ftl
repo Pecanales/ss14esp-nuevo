@@ -1,5 +1,5 @@
-alerts-low-plasma-name = [color=red]Low Plasma[/color]
-alerts-low-plasma-desc = There is [color=red]not enough plasma[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-low-plasma-name = [color=red]poco plasma[/color]
+alerts-low-plasma-desc = [color=red]no hay suficiente plasma[/color] en el aire que respiras. Ponte [color=verde]en lugar seguro[/color].
 
-alerts-high-oxygen-name = [color=red]High Oxygen[/color]
-alerts-high-oxygen-desc = There is [color=red]too much oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-high-oxygen-name = [color=red]mucho oxigeno[/color]
+alerts-high-oxygen-desc = Hay [color=red]demasiado oxigeno[/color] en el aire que respira. Ponte [color=verde]lugar seguro[/color].

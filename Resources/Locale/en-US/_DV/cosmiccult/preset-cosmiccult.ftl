@@ -197,5 +197,5 @@ cosmiccult-gear-pickup = ¡Puedes sentirte desmoronandote mientras sostienes el 
 # Goobstation
 
 cult-alert-recall-shuttle = Se detectaron altas concentraciones de Λ-CDM de origen desconocido a bordo de la estacion. Todas las presencias anomalas deben ser purgadas o contenidas antes de que se autorice la evacuacion.
-cosmiccult-gear-pickup =Puedes sentir como te deshaces mientras sostienes el {$ITEM}!
+
 

@@ -6,68 +6,110 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Gas Mining and Storage
-  Gasses are often permanently used. Whether they are lost to [textlink="space" link="Spacing"] or used in a burn chamber, the station needs to be able to produce more gas to replace what is lost.
-  It also needs to store this gas in a safe and efficient manner.
+	# Manipulación de Gases
+	Atmos cuenta con una amplia variedad de herramientas y equipos a su disposición para la manipulación de gases en toda la estación.
 
-  ## Gas Miners
-  Gas miners are used to replenish the station's gas supply. They are found in the gas storage tanks in Atmospherics.
+	[bold]Advertencia: desanclar (desatornillar) la mayoría de dispositivos que contienen gas provocará [color=red]fugas de gas[/color] hacia la atmósfera.[/bold]
+	Puedes desanclar de forma segura [textlink="botellas" link="GasCanisters"], [textlink="depuradores portátiles" link="PortableScrubber"], [textlink="condensadores" link="GasCondensing"] y [textlink="termomáquinas" link="Thermomachines"].
 
-  <Box>
-    <GuideEntityEmbed Entity="GasMinerOxygenStation"/>
-    <GuideEntityEmbed Entity="GasMinerNitrogenStation"/>
-  </Box>
+	<Box>
+		<GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
+		<GuideEntityEmbed Entity="GasPipeHalf" Caption=""/>
+		<GuideEntityEmbed Entity="GasPipeBend" Caption=""/>
+		<GuideEntityEmbed Entity="GasPipeTJunction" Caption=""/>
+		<GuideEntityEmbed Entity="GasPipeFourway" Caption=""/>
+	</Box>
+	<Box>
+		## Tuberías
+	</Box>
+	<Box>
+		[color=#999999][italic]Distribuir gases de un lugar a otro[italic][/color]
+	</Box>
 
-  Gas miners constantly produce room temperature gas and push it into the exposed atmosphere. They require no power to function, and never stop working unless they have reached the defined [bold]cutoff pressure[/bold].
+	<Box>
+		<GuideEntityEmbed Entity="GasPressurePump" Caption=""/>
+		<GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
+	</Box>
+	<Box>
+		## Bombas
+	</Box>
+	<Box>
+		[color=#999999][italic]Forzar el movimiento de gases de un lugar a otro[italic][/color]
+	</Box>
 
-  You can see more information about the gas miners by inspecting them using [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
-  Try inspecting the gas miners presented above.
+	<Box>
+		<GuideEntityEmbed Entity="GasVentPump" Caption=""/>
+		<GuideEntityEmbed Entity="GasPassiveVent" Caption=""/>
+		<GuideEntityEmbed Entity="GasOutletInjector" Caption=""/>
+		<GuideEntityEmbed Entity="GasVentScrubber" Caption=""/>
+		<GuideEntityEmbed Entity="PortableScrubber" Caption=""/>
+	</Box>
+	<Box>
+		## Entrada y Salida de Atmósfera
+	</Box>
+	<Box>
+		[color=#999999][italic]Insertar y extraer gases de una atmósfera presente (o inexistente)[italic][/color]
+	</Box>
 
-  Gas miners come in tiers, with the larger versions having a higher pressure cutoff than the smaller versions.
+	<Box>
+		<GuideEntityEmbed Entity="GasValve" Caption=""/>
+		<GuideEntityEmbed Entity="SignalControlledValve" Caption=""/>
+		<GuideEntityEmbed Entity="PressureControlledValve" Caption=""/>
+		<GuideEntityEmbed Entity="GasPassiveGate" Caption=""/>
+	</Box>
+	<Box>
+		## Válvulas
+	</Box>
+	<Box>
+		[color=#999999][italic]Controlar el flujo de gas a través de las tuberías[italic][/color]
+	</Box>
 
-  <Box>
-    <GuideEntityEmbed Entity="GasMinerNitrogen" Caption="300 kPa"/>
-    <GuideEntityEmbed Entity="GasMinerNitrogenStation" Caption="1000 kPa"/>
-    <GuideEntityEmbed Entity="GasMinerNitrogenStationLarge" Caption="4500 kPa"/>
-  </Box>
+	<Box>
+		<GuideEntityEmbed Entity="GasMixer" Caption=""/>
+		<GuideEntityEmbed Entity="GasFilter" Caption=""/>
+	</Box>
+	<Box>
+		## Mezcla y Filtrado
+	</Box>
+	<Box>
+		[color=#999999][italic]Manipular la composición de los gases[italic][/color]
+	</Box>
 
-  If gas miners are ever unanchored from the station, they can be reanchored using a regular wrench.
+	<Box>
+		<GuideEntityEmbed Entity="AirCanister" Caption=""/>
+		<GuideEntityEmbed Entity="OxygenCanister" Caption=""/>
+		<GuideEntityEmbed Entity="NitrogenCanister" Caption=""/>
+		<GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>
+		<GuideEntityEmbed Entity="StorageCanister" Caption=""/>
+		<GuideEntityEmbed Entity="GasPort" Caption=""/>
+	</Box>
+	<Box>
+		## Botellas de Gas
+	</Box>
+	<Box>
+		[color=#999999][italic]Almacenar y transportar gas para un uso sencillo por parte de la tripulación[italic][/color]
+	</Box>
 
-  ## Gas Storage
-  Gas storage tanks are used to store gas produced by the gas miners, and to make it available to other processes. They are found in Atmospherics.
+	<Box>
+		<GuideEntityEmbed Entity="SpaceHeater" Caption=""/>
+		<GuideEntityEmbed Entity="GasThermoMachineHeater" Caption=""/>
+		<GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
+		<GuideEntityEmbed Entity="HeatExchanger" Caption=""/>
+	</Box>
+	<Box>
+		## Termomáquinas y Radiadores
+	</Box>
+	<Box>
+		[color=#999999][italic]Manipular la temperatura de los gases en una red de tuberías o en la atmósfera[italic][/color]
+	</Box>
 
-  <Box>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="ReinforcedPlasmaWindow" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="GasOutletInjector" Rotation="270" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="GasMinerOxygenStation" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="GasPassiveVent" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-    <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
-  </Box>
-
-  <Box>
-    [color=#999999][italic]An example of a small gas holding tank[italic][/color]
-  </Box>
-
-  Various atmos processes insert and remove gasses from the gas storage tanks.
-  For example:
-  - The gas miner provides fresh gasses to the gas storage tanks, if there is room.
-  - The recyclernet injects reclaimed gasses into the gas storage tanks for reuse.
-  - Setups like the distronet and burn chamber remove gasses from the gas storage tanks.
-
-  Gas storage tanks are designed to be able to be measured using a [textlink="Gas Analyzer" link="AtmosTools"].
-  Because the outflow vent is a [textlink="passive vent" link="PassiveVent"], you can use a [textlink="gas analyzer" link="AtmosTools"] to measure the gas content of the [textlink="pump's" link="Pumps"] input, which is drawing from the gas storage tank.
+	<Box>
+		<GuideEntityEmbed Entity="BaseGasCondenser" Caption=""/>
+	</Box>
+	<Box>
+		## Condensación de Gases
+	</Box>
+	<Box>
+		[color=#999999][italic]Condensar gases para su uso posterior[italic][/color]
+	</Box>
 </Document>

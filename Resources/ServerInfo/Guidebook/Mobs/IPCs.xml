@@ -10,55 +10,54 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <Document>
   # I.P.C.
   <GuideEntityEmbed Entity="MobIPCDummy" Caption="I.P.C."/>
-  An IPC (short for Integrated Positronic Chassis) is a type of sentient robot and is considered an [color=yellow]independent individual[/color], meaning [color=red]they are not guided by any laws of robotics[/color]. IPCs cannot be hacked by Emags because they do not have to follow any predefined directives in their system. [color=red]IPCs are silicon-based beings, so they are usually healed by Science or Engineering instead of Medical.[/color]
-  They take 20% less Brute damage, 70% more Heat damage and 100% more Shock damage. Contrary to cyborgs, they take Radiation damage, but 60% less than humans.
-  They have no bones.
+  Un IPC (abreviatura de Integrated Positronic Chassis) es un tipo de robot sensible y se considera un [color=amarillo]individuo independiente[/color], lo que significa [color=rojo]no se guía por ninguna ley de la robótica[/color]. Emags no puede piratear los IPC porque no tienen que seguir ninguna directiva predefinida en su sistema. [color=red]Los IPC son seres basados en silicio, por lo que generalmente son curados por la ciencia o la ingeniería en lugar de por la medicina.[/color]
+  Reciben un 20% menos de daño bruto, un 70% más de daño por calor y un 100% más de daño por choque. A diferencia de los cyborgs, sufren daños por radiación, pero un 60% menos que los humanos. Están hechos de una aleación pesada, lo que significa que son más difíciles de tirar, aunque los propios IPC pueden tirar de especies más ligeras con facilidad.
+  No tienen huesos.
 
   <Box>
     <GuideEntityEmbed Entity="PositronicBrain" Caption="Positronic Brain"/>
   </Box>
-  Like borgs, IPCs have a positronic brain as their processing source. However, unlike them, IPCs can't be assembled. "It's cheaper to create a shell that obeys you than one that doesn't! *wink*"
-
-  ## Recharging an IPC
+ Al igual que los borgs, los IPC tienen un cerebro positrónico como fuente de procesamiento. Sin embargo, a diferencia de ellos, los IPC no se pueden ensamblar. "¡Es más barato crear un caparazón que te obedezca que uno que no lo haga! *guiño*"
+ 
+  ## Recargar un IPC
    <Box>
     <GuideEntityEmbed Entity="APCBasic" Caption="APC Terminal"/>
     <GuideEntityEmbed Entity="BorgCharger" Caption="Borg Charger"/>
     <GuideEntityEmbed Entity="PowerCellMedium" Caption="Power Cells"/>
   </Box>
-  IPCs can be recharged in three different ways:
+ Los IPC se pueden recargar de tres formas diferentes:
 
-  APC Terminal: IPCs can use APC terminals to recharge. Press [color=yellow]Alt + left click[/color] on a terminal as many times as needed to fully recharge.
+  Terminal APC: Los IPC pueden utilizar terminales APC para recargar. Pulsa [color=amarillo]Alt + clic izquierdo[/color] en un terminal tantas veces como sea necesario para recargar completamente.
 
-  Borg Rechargers: IPCs can use borg rechargers to recharge. Always prioritize the ones outside of the Sci area to avoid headaches.
+  Recargadores Borg: los IPC pueden usar recargadores borg para recargar. Priorice siempre los que están fuera del área de Sci para evitar dolores de cabeza.
 
-  Power Cells: IPCs can drink energy from power cells to charge their internal battery. [color=yellow]Right Click and select Drain[/color] on a power cell or battery powered device to drink from it.
+  Celdas de energía: los IPC pueden beber energía de las celdas de energía para cargar su batería interna. [color=amarillo]Haga clic derecho y seleccione Drenar[/color] en una celda de energía o dispositivo que funcione con batería para beber de él.
 
-  ## Integrated Radio
+  ## Radio integrada
   <Box>
     <GuideEntityEmbed Entity="EncryptionKeyScience" Caption="Encryption key"/>
   </Box>
 
-  IPCs do [bold]not[/bold] use external radios because they already have one built in. They only need to get an encryption key from a radio. By clicking on an IPC with a [color=yellow]wire cutter[/color], you can remove their keys.
-  You can find new keys around the station or remove one from a sector radio using a [color=yellow]screwdriver[/color].
+ Los IPC [bold]no[/bold] utilizan radios externas porque ya tienen una incorporada. Solo necesitan obtener una clave de cifrado de una radio. Al hacer clic en un IPC con un [color=amarillo]cortacables[/color], puede quitar sus llaves.
+  Puedes encontrar nuevas claves en la estación o quitar una de una radio del sector usando un [color=amarillo]destornillador[/color].
 
-  ## Repairing
+  ## Reparacion
   <Box HorizontalAlignment="Stretch">
     <GuideEntityEmbed Entity="WelderIndustrialAdvanced" Caption="Welder"/>
-    Welders can be used to repair [color=yellow]Brute[/color] damage.
+   Se pueden utilizar soldadores para reparar daños [color=amarillo]brutos[/color].
   </Box>
   <Box HorizontalAlignment="Stretch">
     <GuideEntityEmbed Entity="CableApcStack" Caption="Cables (any type)"/>
-    Cables can be used to repair [color=yellow]Burns[/color].
+    Los cables se pueden utilizar para reparar [color=amarillo]Quemaduras[/color].
   </Box>
   <Box HorizontalAlignment="Stretch">
     <GuideEntityEmbed Entity="SheetGlass" Caption="Glass Sheets (any type)"/>
-    Glass Sheets can be used to repair [color=yellow]Blindness[/color].
+    Las láminas de vidrio se pueden utilizar para reparar la [color=amarillo]ceguera[/color].
   </Box>
   <Box HorizontalAlignment="Stretch">
-    In the event an IPC dies, after being fully repaired, it should be restarted using the [color=yellow]"Restart"[/color] button (located by right-clicking).
+    En caso de que un IPC falle, después de haber sido completamente reparado, se debe reiniciar usando el botón [color=amarillo]"Reiniciar"[/color] (ubicado al hacer clic derecho).
   </Box>
   <Box HorizontalAlignment="Stretch">
-    [color=red]NEVER ELECTROCUTE AN IPC with a defibrillator or in any other way while it is dead, as this will cause the battery to discharge energy rays outward![/color]
-  </Box>
+[color=red]NUNCA ELECTROCUTE UN IPC con un desfibrilador o de cualquier otra manera mientras esté muerto, ya que esto hará que la batería descargue energía hacia afuera.[/color]  </Box>
 
 </Document>

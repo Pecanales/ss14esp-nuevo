@@ -1,21 +1,21 @@
-sling-hatch-engage-popup = THIS ACTION WILL START THE HATCHING PROGRESS! Use it again to confirm.
+sling-hatch-engage-popup = ¡ESTA ACCIÓN COMENZARÁ EL PROGRESO DE LA Eclosion! Úselo nuevamente para confirmar.
 
-sling-hatch-first = You can barely hold yourself in this lesser form!
-sling-hatch-second = The urge to become something greater is overwhelming!
-sling-hatch-third = You feel a burning passion to hatch free of this shell and assume godhood!
+sling-hatch-first = ¡Apenas puedes sostenerte en esta forma menor!
+sling-hatch-second = ¡La necesidad de convertirse en algo mas grande es abrumadora!
+sling-hatch-third = ¡Sientes una pasion ardiente por liberarte de este caparazon y asumir la divinidad!
 
-shadowling-ascension-not-empty = You feel a tremendous force inside this cocoon.
-shadowling-ascension-not-shadowling = You are not what it seeks for. Destroy it before it's too late!
-shadowling-ascension-not-creator = Only the creator of this cocoon can ascend in it.
-shadowling-ascension-ascending = Another shadowling is in the process of hatching. Help them out!
-shadowling-ascension-already-ascended = The ascension has already been completed.
-shadowling-ascension-start-warning = This is your cocoon. You should start the ascension as soon as possible.
+shadowling-ascension-not-empty = Sientes una fuerza tremenda dentro de este capullo.
+shadowling-ascension-not-shadowling = No eres lo que busca. ¡Destruyelo antes de que sea demasiado tarde!
+shadowling-ascension-not-creator = Solo el creador de este capullo puede ascender en el.
+shadowling-ascension-ascending = Otro shadowling esta en proceso de eclosionar. ¡Ayudalos!
+shadowling-ascension-already-ascended = La ascension ya se ha completado.
+shadowling-ascension-start-warning = Este es tu capullo. Debes comenzar la ascension lo antes posible.
 
 shadowling-ascension-message =
-    An unidentified life-form is completing its evolution {$location}.
-    All remaining personnel are ordered to eliminate the source at any cost.
-    Failure to do so will result in total station collapse and absolute loss of all crew.
+    Una forma de vida no identificada esta completando su evolucion {$ubicacion}.
+    Se ordena a todo el personal restante que elimine la fuente a cualquier precio.
+    De lo contrario, se producira el colapso total de la estacion y la perdida absoluta de toda la tripulacion.
 
 shadowling-ascended-message =
-    The air turns to ash. The stars blink in fear. Something ancient has awakened beneath your feet — a will not born of man, but of shadow and hunger.
-    It has remembered its name. It has remembered you. There will be no dawn.
+   El aire se vuelve ceniza. Las estrellas parpadean de miedo. Algo antiguo ha despertado bajo tus pies: una voluntad no nacida del hombre, sino de la sombra y el hambre.
+    Ha recordado su nombre. Se ha acordado de ti. No habra amanecer.

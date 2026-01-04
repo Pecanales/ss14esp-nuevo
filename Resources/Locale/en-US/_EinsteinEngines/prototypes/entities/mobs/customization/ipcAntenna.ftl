@@ -5,11 +5,11 @@
 
 marking-RobotAntennaTv = Tv
 marking-RobotAntennaTesla = Tesla
-marking-RobotAntennaLightb = Light (alt)
-marking-RobotAntennaLight = Light
-marking-RobotAntennaCyberhead = Cyberhead
-marking-RobotAntennaSidelights = Sidelights
-marking-RobotAntennaAntlers = Antlers
-marking-RobotAntennaDroneeyes = Drone Eyes
-marking-RobotAntennaCrowned = Crowned
-marking-RobotAntennaTowers = Towers
+marking-RobotAntennaLightb = Luz (alt.)
+marking-RobotAntennaLight = Luz
+marking-RobotAntennaCyberhead = cibercabeza
+marking-RobotAntennaSidelights = Luces laterales
+marking-RobotAntennaAntlers = antenas
+marking-RobotAntennaDroneeyes = Ojos de drones
+marking-RobotAntennaCrowned = Coronado
+marking-RobotAntennaTowers = Torres

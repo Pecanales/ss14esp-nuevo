@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-# Goobstation - Fix spelling error.
-ipc-recharge-tip = You recharge your battery.
-dead-startup-button-verb = Reboot
-dead-startup-system-reboot-success = {$target}'s system was rebooted.
-dead-startup-system-reboot-failed = {$target}'s chassis is way too damaged.
+#Goobstation: corrige el error ortográfico.
+ipc-recharge-tip = Recargas tu batería.
+dead-startup-button-verb = Reiniciar
+dead-startup-system-reboot-success = {$target} El sistema se reinició.
+dead-startup-system-reboot-failed = {$target} El chasis está demasiado dañado.

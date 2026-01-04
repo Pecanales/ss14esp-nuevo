@@ -6,84 +6,84 @@
     <GuideEntityEmbed Entity="ClothingMaskNinja" Caption=""/>
   </Box>
 
-  Ninjutsu is a [textlink="martial art" link="MartialArts"] thoroughly developed by the Spider Clan.
-  Space Ninjas are true masters of this technique, yet Space Wizards may also unravel its secrets.
-  Remember your four teachings. Never move around loud. Only strike when unseen. Patience prevails, haste fails. Death comes in silence.
+ Ninjutsu es un [textlink="arte marcial" link="martialarts"] desarrollado minuciosamente por el Clan Araña.
+  Los Ninjas Espaciales son verdaderos maestros de esta técnica, pero los Magos Espaciales también pueden desentrañar sus secretos.
+  Recuerda tus cuatro enseñanzas. Nunca te muevas ruidosamente. Solo ataca cuando no te vean. La paciencia prevalece, la prisa falla. La muerte llega en silencio.
 
-  ## Special abilities
+  ## Habilidades especiales
 
-  ### Sneak Attack
+  ### Ataque furtivo
 
   <Box>
     <GuideEntityEmbed Entity="EnergyKatana" Caption=""/>
   </Box>
 
-  In the shadow of stillness, the Ninja's strike shall echo with the force of two. Doubles the damage for next melee attack.
-  Once harm is dealt, the sneakiness fades, retreating into swiftness, waiting for the next chance to rise.
-  Enables Ninjutsu Takedown and Assassinate, disables Swift Strike.
+ En la sombra de la quietud, el golpe del Ninja resonará con la fuerza de dos. Duplica el daño para el próximo ataque cuerpo a cuerpo.
+  Una vez que se ha infligido el daño, la astucia se desvanece y se vuelve veloz, esperando que surja la próxima oportunidad.
+  Activa Ninjutsu Takedown y Assassinate, desactiva Swift Strike.
 
-  ### Loss of Surprise
+  ### Pérdida de sorpresa
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookLossOfSurprise" Caption=""/>
   </Box>
 
-  In the silence of an opening, the ninja moves like a whisper in the wind.
-  Speed is their weapon, and the moment to strike is fleeting, like a shadow in the dark.
-  Lasts 5 seconds. Disables Ninjutsu Takedown and Assassinate but enables Swift Strike.
+ En el silencio de una apertura, el ninja se mueve como un susurro en el viento.
+  La velocidad es su arma y el momento de atacar es fugaz, como una sombra en la oscuridad.
+  Dura 5 segundos. Desactiva Ninjutsu Takedown y Assassinate pero habilita Swift Strike.
 
-  ### Escape Plan
+  ### Plan de escape
 
-  Your target has perished. It is time to leave and plan your next attack.
+  Tu objetivo ha perecido. Es hora de partir y planificar tu próximo ataque.
 
-  After a successful kill, the ninja's spirit sharpens and quickens. Their movement speed increases temporally,
-  gliding through shadow and blood alike — unseen, unstoppable, and already gone before the next breath is drawn.
+  Después de una muerte exitosa, el espíritu del ninja se agudiza y se acelera. Su velocidad de movimiento aumenta temporalmente,
+  deslizándose a través de sombras y sangre por igual, invisible, imparable y ya desaparecido antes de respirar de nuevo.
 
-  ## Combo attacks
+  ## Ataques combinados
 
-  ### Assasinate
-
+  ### Asesinar
+  
   <Box>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Deals massive damage to target's chest if Sneak Attack is active. Damage is easily stopped by armor.
-  Works in unarmed combat or Left Mouse Button attacks using a Slash damage weapon.
+  Inflige un daño masivo al pecho del objetivo si el ataque furtivo está activo. El daño se detiene fácilmente con la armadura.
+  Funciona en combates sin armas o ataques con el botón izquierdo del mouse usando un arma de daño cortante.
 
-  ### Ninjutsu Takedown
+  ### Derribo de Ninjutsu
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookHelp" Caption=""/>
   </Box>
 
-  Only works with active Sneak Attack. Slows the opponent down significantly and mutes them.
-  Works better if performed from behind.
+ Sólo funciona con Sneak Attack activo. Ralentiza significativamente al oponente y lo silencia.
+  Funciona mejor si se realiza desde atrás.
 
-  ### Swift Strike
+  ### Golpe rápido
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  When the foe is knocked down, melee weapon dealing slash strike comes faster than the eye can follow.
-  And unarmed, each attack will drain the opponent's stamina. Only works with Loss of Surprise active.
+ Cuando el enemigo es derribado, el ataque con arma cuerpo a cuerpo se produce más rápido de lo que el ojo puede seguir.
+  Y desarmado, cada ataque agotará la resistencia del oponente. Sólo funciona con Loss of Surprise activo.
 
-  ### Bite The Dust
+  ### Muerde el polvo
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Temporarily knocks the opponent down. As well as dealing blunt damage.
+ Derriba temporalmente al oponente. Además de causar daño contundente.
 
-  ### Dirty Kill
+  ### Muerte sucia
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Temporarily stuns a knocked down opponent. Target cannot be stunned for longer than they are knocked down.
+ Aturde temporalmente a un oponente derribado. El objetivo no puede ser aturdido por más tiempo del que es derribado..
 
 </Document>

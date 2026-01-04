@@ -1,55 +1,55 @@
 <Document>
 
-  # Corporate Judo
+  # judo
 
   <Box>
     <GuideEntityEmbed Entity="ClothingBeltCorporateJudo" Caption=""/>
   </Box>
 
-  Corporate Judo, or simply Judo, is a [textlink="martial art" link="MartialArts"] that focuses on restraining your opponent with more
-  complex but effective moves. You will see this style most used by Security Officers, as they get access to the belts in their department.
-  Harness the art and strike any tider that gets in your way. A good understanding of intents is required.
+  El Judo Corporativo, o simplemente Judo, es un [textlink="arte marcial" link="martialarts"] que se enfoca en contener a tu oponente con más
+  movimientos complejos pero efectivos. Verá que este estilo es el más utilizado por los agentes de seguridad, ya que tienen acceso a los cinturones de su departamento.
+  Aprovecha el arte y ataca cualquier marea que se interponga en tu camino. Se requiere una buena comprensión de las intenciones.
 
-  ## Special abilities
+  ## Habilidades especiales
 
-  Judo users are better at Harm intent, as their unarmed attacks will deal extra damage to the opponent.
+  Los usuarios de judo son mejores en la intención de dañar, ya que sus ataques desarmados causarán daño adicional al oponente.
 
-  ### Stunbaton Scorn
+  ### Desprecio Stunbaton
 
-  A Judo user is unable to use stunbatons. A true master relies on technique, using the
-  body’s leverage and strength to subdue, leaving the need for electrified force behind.
+  Un usuario de Judo no puede utilizar bastones paralizantes. Un verdadero maestro se basa en la técnica, utilizando el
+  el apalancamiento y la fuerza del cuerpo para dominar, dejando atrás la necesidad de fuerza electrificada.
 
-  ## Combo attacks
+  ## Ataques combinados
 
-  ### Discombobulate
+  ### Descomponerse
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Slows the opponent down and reduces their stamina resistance temporarily.
+  Ralentiza al oponente y reduce temporalmente su resistencia.
 
-  ### Eye Poke
+  ### Golpe en el ojo
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Blinds the opponent and blurs their vision, regardless of eye protection, and deals some Blunt damage.
+  Ciega al oponente y le nubla la visión, independientemente de la protección ocular, y le causa algo de daño contundente.
 
-  ### Judo Throw
+  ### Lanzamiento de judo
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Can only be perfomed while standing. Only works on standing opponents, dealing Stamina damage and knocking them down.
-  Knockdown duration is affected by their Stamina resistance.
+ Sólo se puede realizar estando de pie. Solo funciona con oponentes de pie, infligiendo daño de resistencia y derribándolos.
+  La duración del derribo se ve afectada por su resistencia.
 
-  ### Armbar
+  ### Barra de brazo
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
@@ -57,10 +57,10 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Only works on downed opponents. Inflicts Stamina damage, disarms them, and locks them in an armbar until they manage to stand up.
-  Armbar works similarly to a knockdown and choke grab, and its duration is affected by their Stamina resistance.
+Sólo funciona con oponentes caídos. Inflige daño de resistencia, los desarma y los encierra en una barra de brazo hasta que logran ponerse de pie.
+  Armbar funciona de manera similar a un derribo y un estrangulamiento, y su duración se ve afectada por su resistencia a la resistencia.
 
-  ### Wheel Throw
+  ### Lanzamiento de rueda
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
@@ -68,7 +68,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Only works on opponents locked in an armbar. Flips the opponent over the shoulder,
-  inflicting massive Stamina damage, and forces the user back on their feet.
+  Sólo funciona con oponentes atrapados en una barra de brazo. Gira al oponente por encima del hombro,
+  infligiendo un daño masivo de resistencia y obligando al usuario a ponerse de pie.
 
 </Document>

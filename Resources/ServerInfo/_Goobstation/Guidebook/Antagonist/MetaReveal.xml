@@ -9,76 +9,76 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Revealing conditions for antags
+  # Condiciones reveladoras para antags.
 
-  The following list provides revealing conditions for different antags you may see on the station
+  La siguiente lista proporciona condiciones reveladoras para diferentes antags que puedes ver en la estación.
 
-  ## Heretics
-  The revealing condition for this shield is any of the following:
-  - Finding a rune
-  - Finding a reality fracture
-  - Witnessing a crewmember using their powers
+  ## Herejes
+  La condición reveladora de este escudo es cualquiera de las siguientes:
+  - Encontrar una runa
+  - Encontrar una fractura en la realidad.
+  - Ser testigo de cómo un miembro de la tripulación usa sus poderes.
 
-  ## Cosmic Cult
+  ## Culto Cósmico
 
-  The revealing condition for this shield is any of the following:
-  - witnessing a crewmember with the telltale facemask
-  - Seeing a glyph
-  - witnessing a crewmember absorb a malign shift
-  - witnessing a crewmember use a cult-specific ability
-  - witnessing cult gear like entropic swords and armor
+  La condición reveladora de este escudo es cualquiera de las siguientes:
+  - presenciar a un miembro de la tripulación con la máscara reveladora
+  - Ver un glifo
+  - presenciar a un miembro de la tripulación absorber un cambio maligno
+  - presenciar a un miembro de la tripulación usar una habilidad específica de un culto
+  - presenciar equipos del culto usando espadas y armaduras entrópicas
 
-  ## Devils
+ ## demonios
 
-  The revealing condition for this shield is any of the following:
-  - You are a Devil.
-  - You are the Chaplain, a lawyer, or a member of Central Command. (Including BSO and NTR)
-  - You have made a deal with the Devil.
-  - You have witnessed someone make a deal.
+  La condición reveladora de este escudo es cualquiera de las siguientes:
+  - Eres un diablo.
+  - Eres sacerdote, abogado o miembro del Comando Central. (Incluyendo BSO y NTR)
+  - Has hecho un trato con el diablo.
+  - Has sido testigo de cómo alguien hizo un trato.
 
-  ## Zombies
+  ## Zombis
 
-  Revealing conditions to the "Zombie" Shield:
-  - You are a Nuclear Operative
-  - You are a Syndicate Agent
-  - You are a Zombie
-  - You have seen Zombies on the station
+  Condiciones reveladoras del Escudo "Zombie":
+  - Eres un operador nuclear
+  - Eres un agente sindical
+  - Eres un zombi
+  - Has visto Zombies en la estación.
 
-  ## Infections(Once the zombie virus is proven)
+  ## Infecciones (Una vez comprobado el virus zombie)
 
-  Revealing conditions to the "Infections" Shield:
-  - You are a Chemist
-  - You are a Chief Medical Officer
-  - Zombies are announced to be real and station-wide
+  Condiciones reveladoras del Escudo "Infecciones":
+  - Eres químico
+  - Eres un director médico
+  - Se anuncia que los zombis son reales y están en toda la estación.
 
-  ## Deathsquad
+  ## escuadrón de la muerte
 
-  Revealing conditions to the "Deathsquad" Shield:
-  - You'll know.
+  Condiciones reveladoras del Escudo "Deathsquad":
+  - Lo sabrás.
 
-  ## Implanted implants
+  ## Implantes implantados
 
-  The revealing condition for this shield is any of the following:
-  - discovering a non-NT implanter, used or unused
-  - discovering a non-NT implant box
-  - discovering use of a non-NT implant by anyone
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  La condición reveladora de este escudo es cualquiera de las siguientes:
+  - descubrir un implantador que no sea NT, usado o no
+  - descubrir una caja de implante que no es NT
+  - descubrir el uso de un implante que no es NT por parte de cualquier persona
+  - experimentar una situación en la que no es posible ninguna otra explicación
+  - descubrir un enlace ascendente desbloqueado
 
-  ## Chameleon Items
+  ## Artículos camaleón
 
-  The revealing condition for this shield is any of the following:
-  - seeing someone else cause any chameleon item to change
-  - finding holographic nanomachine fibers
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  La condición reveladora de este escudo es cualquiera de las siguientes:
+  - ver a otra persona hacer que cualquier elemento camaleón cambie
+  - encontrar fibras holográficas de nanomáquinas
+  - experimentar una situación en la que no es posible ninguna otra explicación
+  - descubrir un enlace ascendente desbloqueado
 
-  ## Stealth Items
+  ## Artículos sigilosos
 
-  The revealing condition for this shield is any of the following:
-  - seeing the item behave differently than the expected behavior for the item
-  - seeing the item used for its hidden purpose
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  La condición reveladora de este escudo es cualquiera de las siguientes:
+  - ver que el artículo se comporta de manera diferente al comportamiento esperado para el artículo
+  - ver el artículo utilizado para su propósito oculto
+  - experimentar una situación en la que no es posible ninguna otra explicación
+  - descubrir un enlace ascendente desbloqueado
 
 </Document>

@@ -7,19 +7,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Emergency Procedures
-This is the list of procedures that should (ideally) be followed in certain circumstances. This is a variety of emergencies and levels of hostiliy/threat to the station.
+	# Procedimientos de emergencia
+	Esta es la lista de procedimientos que (idealmente) deberían seguirse en determinadas circunstancias. Se trata de una variedad de emergencias y niveles de hostilidad/amenaza a la estación.
 
-Command and Security should utilize this section to differentiate the danger level for this station and choose appropriate reactions.
+	Comando y Seguridad deben utilizar esta sección para diferenciar el nivel de peligro para esta estación y elegir las reacciones apropiadas.
 
-The following emergencies are underneath this folder:
-- [textlink="Confirmed Revolutions" link="ConfirmedRevs SOP"]
-- [textlink="Containment Failures (Tesla/Singularity)" link="ContainmentFail SOP"]
-- [textlink="Fire/Gas Spills" link="FireGasSpill SOP"]
-- [textlink="Meteor Storms" link="MeteorStorm SOP"]
-- [textlink="Supermatter Delamination" link="SMDelam SOP"]
-- [textlink="War Declaration" link="WarDeclaration SOP"]
-- [textlink="Zombie Outbreak" link="Zombie SOP"]
-- [textlink="Emergency Response Team" link="EmergencyResponseTeam SOP"]
+	Las siguientes emergencias se encuentran debajo de esta carpeta:
+	- [textlink="Revoluciones confirmadas"  link="ConfirmedRevs SOP"]
+	- [textlink="Fallas de contención (Tesla/Singularity)" link="ContainmentFail SOP"]
+	- [textlink="Derrames de gas/incendio" link="FireGasSpill SOP"]
+	- [textlink="Tormentas de meteoritos" link="MeteorStorm SOP"]
+	- [textlink="Deslaminación de supermateria" link="SMDelam SOP"]
+	- [textlink="Declaración de Guerra" link="WarDeclaration SOP"]
+	- [textlink="Brote Zombi" link="Zombie SOP"]
+	- [textlink="Equipo de respuesta a emergencias" link="EmergencyResponseTeam SOP"]
 
 </Document>

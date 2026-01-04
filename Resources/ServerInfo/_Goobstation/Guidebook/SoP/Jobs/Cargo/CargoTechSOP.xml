@@ -6,32 +6,33 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Cargo Technician SOP
-This is the list of procedures, responsibilities, and duties of the [color=#846326]Cargo Technician[/color] of this station.
+# SOP técnico de carga
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#846326]Técnico de Carga[/color] de esta estación.
 
-1. Cargo Technicians must ensure that every approved order is delivered within 15 minutes of having been placed and approved.
+1. Los Técnicos de Carga deben asegurarse de que cada pedido aprobado se entregue dentro de los 15 minutos de haber sido realizado y aprobado.
 
-2. Cargo Technicians are not permitted to handle restricted crates (crates for Security/Command).
+2. Los Técnicos de Carga no tienen permitido manipular cajas restringidas (cajas para Seguridad/Comando).
 
-3. Cargo Technicians are not permitted to order items for sole personal use with the supply department account without express consent from the Quartermaster.
-<Box>Exception is made if there are more than [bold]7,500 spesos[/bold] available and no outstanding orders. Cargo Technicians may not deplete the entire department account balance for this.</Box>
+3. Los técnicos de carga no pueden ordenar artículos para uso personal exclusivo con la cuenta del departamento de suministros sin el consentimiento expreso del intendente.
+<Box>Se hace excepción si hay más de [bold]7,500 spesos[/bold] disponibles y no hay pedidos pendientes. Los Técnicos de Carga no pueden agotar todo el saldo de la cuenta del departamento por esto.</Box>
 
-4. Cargo Technicians are not permitted to order non-essential items using the supply account (such as cats, or clothing) without express consent from the Quartermaster.
+4. Los técnicos de carga no pueden ordenar artículos no esenciales utilizando la cuenta de suministros (como gatos o ropa) sin el consentimiento expreso del intendente.
 
-5. Cargo Technicians are not permitted to force and/or break open locked crates.
-<Box>Exception is made for Abandoned Crates found by Salvaging.</Box>
+5. Los técnicos de carga no pueden forzar ni romper cajas cerradas con llave.
+<Box>Se hace una excepción para las cajas abandonadas encontradas mediante recuperación.</Box>
 
-6. Cargo Technicians are not permitted to authorize non-departmental orders (such as a Medical Doctor asking for Insulated Gloves) without express permission from the Quartermaster.
+6. Los técnicos de carga no pueden autorizar órdenes no departamentales (como que un médico solicite guantes aislantes) sin el permiso expreso del intendente.
 
-7. Cargo Technicians are to ensure and verify that the personnel ordering in the request form is a crew member and is correct identification and shows the correct reason in the request.
+7. Los Técnicos de Carga deben asegurarse y verificar que el personal que realiza el pedido en el formulario de solicitud sea un miembro de la tripulación y tenga una identificación correcta y muestre el motivo correcto en la solicitud.
 
-8. Cargo Technicians must ensure at least one copy of every Order Form (ie, the forms produced by the Requests Console) is kept inside Cargo until the order is finished.
+8. Los técnicos de carga deben asegurarse de que al menos una copia de cada formulario de pedido (es decir, los formularios producidos por la consola de solicitudes) se mantenga dentro de Cargo hasta que finalice el pedido.
 
-9. Cargo Technicians must send back all crates that have been ordered, with accompanying manifest on the crate.
+9. Los técnicos de carga deben devolver todas las cajas que hayan pedido, con el manifiesto adjunto en la caja.
 
-10. Cargo Technicians are not permitted to ask for spesos in exchange for legal cargo crate orders or autolathe requests from crew members.
+10. Los técnicos de carga no pueden solicitar spesos a cambio de pedidos legales de cajas de carga o solicitudes de torno automático por parte de los miembros de la tripulación.
 
-11. Cargo Technicians are not permitted to trade items and/or favors in exchange for items with regular personnel without express consent from the Quartermaster.
+11. A los Técnicos de Carga no se les permite intercambiar artículos y/o favores a cambio de artículos con personal regular sin el consentimiento expreso del Intendente.
 
-12. Cargo Technicians are not to keep any illegal items that are flushed down Disposals, and must deliver them to Security.
+12. Los Técnicos de Carga no deben conservar ningún artículo ilegal que se deseche en los Desechos, y deben entregarlos a Seguridad.
+
 </Document>

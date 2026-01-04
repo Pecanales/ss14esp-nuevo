@@ -6,35 +6,34 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Medical Doctor/Intern SOP
-This is the list of procedures, responsibilities, and duties of the [color=#42636d][bold]Medical Doctor[/bold][/color] and [color=#42636d][bold]Medical Intern[/bold][/color] of this station.
+# Médico/Pasante SOP
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#42636d][bold]Médico[/bold][/color] y del [color=#42636d][bold]Médico Interno[/bold][/color] de esta estación.
 
-1. Though not mandatory, it is recommended that Doctors wear Sterile Masks and Latex/Nitrile gloves when handling patients.
-<Box>This Guideline becomes mandatory during Viral Outbreaks [bold]and[/bold] when performing [bold][italic]Surgeries[/italic][/bold].</Box>
+1. Aunque no es obligatorio, se recomienda que los médicos usen mascarillas estériles y guantes de látex/nitrilo al manipular a los pacientes.
+<Box>Esta Guía se vuelve obligatoria durante Brotes Virales [bold]y[/bold] al realizar [bold][italic]Cirugías[/italic][/bold].</Box>
 
-2. Medical Interns should focus on helping Medical Doctors and Paramedics in whatever they require, and tending to patients that require light care.
-<Box>If necessary, they can stand in for regular Medical Doctor duties.</Box>
+2. Los Médicos Internos deben centrarse en ayudar a los Médicos y Paramédicos en lo que requieran y atender a los pacientes que requieran cuidados ligeros.
+<Box>Si es necesario, pueden sustituir a los médicos habituales.</Box>
 
-3. Paramedics are expected to fulfill the duties of regular Medical Doctors if there are no active Medical Doctors/Interns.
+3. Se espera que los paramédicos cumplan con las funciones de los médicos regulares si no hay médicos/pasantes activos.
 
-4. Medical Doctors must ensure there is at least one (1) Defibrillator available for use in the Exam Room (or wherever the main treatment area is).
+4. Los médicos deben asegurarse de que haya al menos un (1) desfibrilador disponible para su uso en la sala de examen (o dondequiera que esté el área de tratamiento principal).
 
-5. Medical Doctors must maintain the entirety of Medbay in an hygienic state. This includes, but is not limited to, cleaning organic residue, fluids and/or corpses.
-<Box>Janitorial Services should be requested for big spills.</Box>
+5. Los médicos deben mantener la totalidad de Medbay en un estado higiénico. Esto incluye, pero no se limita a, la limpieza de residuos orgánicos, fluidos y/o cadáveres.
+<Box>Se deben solicitar servicios de limpieza para derrames grandes.</Box>
+	
+6. Los médicos deben colocar todos los cadáveres dentro de bolsas para cadáveres y/o congeladores para preservar su estado cuando no puedan trabajar en ellos inmediatamente.
+<Box>En caso de sobrecarga extrema, la morgue puede usarse para preservación, pero se debe revisar si hay [bold][italic]almas[/italic][/bold] para garantizar que los cuerpos puedan ser revividos.</Box>
 
-6. Medical Doctors must place all corpses inside body bags and/or freezers to preserve their state when unable to be worked on immediately.
-<Box>In extreme overload, the morgue may be used for preservation but should be checked for [bold][italic]souls[/italic][/bold] to ensure bodies can be revived.</Box>
+7. Los médicos deben trabajar junto con los genetistas y químicos para asegurarse de que la clonación cuente con biomasa, reactivo óseo y reactivo sanguíneo.
+<Box>Además, los médicos deben asegurarse de que la morgue no contenga cadáveres clonables.</Box>
 
-7. Medical Doctors must work together with Geneticists and Chemists to make sure that Cloning is stocked with Biomass, Osseous Reagent and Sanguine Reagent.
-<Box>In addition, Medical Doctors must make sure that the Morgue does not contain cloneable corpses.</Box>
+8. Los Médicos deben certificar que todo el personal clonado sea trasladado adecuadamente al nuevo cuerpo clonado.
+<Box>Además, los médicos deben asegurarse de que el personal clonado esté completamente curado y que cualquier daño o órgano faltante se repare antes de ser liberado.</Box>
 
-8. Medical Doctors must certify that all cloned personnel are properly transferred to the new cloned body.
-<Box>In addition, Medical Doctors must ensure cloned personnel are fully healed and any damage or missing organs are fixed before being released.</Box>
+9. Los médicos no pueden salir de Medbay para realizar actividades recreativas si hay pacientes desatendidos que requieren tratamiento.
 
-9. Medical Doctors are not permitted to leave Medbay to perform recreational activities if there are unattended patients requiring treatment.
+10. Los Médicos deben estabilizar a los pacientes antes de llevarlos a Cirugía. Si el paciente presenta Sangrado Interno se debe llevar inmediatamente a Cirugía.
 
-10. Medical Doctors must stabilize patients before delivering them to Surgery. If the patient presents Internal Bleeding, they are to be taken to Surgery post haste.
-
-11. Medical Doctors are not obliged to treat patients who are actively and intentionally harming themselves. If treated, refer the patient to the on-station Psychologist.
-
+11. Los médicos no están obligados a tratar a pacientes que se estén dañando activa e intencionalmente. En caso de tratamiento derivar al paciente al Psicólogo de guardia.
 </Document>

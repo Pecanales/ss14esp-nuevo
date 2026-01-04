@@ -6,35 +6,34 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Roboticist SOP
-This is the list of procedures, responsibilities, and duties of the [color=#cc74fc]Roboticist[/color] of this station.
-<Box>For clarification, 'Scientist' and 'Roboticist' are both referred to as 'Scientist' in this SOP.</Box>
+# SOP robótico
+Esta es la lista de procedimientos, responsabilidades y deberes del [color=#cc74fc]Robotista[/color] de esta estación.
+<Box>Para mayor claridad, en este POE se hace referencia a 'Científico' y 'Robotista' como 'Científico'.</Box>
 
 <ColorBox>
   <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
+    A los efectos de escalamiento de alertas: Trate las alertas superiores como si todavía estuvieran en el nivel de alerta anterior. (La alerta amarilla es alerta azul si antes era alerta azul). Además, trate las alertas Delta, Gamma, Epsilon y Violet como alerta roja.
   </Box>
 </ColorBox>
 
-## Green Alert
-1. The Scientist is not permitted to construct any Combat Mechs without express permission from the Captain and/or Head of Security.
-<Box>The [color=#1b67a5][bold]Research Director[/bold][/color] is placed under these same restrictions.</Box>
+## Alerta Verde
+1. Al Científico no se le permite construir ningún Mech de Combate sin el permiso expreso del Capitán y/o Jefe de Seguridad.
+<Box>El [color=#1b67a5][bold]Director de Investigación[/bold][/color] está sujeto a estas mismas restricciones.</Box>
 
-2. The Scientist is freely permitted to construct Utility Mechs, along with Utility Equipment. This refers to Ripleys.
+2. Al Científico se le permite libremente construir Mechs de Utilidad, junto con Equipos de Utilidad. Esto se refiere a Ripley.
 
-3. The Scientist is freely permitted to construct Cyborgs and all assorted equipment (modules and more).
+3. El Científico puede construir libremente Cyborgs y todo el equipo variado (módulos y más).
 
-4. The Scientist is not permitted to transfer personnel MMIs into Cyborgs without express written or verbal consent from the person in question.
-<Box>The consent form should be kept safe.</Box>
+4. Al Científico no se le permite transferir MMI de personal a Cyborgs sin el consentimiento expreso, escrito o verbal, de la persona en cuestión.
+<Box>El formulario de consentimiento debe mantenerse seguro.</Box>
 
-## Blue Alert
-1. Guidelines 2, 3, and 4 carry over from [color=#388c34]Green Alert[/color].
+## Alerta azul
+1. Las pautas 2, 3 y 4 se transfieren de [color=#388c34]Alerta Verde[/color].
 
-2. The Scientist is permitted to construct Combat Mechs, but [bold]must deliver them to Armory[/bold] for Storage. Failure to do so will result in the Combat Mech being destroyed.
-<Box>The only exception to this policy is for extreme emergencies, such as Delta Alert, Nuclear Operatives, Blob, et cetera.</Box>
-<Box>The [color=#1b67a5][bold]Research Director[/bold][/color] is placed under these same restrictions.</Box>
+2. El científico puede construir Mechs de combate, pero [bold] debe entregarlos a la Armería[/bold] para su almacenamiento. De no hacerlo, el Combat Mech será destruido.
+<Box>La única excepción a esta política es para emergencias extremas, como Alerta Delta, Operativos Nucleares, Blob, etc.</Box>
+<Box>El [color=#1b67a5][bold]Director de Investigación[/bold][/color] está sujeto a estas mismas restricciones.</Box>
 
-## Red Alert
-1. All guidelines from [color=#388c34]Green Alert[/color] and [color=#1b67a5]Blue Alert[/color] carry over. No special guidelines in [color=#ba292c]Red Alert[/color].
-
+## Alerta roja
+1. Todas las pautas de [color=#388c34]Alerta Verde[/color] y [color=#1b67a5]Alerta Azul[/color] se mantienen. No hay pautas especiales en [color=#ba292c]Alerta Roja[/color].
 </Document>

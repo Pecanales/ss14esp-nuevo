@@ -6,20 +6,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Service Department SOP
-These are the list of SOPs that Service Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP del Departamento de Servicio
+Esta es la lista de POE que debe seguir el personal de servicio. Como se indicó anteriormente, no son listas de verificación [/bold] y deben tratarse como pautas.
 
-Furthermore, these listings do not necessarily coincide with one another, and are separated by Job unless otherwise stated.
+Además, estos listados no necesariamente coinciden entre sí y están separados por Job a menos que se indique lo contrario.
 
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Head of Personnel[/bold][/color] being the Head of Staff:
-- [textlink="Head of Personnel" link="HeadOfPersonnel SOP"]
-- [textlink="Bartender" link="Bartender SOP"]
-- [textlink="Botanist" link="Botanist SOP"]
+Los siguientes puestos de trabajo tienen entradas en este Departamento, siendo el [color=#1b67a5][bold]Jefe de Personal[/bold][/color] el Jefe de Personal:
+- [textlink="jefe de personal" link="HeadOfPersonnel SOP"]
+- [textlink="Barman" link="Bartender SOP"]
+- [textlink="Botánico" link="Botanist SOP"]
 - [textlink="Chef" link="Chef SOP"]
-- [textlink="Clown" link="Clown SOP"]
-- [textlink="Janitor" link="Janitor SOP"]
-- [textlink="Librarian" link="Librarian SOP"]
-- [textlink="Mime" link="Mime SOP"]
-- [textlink="Reporter" link="Reporter SOP"]
+- [textlink="Payaso" link="Clown SOP"]
+- [textlink="Conserje" link="Janitor SOP"]
+- [textlink="Bibliotecario" link="Librarian SOP"]
+- [textlink="mimo" link="Mime SOP"]
+- [textlink="Reportero" link="Reporter SOP"]
 
 </Document>

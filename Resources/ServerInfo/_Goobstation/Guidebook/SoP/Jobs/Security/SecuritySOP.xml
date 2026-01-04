@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Security Department SOP
-These are the list of SOPs that Security Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP del Departamento de Seguridad
+Esta es la lista de POE que debe seguir el personal de seguridad. Como se indicó anteriormente, no son listas de verificación [/bold] y deben tratarse como pautas.
 
-For reference, [color=#ba292c][bold]Security Officer[/bold][/color] and [color=#ba292c][bold]Security Cadet[/bold][/color] have been combined in the same entry, for ease of use.
+Como referencia, [color=#ba292c][bold]Oficial de seguridad[/bold][/color] y [color=#ba292c][bold]Cadete de seguridad[/bold][/color] se han combinado en la misma entrada para facilitar su uso.
 
-The following jobs have entries in this department, the [color=#1b67a5][bold]Head of Security[/bold][/color] being the Head of Staff and [color=#ba292c][bold]Warden[/bold][/color] commanding underneath them:
-- [textlink="Head of Security" link="HeadOfSecurity SOP"]
-- [textlink="Warden" link="Warden SOP"]
+Los siguientes trabajos tienen entradas en este departamento, siendo el [color=#1b67a5][bold]Jefe de Seguridad[/bold][/color] el Jefe de Personal y el [color=#ba292c][bold]Guardián[/bold][/color] al mando debajo de ellos:
+- [textlink="jefe de seguridad" link="HeadOfSecurity SOP"]
+- [textlink="Guardián" link="Warden SOP"]
 - [textlink="Detective" link="Detective SOP"]
-- [textlink="Security Officer" link="OfficerCadet SOP"]
-- [textlink="Security Cadet" link="OfficerCadet SOP"]
+- [textlink="Oficial de seguridad" link="OfficerCadet SOP"]
+- [textlink="Cadete de seguridad" link="OfficerCadet SOP"]
 
 </Document>

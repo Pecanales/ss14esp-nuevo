@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Tesla/Singularity Containment Loose Procedures
-In the event of a tesla or singularity containment failure (aptly named "tesloose" and "singuloose"), the station evac is to be called and the station alert set to [color=#c8a404]Yellow Alert[/color].
+# Procedimientos brecha de contención de Tesla/Singularidad
+En caso de una falla de contención de tesla o singularidad (acertadamente llamada "tesloose" y "singuloose"), se debe llamar a la evacuación de la estación y establecer la alerta de la estación en [color=#c8a404]Alerta amarilla[/color].
 
-1. Attempts to stop the loosed material should be made, if possible, via containment weapons, such as the [bold][italic]Portable Particle Decelerator[/italic][/bold].
+1. Los intentos de detener el material liberado deben realizarse, si es posible, mediante armas de contención, como el [bold][italic]Desacelerador de partículas portátil[/italic][/bold].
 
-2. Command and Engineering are to do their best at tracking and notifying crew via Communications Channels of the location of the loosed tesla/singularity.
-<Box>It is not required, but vastly recommended of doing so.</Box>
+2. El comando y la ingeniería deben hacer todo lo posible para rastrear y notificar a la tripulación a través de canales de comunicación sobre la ubicación del tesla/singularidad perdida.
+<Box>No es obligatorio, pero sí muy recomendable hacerlo.</Box>
 
-3. Command [bold]must[/bold] open and set EVA Storage to Emergency Access.
+3. El comando [bold]debe[/bold] abrir y configurar EVA Storage en Acceso de emergencia.
 
-4. In the event of a complete containment of the loosed material, if the station is relatively undamaged, normal shift activity should resume and the alert should be set to a safe alert.
+4. En caso de una contención completa del material suelto, si la estación está relativamente intacta, se debe reanudar la actividad normal del turno y la alerta debe establecerse en alerta segura.
 
 </Document>

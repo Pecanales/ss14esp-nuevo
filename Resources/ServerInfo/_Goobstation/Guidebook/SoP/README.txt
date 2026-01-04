@@ -1,16 +1,16 @@
-All of the resources in this directory and subdirectories under this are created/modified from existing (open-source) material by the following authors:
-- Rouge2t7
-- Tikibomb
-- CerberusWolfie
+Todos los recursos en este directorio y subdirectorios bajo este son creados/modificados a partir de material existente (de código abierto) por los siguientes autores:
+-Rouge2t7
+- Tikibomba
+- Cerberus Wolfie
 
-with suggestions from other Staff Members of Goobstation.
+con sugerencias de otros miembros del personal de Goobstation.
 
-The alert levels (all except Epsilon) are created by Funky Station (a downstream from Goobstation at this time).
+Los niveles de alerta (todos excepto Epsilon) son creados por Funky Station (una cadena descendente de Goobstation en este momento).
 
-Epsilon was created and modified from one of the others.
+Epsilon fue creado y modificado a partir de uno de los demás.
 
-Why does this exist?
-Primarily to make it easier to explain the formatting of this entire directory (and subdirectories).
+¿Por qué existe esto?
+Principalmente para que sea más fácil explicar el formato de todo este directorio (y subdirectorios).
 
-Each subdirectory has the .xml file for that "folder" as it appears in the guidebook. The subdirectories and contents, including the main file in this directory,
-are organized with the same formatting as appears in the guidebook in-game.
+Cada subdirectorio tiene el archivo .xml para esa "carpeta" tal como aparece en la guía. Los subdirectorios y contenidos, incluido el archivo principal en este directorio,
+están organizados con el mismo formato que aparece en la guía del juego.

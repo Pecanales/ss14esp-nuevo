@@ -6,13 +6,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Utility Surgeries
+# Cirugías de servicios públicos
 
-## Tend Wounds
+## Cuida las heridas
 
-Tend Wounds is a surgery that allows you to heal brute or burn damage from a patient without the need for topicals.
-To begin you need to open an incision on the patient's body, and then apply a Hemostat to it until the part is fully healed.
-At which point then you can close the incision with a Cautery.
+Tend Wounds es una cirugía que permite curar daños brutos o por quemaduras de un paciente sin necesidad de tópicos.
+Para comenzar, debe abrir una incisión en el cuerpo del paciente y luego aplicarle un hemostato hasta que la parte esté completamente curada.
+En ese momento podrá cerrar la incisión con un cauterio.
 
 <Box>
 <GuideEntityEmbed Entity="Scalpel" Caption="scalpel"/>
@@ -20,12 +20,12 @@ At which point then you can close the incision with a Cautery.
 <GuideEntityEmbed Entity="Cautery" Caption="cautery"/>
 </Box>
 
-This surgery performs best the more damaged your patient is, especially if they are still alive. And allows you to bring otherwise unrecoverable
-patients, such as the dumb Technical Assistant that just walked into the burn chamber.
+Esta cirugía funciona mejor cuanto más dañado esté el paciente, especialmente si todavía está vivo. Y le permite traer de otro modo irrecuperable
+pacientes, como el tonto asistente técnico que acaba de entrar a la cámara de quemados.
 
-## Cavity Implant
+## Implante de cavidad
 
-This surgery allows you to implant any Tiny or Small item into a patient's torso. To begin you need to open an incision, and then open their ribcage.
-Your patient cannot access the implanted item normally, though there may be uses for this, such as hiding the Nuclear Authentication Disk.
+Esta cirugía le permite implantar cualquier elemento diminuto o pequeño en el torso de un paciente. Para empezar es necesario abrir una incisión y luego abrir la caja torácica.
+Su paciente no puede acceder normalmente al elemento implantado, aunque esto puede tener usos, como ocultar el disco de autenticación nuclear.
 
 </Document>

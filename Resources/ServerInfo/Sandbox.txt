@@ -1,16 +1,16 @@
 
-[color=#ffffff]Entity spawn panel options[/color]
-[color=#a4885c]Default[/color] spawns small entities like mugs without aligning them to anything, while aligning block entities like walls to the grid.
-[color=#a4885c]PlaceFree[/color] spawns all entities without aligning them.
-[color=#a4885c]PlaceNearby[/color] limits the spawn radius to around 2 tiles.
-[color=#a4885c]SnapgridCenter[/color] aligns the entity to the middle of the tile.
-[color=#a4885c]SnapgridBorder[/color] aligns the entity to the border of the tile.
+[color=#ffffff]Opciones del panel de generación de entidades[/color]
+[color=#a4885c]por defecto[/color] genera entidades pequeñas como tazas sin alinearlas con nada, mientras alinea entidades de bloques como paredes con la cuadrícula.
+[color=#a4885c]plaza libre[/color] genera todas las entidades sin alinearlas.
+[color=#a4885c]plaza cercano[/color] limita el radio de generación a alrededor de 2 mosaicos.
+[color=#a4885c]Centro Snapgrid[/color] alinea la entidad con el centro del mosaico.
+[color=#a4885c]Borde de cuadrícula instantánea[/color] alinea la entidad con el borde del mosaico.
 
-[color=#ffffff]Grid aligned options[/color]
-[color=#a4885c]AlignSimilar[/color] snaps the entity to similar entities. Currently broken.
-[color=#a4885c]AlignTileAny[/color] aligns the entity to the grid.
-[color=#a4885c]AlignTileEmpty[/color] target tile must be empty
-[color=#a4885c]AlignTileNonDense[/color] no colliders allowed in the target tile.
-[color=#a4885c]AlignTileDense[/color] colliders must be in the target tile.
-[color=#a4885c]AlignWall[/color] snaps to vertical halftiles.
-[color=#a4885c]AlignWallProper[/color] snaps the entity to the middle of the tile edges
+[color=#ffffff]Opciones alineadas con la cuadrícula[/color]
+[color=#a4885c]Alinear similares[/color] ajusta la entidad a entidades similares. Actualmente roto.
+[color=#a4885c]Alinear mosaico cualquiera[/color] alinea la entidad con la cuadrícula.
+[color=#a4885c]Alinear mosaico vacío[/color] el mosaico de destino debe estar vacío
+[color=#a4885c]Alinear mosaico no denso[/color] no se permiten colisionadores en el mosaico de destino.
+[color=#a4885c]Alinear mosaico denso[/color] Los colisionadores deben estar en el mosaico de destino.
+[color=#a4885c]Alinear pared[/color] Se ajusta a medias baldosas verticales.
+[color=#a4885c]Alinear la pared correctamente[/color] ajusta la entidad al centro de los bordes del mosaico

@@ -6,11 +6,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Service
-[color=#9fed58]Service[/color] keeps the station clean, efficient and sane so that all other departments can do their jobs better and keep their staff happy. They also end up doing most of the paperwork on the station.
+# Servicio
+[color=#9fed58]Servicio[/color] mantiene la estación limpia, eficiente y sensata para que todos los demás departamentos puedan hacer mejor su trabajo y mantener contento a su personal. También terminan haciendo la mayor parte del papeleo en la estación.
 
 ## Personnel
-[color=#9fed58]Service[/color]'s staff is made up of Service Workers, Chefs, Botanists, Bartenders, Janitors, Chaplains, Clowns, Mimes, Musicians, Lawyers, Librarians and Passengers. Service is run by the Head of Personnel.
+[color=#9fed58]Servicio[/color] El personal está compuesto por trabajadores de servicios, chefs, botánicos, camareros, conserjes, capellanes, payasos, mimos, músicos, abogados, bibliotecarios y pasajeros. El servicio está a cargo del Jefe de Personal.
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Chef"/>
@@ -31,11 +31,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="HoP"/>
   </Box>
 
-## Working Together
-[color=#9fed58]Service[/color], despite being the most diverse, tends to be the most [color=#a4885c]interlinked[/color] department by far.
-Most [color=#9fed58]Service[/color] jobs require [color=#a4885c]cooperation[/color] between workers.
-Chefs often need ingredients that only botanists can grow efficiently. The bartender may request bananas that only clowns carry in abundance.
-The lawyer may invite the mime to play charades to convince the judge that their client is innocent.
+	## Trabajando juntos
+	[color=#9fed58]Servicio[/color], a pesar de ser el más diverso, tiende a ser el más [color=#a4885c]interconectados los [/color] departamento de lejos.
+	Mayoría de [color=#9fed58]Servicios[/color] requieren trabajo en [color=#a4885c]equipo[/color] entre trabajadores.
+	Los chefs suelen necesitar ingredientes que sólo los botánicos pueden cultivar de forma eficiente. El barman puede pedir plátanos que sólo los payasos llevan en abundancia.
+	El abogado puede invitar al mimo a jugar charadas para convencer al juez de que su cliente es inocente.
 
-A lot of [color=#a4885c]collaboration[/color] is necessary within and without [color=#9fed58]Service[/color]. Often times, [color=#9fed58]Service[/color] is required by other departments, so be on your toes.
+	Mucha [color=#a4885c] colaboración [/color] es necesario dentro y fuera [color=#9fed58]Servicio[/color]. muchas veces, [color=#9fed58]Servicio[/color] es requerido por otros departamentos, así que esté alerta.
 </Document>

@@ -10,13 +10,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Chef
-A fella has gotta eat, and it's the chef's job to make sure folks have something other than junk to munch on.
+#chef
+Un chico tiene que comer, y el trabajo del chef es asegurarse de que la gente tenga algo más que comida chatarra para comer.
 
 
-[textlink="Click here to see a list of food recipes." link="FoodRecipes"]
+[textlink="Haga clic aquí para ver una lista de recetas de comida.." link="FoodRecipes"]
 
-First and foremost, you'll need to familiarize yourself with the kitchen, and the tools available to you.
+En primer lugar, deberá familiarizarse con la cocina y las herramientas disponibles.
 
 <Box>
 <GuideEntityEmbed Entity="KitchenKnife"/>
@@ -32,51 +32,51 @@ First and foremost, you'll need to familiarize yourself with the kitchen, and th
 <GuideEntityEmbed Entity="VendingMachineDinnerware" Caption="Dinnerware Vend"/>
 </Box>
 
-## Kitchen Prep:
+## Preparación de la cocina:
 
-It's hard to put into words how to play chef without feeling like you're being given orders, but here are some basics.
+Es difícil expresar con palabras cómo jugar al chef sin sentir que te están dando órdenes, pero aquí tienes algunos conceptos básicos.
 
-- Check what you have on hand when it comes to ingredients, most kitchens have some Flour, Rice, Eggs, Monkey Cubes, and a few other things to get started with.
-- Try your hand at mixing up some dough by putting water and flour together in a beaker. (Use the sinks!)
-- Check the Wiki (or Food Recipes) guidebook for things you can make, and put all the listed ingredients into a microwave to cook it into a meal.
-- Set up mouse traps. Yes, really. It's easy to see all your hard work disappear if you don't take precautions for mice infestations.
+- Comprueba lo que tienes a mano en cuanto a ingredientes, la mayoría de las cocinas tienen harina, arroz, huevos, cubitos de mono y algunas cosas más para empezar.
+- Intente mezclar un poco de masa juntando agua y harina en un vaso de precipitados. (¡Usa los lavabos!)
+- Consulte la guía Wiki (o Recetas de comida) para conocer las cosas que puede preparar y coloque todos los ingredientes enumerados en un microondas para cocinarlos y convertirlos en una comida.
+- Instalar trampas para ratones. Sí, de verdad. Es fácil ver cómo todo su arduo trabajo desaparece si no toma precauciones contra las infestaciones de ratones.
 
-Once you're a bit more experienced and familiar with what you can make, it might be best to put together a few menus, or a "cheat sheet" so you can give a list of ingredients to botany.
+Una vez que tengas un poco más de experiencia y estés familiarizado con lo que puedes hacer, puede que sea mejor preparar algunos menús o una "hoja de referencia" para poder darle una lista de ingredientes a la botánica.
 
-## Mixing Dough:
-Add Flour and Water together in a beaker. (Use the sink for water!)
+## Mezclar masa:
+Agregue la harina y el agua en un vaso de precipitados. (¡Usa el fregadero para agua!)
 <Box>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
 <GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="water"/>
 <GuideEntityEmbed Entity="FoodDough"/>
 </Box>
-## Making Flour:
-Place wheat in a grinder (with a beaker placed inside) and grind it up!
+## Hacer harina:
+¡Coloque el trigo en un molinillo (con un vaso de precipitados dentro) y muélalo!
 <Box>
 <GuideEntityEmbed Entity="KitchenReagentGrinder"/>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
 </Box>
-## Getting Plants:
-Ask Botany for what you need, without a botanist, you may need to grow more plants yourself.
+## Conseguir plantas:
+Pregúntale a Botánica lo que necesitas; sin un botánico, es posible que necesites cultivar más plantas tú mismo.
 <Box>
 <GuideEntityEmbed Entity="SignHydro1" Caption=" "/>
 <GuideEntityEmbed Entity="hydroponicsTray"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 </Box>
-## Gathering Milk:
-Alt-Click on a Cow with a container in your hand. (Beakers, Buckets, Milk Jugs, ect.)
+## Recogiendo leche:
+Pulsa Alt y haz clic en una vaca con un recipiente en la mano. (Vasos de precipitados, baldes, jarras de leche, etc.)
 <Box>
 <GuideEntityEmbed Entity="Bucket"/>
 <GuideEntityEmbed Entity="MobCow"/>
 <GuideEntityEmbed Entity="DrinkMilkCarton"/>
 </Box>
-## How to Butcher:
-In most cases, you should be able to use a knife directly on a creature that's dead. It's best to do this in the freezer, as the results are... messy.
+## Cómo matar:
+En la mayoría de los casos, deberías poder usar un cuchillo directamente sobre una criatura que esté muerta. Es mejor hacer esto en el congelador, ya que los resultados son... desordenados.
 
-Monkeys, however, (and other humanoids), need to be dragged onto a meatspike to be butchered.
+Sin embargo, los monos (y otros humanoides) deben ser arrastrados a una púa de carne para ser masacrados.
 <Box>
 <GuideEntityEmbed Entity="KitchenSpike"/>
 <GuideEntityEmbed Entity="KitchenKnife"/>

@@ -13,8 +13,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="MobVulpkanin" Caption=""/>
   </Box>
 
-  Vulpkanin are canine-like humanoids, sporting distinct ears and tails. They see the world in reds and greens,
-  deal [color=#ec3a3a]blunt [/color]and [color=#ec3a3a]slash [/color] damage with their claws, and their fur
-  insulates them from environment temperature at the cost of making them 15% more vulnerable to Heat damage.
+	Los Vulpkanin son híbridos de zorro y humano, con orejas y colas distintivas.
+	Ven el mundo en tonos rojos y verdes,
+	infligen daño [color=#ec3a3a]contundente[/color] y [color=#ec3a3a]cortante[/color] con sus garras,
+	son un poco menos afectados por las temperaturas,
+	y son capaces de robar cosas de otras personas un poco más rápido.
+
 
 </Document>

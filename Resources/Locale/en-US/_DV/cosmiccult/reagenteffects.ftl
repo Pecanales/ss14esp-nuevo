@@ -4,10 +4,10 @@ reagent-effect-guidebook-cleanse-cultist =
         *[other] cleanse
     } otherwordly influences
 
-entropy-effect-numb = You feel eerily numb.
+entropy-effect-numb = Te sientes inquietantemente entumecido.
 
-reagent-name-entropy = liquid entropy
+reagent-name-entropy = entropia liquida
 
-reagent-desc-entropy = An unnerving, malign substance.
+reagent-desc-entropy = Una sustancia inquietante y maligna.
 
-reagent-physical-desc-malign = malign
+reagent-physical-desc-malign = maligno

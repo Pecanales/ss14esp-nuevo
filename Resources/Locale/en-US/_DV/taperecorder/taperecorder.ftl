@@ -1,27 +1,27 @@
-cassette-repair-start = You start winding the tape back into {THE($item)}.
-cassette-repair-finish = You manage to wind the tape back into {THE($item)}.
-tape-cassette-position = The cassette is about [color=green]{$position}%[/color] the way through.
-tape-cassette-damaged = The cassette is unspooled, use a pen or screwdriver to repair it.
-tape-recorder-playing = The tape recorder is in [color=green]playback[/color] mode.
-tape-recorder-stopped = The tape recorder is stopped.
-tape-recorder-empty = The tape recorder is empty.
-tape-recorder-recording = The tape recorder is in [color=red]recording[/color] mode.
-tape-recorder-rewinding = The tape recorder is in [color=yellow]rewinding[/color] mode.
-tape-recorder-locked = Cant eject while the tape recorder is running.
-tape-recorder-voice-unknown = Unknown
-tape-recorder-voice-unintelligible = Unintelligible
+cassette-repair-start = Empiezas a enrollar la cinta nuevamente {THE($item)}.
+cassette-repair-finish = Te las arreglas para enrollar la cinta nuevamente {THE($item)}.
+tape-cassette-position = El casete es aproximadamente [color=green]{$position}%[/color] el camino a través.
+tape-cassette-damaged = El casete está desenrollado, utilice un bolígrafo o un destornillador para repararlo.
+tape-recorder-playing = La grabadora está en [color=green]modo reproducción[/color] .
+tape-recorder-stopped = La grabadora está parada.
+tape-recorder-empty = La grabadora está vacía.
+tape-recorder-recording = La grabadora está en [color=red]modo grabación[/color].
+tape-recorder-rewinding = TLa grabadora está en [color=yellow]modo rebobinado[/color].
+tape-recorder-locked = No se puede expulsar mientras la grabadora está funcionando.
+tape-recorder-voice-unknown = Desconocido
+tape-recorder-voice-unintelligible = ininteligible
 tape-recorder-message-corruption = #
 
 tape-recorder-menu-title = Tape Recorder
 tape-recorder-menu-controls-label = Controls:
-tape-recorder-menu-stopped-button = Pause
-tape-recorder-menu-recording-button = Record
-tape-recorder-menu-playing-button = Playback
-tape-recorder-menu-rewinding-button = Rewind
-tape-recorder-menu-print-button = Print record transcript
-tape-recorder-menu-cassette-label = Cassette tape: {$cassetteName}
-tape-recorder-menu-no-cassette-label = Cassette tape is not inserted
+tape-recorder-menu-stopped-button = Pausa
+tape-recorder-menu-recording-button = Registro
+tape-recorder-menu-playing-button = Reproducción
+tape-recorder-menu-rewinding-button = Rebobinar
+tape-recorder-menu-print-button = Imprimir transcripción del registro
+tape-recorder-menu-cassette-label = Cinta de casete: {$cassetteName}
+tape-recorder-menu-no-cassette-label = La cinta de casete no está insertada.
 
-tape-recorder-print-start-text = [bold]Start of recorded transcript[/bold]
+tape-recorder-print-start-text = [bold]Inicio de la transcripción grabada[/bold]
 tape-recorder-print-message-text = [bold][{$time}] {$source}: [/bold] {$message}
-tape-recorder-print-end-text = [bold]End of recorded transcript[/bold]
+tape-recorder-print-end-text = [bold]Fin de la transcripción grabada[/bold]

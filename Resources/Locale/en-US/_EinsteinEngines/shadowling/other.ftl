@@ -31,14 +31,14 @@ marking-LesserShadowlingEyes = Ojos sombrios menores
 marking-AbominationHorns = Cuernos abominables
 marking-AbominationTorso = torso abominable
 
-admin-verb-make-shadowling = Convierte al objetivo en un esclavo.
+admin-verb-make-shadowling = Convierte al objetivo en un shadowling.
 admin-verb-text-make-shadowling = hacer esclavo
 
 species-name-shadowling = Shadowling
 species-name-shadow = Sombra
 
 # Examine Texts
-shadowling-examine-self = [color=#D22B2B]Recibes {$damage} daño por quemaduras debido a la luz[/color]
+shadowling-examine-self = [color=#D22B2B]Recibes {$damage} daÃ±o por quemaduras debido a la luz[/color]
 
 # UI
 asc-broadcast-title = Transmision ascendente

@@ -4,21 +4,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-ResomiTail = Resomi tail
-marking-ResomiTail-tail = Resomi tail
-marking-ResomiTailFeathers = Tail feathers
-marking-ResomiTailFeathers-tail_feathers = Tail feathers
-marking-ResomiLArmFeathers = Resomi left arm Feathers
-marking-ResomiLArmFeathers-l_hand_feathers = Resomi left arm Feathers
-marking-ResomiLLegFeathers = Resomi left leg Feathers
-marking-ResomiLLegFeathers-l_foot_feathers = Resomi left leg Feathers
-marking-ResomiRArmFeathers = Resomi right arm Feathers
-marking-ResomiRArmFeathers-r_hand_feathers = Resomi right arm Feathers
-marking-ResomiRLegFeathers = Resomi right leg Feathers
-marking-ResomiRLegFeathers-r_foot_feathers = Resomi right leg Feathers
-marking-ResomiFluff = Resomi under fluff
-marking-ResomiFluff-fluff = Resomi under fluff
-marking-ResomiFluffHead = Resomi head fluff
-marking-ResomiFluffHead-fluff_head = Resomi head fluff
-marking-ResomiFluffHeadUp = Resomi head fluff (up)
-marking-ResomiFluffHeadUp-fluff_head_up = Resomi head fluff (up)
+marking-ResomiTail = cola de resomi
+marking-ResomiTail-tail = cola de resomi
+marking-ResomiTailFeathers = plumas de la cola
+marking-ResomiTailFeathers-tail_feathers = plumas de la cola
+marking-ResomiLArmFeathers = Resomi brazo izquierdo con Plumas
+marking-ResomiLArmFeathers-l_hand_feathers = Resomi brazo izquierdo con Plumas
+marking-ResomiLLegFeathers = Resomi pierna izquierda con Plumas
+marking-ResomiLLegFeathers-l_foot_feathers = Resomi pierna izquierda con Plumas
+marking-ResomiRArmFeathers = Resomi brazo derecho con Plumas
+marking-ResomiRArmFeathers-r_hand_feathers = Resomi brazo derecho con Plumas
+marking-ResomiRLegFeathers = Resomi pierna derecha con Plumas
+marking-ResomiRLegFeathers-r_foot_feathers = Resomi pierna derecha con Plumas
+marking-ResomiFluff = Resomi bajo pelusa
+marking-ResomiFluff-fluff = Resomi bajo pelusa
+marking-ResomiFluffHead = cabeza con pelusa de resomi
+marking-ResomiFluffHead-fluff_head = cabeza con pelusa de Resomi
+marking-ResomiFluffHeadUp = cabeza con pelusa de resomi (arriba)
+marking-ResomiFluffHeadUp-fluff_head_up = cabeza con pelusa de resomi (arriba)

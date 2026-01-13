@@ -19,9 +19,9 @@ bingle-verb-4 = Grumbles
 bingle-station-announcement = Bingle Bingle Bingle
 
 ghost-role-information-bingle-name = Bingle
-ghost-role-information-bingle-description = The Pit is love. The Pit is life. The Pit must grow. Use +w to bing with other Bingles.
-ghost-role-information-bingle-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with other Bingles
+ghost-role-information-bingle-description = El Pozo es amor. El Pozo es vida. El Pozo debe crecer. Utilice +w para hacer bing con otros Bingles.
+ghost-role-information-bingle-rules = Eres un [color=red][bold]Antagonista de equipo[/bold][/color] con otros Bingles
 
-bingle-upgrade-success = You feel stronger
-bingle-pit-grow =  The pit grows larger
-bingle-pit-end-of-round = The Binglepit near {$location} grew to level [color=teal]{$level}[/color] and collected [color=teal]{$points}[/color] Bingle points
+bingle-upgrade-success = te sientes mas fuerte
+bingle-pit-grow =  El hoyo se hace mas grande
+bingle-pit-end-of-round = El Binglepit cerca de {$location} crecio hasta el nivel [color=teal]{$level}[/color] y acumulo [color=teal]{$points}[/color] puntos Bingle

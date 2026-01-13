@@ -1,10 +1,10 @@
-cmd-addimplant-hint = Implant
+cmd-addimplant-hint = Implante
 
-cmd-addimplant-desc = Adds an implant to a specified entity.
-cmd-addimplant-help = Usage: addimplant <target> <ProtoId>
+cmd-addimplant-desc = Agrega un implante a una entidad especificada.
+cmd-addimplant-help = usar: addimplant <target> <ProtoId>
 
-cmd-addimplant-args-error = Invalid arguments. { cmd-addimplant-help }
-cmd-addimplant-bad-target = Unable to find entity '{$target}'.
+cmd-addimplant-args-error = argumentos invalidos. { cmd-addimplant-help }
+cmd-addimplant-bad-target = No se puede encontrar la entidad '{$target}'.
 
-cmd-addimplant-success = Added '{$implant}' to '{$target}'.
-cmd-addimplant-failure = Failed to add '{$implant}' to '{$target}'.
+cmd-addimplant-success = Se agrego '{$implant}' a '{$target}'.
+cmd-addimplant-failure = No se pudo agregar '{$implant}' a '{$target}'.

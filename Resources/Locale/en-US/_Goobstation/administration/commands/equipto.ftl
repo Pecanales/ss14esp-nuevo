@@ -1,12 +1,12 @@
 cmd-equipto-hint = Slot name.
 
-cmd-equipto-desc = Equip a given entity to a specified entity.
-cmd-equipto-help = Usage: equipto <target> <itemUid/ProtoId> <bool-DeletePrevious> / equipto <target> <itemUid/ProtoId> <bool-DeletePrevious> <slot>
+cmd-equipto-desc = Equipar una entidad determinada a una entidad especifica.
+cmd-equipto-help = Usao: equipto <target> <itemUid/ProtoId> <bool-DeletePrevious> / equipto <target> <itemUid/ProtoId> <bool-DeletePrevious> <slot>
 
-cmd-equipto-args-error = Invalid arguments. { cmd-equipto-help }
-cmd-equipto-bad-target = Unable to find entity '{$target}'.
-cmd-equipto-bad-proto = Invalid item UID/prototype: '{$item}'
+cmd-equipto-args-error = Argumentos invalidos. { cmd-equipto-help }
+cmd-equipto-bad-target = No se puede encontrar la entidad '{$target}'.
+cmd-equipto-bad-proto = UID/prototipo de articulo no valido: '{$item}'
 
-cmd-equipto-success = Equipped {$item} to {$target} in slot {$targetSlot}.
-cmd-equipto-failure = Failed to equip {$item} to {$target} in slot {$targetSlot}.
-cmd-equipto-total-failure= Failed to equip {$item} to any slot on {$target}.
+cmd-equipto-success = Equipo {$item} a {$target} en la ranura {$targetSlot}.
+cmd-equipto-failure = No se pudo equipar {$item} a {$target} en la ranura {$targetSlot}.
+cmd-equipto-total-failure= No se pudo equipar {$item} en ningun espacio en {$target}.

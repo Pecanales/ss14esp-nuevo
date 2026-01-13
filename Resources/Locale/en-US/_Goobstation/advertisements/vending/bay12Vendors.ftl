@@ -4,26 +4,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-solsnack-1 = We cut all the red-tape so that you can have diarrhea!
-advertisement-solsnack-2 = Food safety standards are merely a suggestion if you know the right people!
-advertisement-solsnack-3 = Snacks from home, corruption included!
-advertisement-solsnack-4 = A taste of home!
+advertisement-solsnack-1 = Cortamos toda la burocracia para que puedas tener diarrea!
+advertisement-solsnack-2 = Los estandares de seguridad alimentaria son simplemente una sugerencia si conoces a las personas adecuadas!
+advertisement-solsnack-3 = Bocadillos de casa, corrupcion incluida!
+advertisement-solsnack-4 = Un sabor de hogar!
 
 advertisement-weebvend-1 = Konnichiwa gaijin senpai!
-advertisement-weebvend-2 = Notice me senpai!
+advertisement-weebvend-2 = Observame senpai!
 advertisement-weebvend-3 = Kawaii-desu!
 
-advertisement-hotfood-1 = Get your stale, crumbling food here! Sol's national dish has never tasted better!
-advertisement-hotfood-2 = If this is the food waiting for you at home, it's no wonder you're hiding here.
-advertisement-hotfood-3 = Solarian food products, served with a side of diarrhea as always!
-advertisement-hotfood-4 = Revenge is a dish best served warm.
+advertisement-hotfood-1 = Consigue aqui tu comida rancia y desmoronada! El plato nacional de Sol nunca ha sabido mejor!
+advertisement-hotfood-2 = Si esta es la comida que te espera en casa, no es de extrañar que te escondas aqui.
+advertisement-hotfood-3 = Productos de comida solariana, servidos con una guarnicion de diarrea como siempre!
+advertisement-hotfood-4 = La venganza es un plato que se sirve mejor caliente.
 
-advertisement-fitness-1 = SweatMAX, get robust!
-advertisement-fitness-2 = Pain is just weakness leaving the body!
-advertisement-fitness-3 = Run! Your fat is catching up to you!
-advertisement-fitness-4 = Never forget leg day!
-advertisement-fitness-5 = Push out!
-advertisement-fitness-6 = This is the only break you get today.
-advertisement-fitness-7 = Don't cry, sweat!
-advertisement-fitness-8 = Healthy is an outfit that looks good on everybody.
-advertisement-fitness-9 = Want to hide from the Solarian authorities? Don't worry, they don't know what the inside of a gym looks like.
+advertisement-fitness-1 = Suda MAX, ponte fuerte!
+advertisement-fitness-2 = El dolor es solo debilidad que abandona el cuerpo!
+advertisement-fitness-3 = Corre! Tu grasa te esta alcanzando!
+advertisement-fitness-4 = Nunca olvides el dia de las piernas!
+advertisement-fitness-5 = Expulsa!
+advertisement-fitness-6 = Este es el unico descanso que tienes hoy.
+advertisement-fitness-7 = No llores, suda!
+advertisement-fitness-8 = Saludable es un outfit que sienta bien a todo el mundo.
+advertisement-fitness-9 = Quieres esconderte de las autoridades solarianas? No te preocupes, no saben como es el interior de un gimnasio.

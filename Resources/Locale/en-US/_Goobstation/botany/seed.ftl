@@ -1,2 +1,2 @@
-seeds-bluespace-tomato-name = bluespace tomato
-seeds-bluespace-tomato-display-name = bluespace tomato plant
+seeds-bluespace-tomato-name = tomates espaciales azules
+seeds-bluespace-tomato-display-name = planta de tomates espaciales azules

@@ -8,14 +8,27 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-alerts-stasis-name = [color=cyan]Temporal stasis[/color]
-alerts-stasis-desc = You are placed in temporary stasis. You cannot interact with the world, nor can it interact with you.
+alerts-stasis-name = [color=cyan]estasis temporal[/color]
+alerts-stasis-desc = Te colocan en estasis temporal. No puedes interactuar con el mundo, ni él puede interactuar contigo.
 
 alerts-knocked-down-name = [color=yellow]Knocked down[/color]
 alerts-knocked-down-desc = [color=yellow]Knocked down[/color]! You can't get up.
 
-alerts-modsuit-power-name = [color=yellow]Modsuit Power[/color]
-alerts-modsuit-power-desc = Displays the current power level of your modsuit. Low power may affect suit functionality.
+alerts-modsuit-power-name = [color=yellow]energia del modsuit[/color]
+alerts-modsuit-power-desc = Muestra el nivel de potencia actual de tu modsuit. La baja potencia puede afectar la funcionalidad del traje.
 
-alerts-centered-name = Centered
-alerts-centered-desc = You feel in touch with your roots. Specifically the roots that keep you centered on tiles.
+alerts-centered-name = centrado
+alerts-centered-desc = Te sientes en contacto con tus raíces. Específicamente las raíces que te mantienen centrado en los mosaicos.
+
+### Pain Alerts
+alerts-minor-pain-name = Dolor menor
+alerts-minor-pain-desc = Sientes un ligero dolor.
+
+alerts-moderate-pain-name = [color=yellow]Dolor moderado[/color]
+alerts-moderate-pain-desc = [color=yellow]El dolor es notable y distrae..[/color]
+
+alerts-severe-pain-name = [color=red]Dolor severo[/color]
+alerts-severe-pain-desc = [color=red]El dolor es intenso y difícil de ignorar.[/color]
+
+alerts-excruciating-pain-name = [color=red]Dolor insoportable[/color]
+alerts-excruciating-pain-desc = [color=red]El dolor es insoportable, lo que dificulta concentrarse en cualquier otra cosa..[/color]

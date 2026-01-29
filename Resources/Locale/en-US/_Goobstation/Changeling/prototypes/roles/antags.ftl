@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-roles-antag-changeling-name = Changeling
-roles-antag-changeling-description = Use your shapeshifting abilities to complete your objectives.
+roles-antag-changeling-name = Cambia pieles
+roles-antag-changeling-description = Usa tus habilidades de cambio de forma para completar tus objetivos.
 roles-antag-changelingmidround-name = Changeling Midround
 
-roles-antag-corporate-agent-name = Corporate Agent
-roles-antag-corporate-agent-description = Use your corporate resources to complete your objectives.
+roles-antag-corporate-agent-name = Agente Corporativo
+roles-antag-corporate-agent-description = Utilice sus recursos corporativos para completar sus objetivos.

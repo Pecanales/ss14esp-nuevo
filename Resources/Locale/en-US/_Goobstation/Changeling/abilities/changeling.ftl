@@ -9,93 +9,93 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Abilities
-changeling-biomass-deficit = Not enough biomass!
-changeling-chemicals-deficit = Not enough chemicals!
-changeling-action-fail-lesserform = Can't use it while in lesser form!
+changeling-biomass-deficit = No hay suficiente biomasa!
+changeling-chemicals-deficit = No hay suficientes quimicos!
+changeling-action-fail-lesserform = No puedo usarlo mientras estas en una menor forma!
 
-changeling-biomass-warn-first = We begin to hunger...
-changeling-biomass-warn-second = Our hunger causes a bout of pain...
-changeling-biomass-warn-third = Our hunger is taking a toll on our form...
-changeling-biomass-warn-death = Our cells begin to consume themselves. There is no return.
+changeling-biomass-warn-first = Empezamos a tener hambre...
+changeling-biomass-warn-second = Nuestra hambre provoca un ataque de dolor...
+changeling-biomass-warn-third = Nuestra hambre esta pasando factura a nuestra forma...
+changeling-biomass-warn-death = Nuestras celulas comienzan a consumirse. No hay retorno.
 
-changeling-action-fail-absorbed = Need to absorb {$number} more organisms to use it!
-changeling-absorb-start = {CAPITALIZE(THE($user))} starts absorbing {CAPITALIZE(THE($target))}'s DNA!
-changeling-absorb-fail-incapacitated = We can't absorb them until they're incapacitated.
-changeling-absorb-fail-absorbed = They've already been absorbed.
-changeling-absorb-fail-unabsorbable = The target is not absorbable.
-changeling-absorb-end-self = The organism was absorbed. We are evolving.
-changeling-absorb-end-self-ling = Another changeling was absorbed. Our body is filled with immense vigor as our cells rapidly evolve.
-changeling-absorb-end-self-ling-incompatible = Another changeling was absorbed. However, their current form prevented us from extracting their DNA sequence.
-changeling-absorb-end-partial = The organism was absorbed. We were unable to extract anything to aid in our evolution.
-changeling-absorb-onexamine = [color=red]The body feels hollow.[/color]
-changeling-absorb-fail-nograb = We aren't grabbing hard enough.
-changeling-absorb-fail-onfire = The target is on fire, put them out first!
+changeling-action-fail-absorbed = ¡Necesitamos absorber {$number} organismos mas para usarlo!
+changeling-absorb-start = ¡{CAPITALIZE(THE($user))} comienza a absorber el ADN de {CAPITALIZE(THE($target))}!
+changeling-absorb-fail-incapacitated = No podemos absorberlos hasta que esten incapacitados.
+changeling-absorb-fail-absorbed = Ya han sido absorbidos.
+changeling-absorb-fail-unabsorbable = El objetivo no es absorbible.
+changeling-absorb-end-self = El organismo fue absorbido. Estamos evolucionando.
+changeling-absorb-end-self-ling = Otro cambia formas fue absorbido. Nuestro cuerpo se llena de un inmenso vigor a medida que nuestras celulas evolucionan rapidamente.
+changeling-absorb-end-self-ling-incompatible = Otro cambia formas quedo absorbido. Sin embargo, su forma actual nos impidio extraer su secuencia de ADN.
+changeling-absorb-end-partial = El organismo fue absorbido. No pudimos extraer nada que ayudara en nuestra evolucion.
+changeling-absorb-onexamine = [color=red]El cuerpo se siente vacio.[/color]
+changeling-absorb-fail-nograb = No nos estamos agarrando con suficiente fuerza.
+changeling-absorb-fail-onfire = El objetivo esta en llamas, ¡apagalos primero!
 
 
-changeling-absorbbiomatter-start = {THE($user)} starts absorbing the food!
-changeling-absorbbiomatter-bad-food = This food is not absorbable.
+changeling-absorbbiomatter-start = {THE($user)} ¡Empieza a absorber la comida!
+changeling-absorbbiomatter-bad-food = Este alimento no es absorbible.
 
-changeling-transform-cycle = Switched to {$target}'s DNA.
-changeling-transform-cycle-empty = We don't have any DNA strains!
-changeling-transform-others = {CAPITALIZE(THE($user))}'s body twists and takes shape of another being!
-changeling-transform-fail-self = We can't transform into the current form!
-changeling-transform-fail-choose = We did not choose a form to transform into!
-changeling-transform-fail-absorbed = We can't transform a husk!
-changeling-transform-finish = We are now {$target}.
+changeling-transform-cycle = Cambiado al ADN de {$target}.
+changeling-transform-cycle-empty = ¡No tenemos ninguna cepa de ADN!
+changeling-transform-others = ¡El cuerpo de {CAPITALIZE(THE($user))} se retuerce y toma la forma de otro ser!
+changeling-transform-fail-self = ¡No podemos transformarnos a la forma actual!
+changeling-transform-fail-choose = ¡No elegimos una forma para transformarnos!
+changeling-transform-fail-absorbed = ¡No podemos transformar una cascaron!
+changeling-transform-finish = Ahora somos {$target}.
 
-changeling-sting = We silently sting {CAPITALIZE(THE($target))}
-changeling-sting-fail-self = We tried to sting {CAPITALIZE(THE($target))}, but something stopped us from doing it!
-changeling-sting-fail-ling = Someone just tried to silently sting us!
-changeling-sting-fail-fakeweapon = They will be unable to sustain a faux weapon.
-changeling-sting-fail-hollow = We are unable to sting a hollow organism.
+changeling-sting = Picamos en silencio {CAPITALIZE(THE($target))}
+changeling-sting-fail-self = Intentamos picar a {CAPITALIZE(THE($target))}, ¡pero algo nos impidio hacerlo!
+changeling-sting-fail-ling = ¡Alguien acaba de intentar picarnos silenciosamente!
+changeling-sting-fail-fakeweapon = No podran sostener un arma falsa.
+changeling-sting-fail-hollow = No podemos picar un organismo hueco.
 
-changeling-sting-extract-fail-duplicate = We have already extracted this DNA in the past.
-changeling-sting-extract-fail-lesser = We can't extract DNA from a lesser creature!
-changeling-sting-extract-max = Need to get rid of the stored DNA beforehand
+changeling-sting-extract-fail-duplicado = Ya hemos extraido este ADN en el pasado.
+changeling-sting-extract-fail-lesser = ¡No podemos extraer ADN de una criatura inferior!
+changeling-sting-extract-max = Necesitas de deshacerse del ADN almacenado de antemano.
 
-changeling-dartgun-no-stings = We don't have any reagent stings evolved!
+changeling-dartgun-no-stings = ¡No tenemos picaduras de reactivo evolucionadas!
 
-changeling-stasis-enter = We enter regenerative stasis...
-changeling-stasis-enter-damaged = We enter regenerative stasis. Our sustained injuries will prove troublesome to heal...
-changeling-stasis-enter-catastrophic = We enter regenerative stasis. Our catastrophic injuries will take extreme time to heal...
-changeling-stasis-enter-fail = Can't enter stasis!
-changeling-stasis-exit = We exit regenerative stasis, clear of wounds and injuries...
-changeling-stasis-exit-fail = We're not in stasis!
-changeling-stasis-exit-fail-dead = We feel... hollow. It is over.
-changeling-stasis-exit-fail-time = Our body is still recovering!
-changeling-stasis-exit-defib = A shock pulses through us. Our stasis has been interrupted!
+changeling-stasis-enter = Entramos en estasis regenerativa...
+changeling-stasis-enter-damaged = Entramos en estasis regenerativa. Nuestras heridas sufridas resultaran dificiles de curar...
+changeling-stasis-enter-catastrophic = Entramos en estasis regenerativa. Nuestras heridas catastroficas tardaran muchisimo en sanar...
+changeling-stasis-enter-fail = ¡No puedo entrar en estasis!
+changeling-stasis-exit = Salimos del estasis regenerativo, libres de heridas y lesiones...
+changeling-stasis-exit-fail = ¡No estamos en estasis!
+changeling-stasis-exit-fail-dead = Nos sentimos... vacios. Se acabo.
+changeling-stasis-exit-fail-time = ¡Nuestro cuerpo todavia se esta recuperando!
+changeling-stasis-exit-defib = Una conmocion nos recorre. ¡Nuestra estasis ha sido interrumpida!
 
-changeling-fail-hands = Need to drop something beforehand
+changeling-fail-hands = Necesito dejar algo de antemano
 
-changeling-muscles-start = Our body feels a lot lighter
-changeling-muscles-end = Our legs feel heavier
+changeling-muscles-start = Nuestro cuerpo se siente mucho mas ligero.
+changeling-muscles-end = Nuestras piernas se sienten mas pesadas
 
-changeling-equip-armor-fail = Need to get rid of existing outer clothing beforehand
+changeling-equip-armor-fail = Necesitas deshacerse de la ropa exterior para crear la armadura.
 
-changeling-inject = We inject ourself
-changeling-inject-fail = Failed to inject ourself!
+changeling-inject = Nos inyectamos
+changeling-inject-fail = ¡No pudimos inyectarnos nosotros mismos!
 
-changeling-passive-activate = Activated ability
-changeling-passive-activate-fail = Failed to activate the ability
-changeling-passive-active = Already active!
+changeling-passive-activate = habilidad activada
+changeling-passive-activate-fail = No se pudo activar la habilidad.
+changeling-passive-active = ¡Ya se activo!
 
-changeling-fleshmend = We begin to seal our wounds and regenerate dead cells.
-changeling-panacea = We begin to reconstruct our cellular structure and immune system.
-changeling-adrenaline = We inject highly potent adrenaline into our body.
+changeling-fleshmend = Empezamos a sellar nuestras heridas y a regenerar celulas muertas.
+changeling-panacea = Comenzamos a reconstruir nuestra estructura celular y sistema inmunologico.
+changeling-adrenaline = Inyectamos adrenalina muy potente en nuestro cuerpo.
 
-changeling-chameleon-start = We adapt our skin to the environment
-changeling-chameleon-end = Our skin is losing its translucency
+changeling-chameleon-start = Adaptamos nuestra piel al entorno
+changeling-chameleon-end = Nuestra piel esta perdiendo su translucidez.
 
-changeling-voidadapt-lowpressure-start = We adapt to the surrounding low pressure.
-changeling-voidadapt-lowpressure-end = The surrounding pressure is no longer low. We cast off our adaption.
-changeling-voidadapt-lowtemperature-start = We adapt to the surrounding freezing temperature.
-changeling-voidadapt-lowtemperature-end = The surrounding temperature is warmer. We cast off our adaption.
+changeling-voidadapt-lowpressure-start = Nos adaptamos a la baja presion del entorno.
+changeling-voidadapt-lowpressure-end = La presion circundante ya no es baja. Nos deshacemos de nuestra adaptacion.
+changeling-voidadapt-lowtemperature-start = Nos adaptamos a la temperatura gelida del entorno.
+changeling-voidadapt-lowtemperature-end = La temperatura circundante es mas calida. Nos deshacemos de nuestra adaptacion.
 
-changeling-hivemind-start = We tune our brainwaves to match the hivemind frequency
+changeling-hivemind-start = Sintonizamos nuestras ondas cerebrales para que coincidan con la frecuencia de la mente colmena.
 
-changeling-lastresort-activate = CURRENT BODY WILL BE LOST! Use it again to confirm.
+changeling-lastresort-activate = ¡EL CUERPO ACTUAL SE PERDERÁ! Úselo nuevamente para confirmar.
 
-changeling-onfire = Our cells writhe with agony, failing to perform the action!
-changeling-voidadapt-onfire = Our adaptions become too painful to maintain on fire! We cast them off!
+changeling-onfire = ¡Nuestras celulas se retuercen de agonia y no logran realizar la accion!
+changeling-voidadapt-onfire = ¡Nuestras adaptaciones se vuelven demasiado dolorosas para mantenerlas encendidas! ¡Los desechamos!
 
-changeling-rejuvenate = An strange energy pulses through our body, rejuvenating our cells and restoring our chemicals!
+changeling-rejuvenate = ¡Una energia extraña pulsa a traves de nuestro cuerpo, rejuveneciendo nuestras celulas y restaurando nuestros quimicos!

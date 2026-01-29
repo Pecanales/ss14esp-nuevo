@@ -3,16 +3,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-collective-mind-dragon = Fishmind
-collective-mind-lingmind = Hivemind
-collective-mind-tidemind = Tidemind
-collective-mind-blobmind = Blobmind
+collective-mind-dragon = mentedepez
+collective-mind-lingmind = mentecolmena
+collective-mind-tidemind = mentemarea
+collective-mind-blobmind = MenteBlob
 collective-mind-mansus-link = Mansus Link
-collective-mind-abductormind = Glorpmind
-collective-mind-binary = Binary
-collective-mind-mousemind = Piepmind
-collective-mind-dronemind = Dronemind
+collective-mind-abductormind = mentegloriosa
+collective-mind-binary = Binario
+collective-mind-mousemind = Piepmente
+collective-mind-dronemind = Mentedrones
 collective-mind-empathy = Empathy
-collective-mind-bingle = Binglemind
-collective-mind-shadow-mind = Shadowmind
-collective-mind-xeno = Hivemind
+collective-mind-bingle = menteBingle
+collective-mind-shadow-mind = menteShadow
+collective-mind-xeno = mentecolmena

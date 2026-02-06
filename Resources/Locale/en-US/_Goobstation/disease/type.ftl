@@ -1,9 +1,9 @@
 disease-type-viral = Viral
 disease-type-bacterial = Bacterial
-disease-type-owncells = Cancerous
+disease-type-owncells = Canceroso
 disease-type-prion = Prion
-disease-type-parasite = Parasite
-disease-type-debug = Unknown
+disease-type-parasite = Parasito
+disease-type-debug = Desconocido
 disease-spread-aerial = Aerial
-disease-spread-blood = Blood
+disease-spread-blood = sanguineo
 disease-spread-debug = Debug

@@ -1,6 +1,6 @@
-damage-hits-to-kill = Our heroic interns have shown that one can theoretically stay standing after [color=red][bold]{$count}[/bold][/color] hits before collapsing from their wounds.
+damage-hits-to-kill = Nuestros heroicos pasantes han demostrado que, en teoría, uno puede permanecer de pie después de [color=red][bold]{$count}[/bold][/color] golpes antes de colapsar por las heridas.
 
-armor-penetration = It penetrates armor { $arg ->
-        [1] [color=red]{$abs}% better[/color]
-        *[other] [color=blue]{$abs}% worse[/color]
-    } than an average damage source.
+armor-penetration =Penetra la armadura { $arg ->
+        [1] [color=red]{$abs}% mejor[/color]
+        *[other] [color=blue]{$abs}% peor[/color]
+    } que una fuente de daño promedio.

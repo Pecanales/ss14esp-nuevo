@@ -1,3 +1,3 @@
-﻿vaccinator-toggle-live-injector = Live-Injector Mode
-vaccinator-toggle-vaccine = Vaccine Mode
-live-injector-inject = You are being injected with a live injector, you will contract a disease.
+vaccinator-toggle-live-injector = Modo de inyector vivo
+vaccinator-toggle-vaccine = Modo de vacuna
+live-injector-inject = Le estan inyectando un inyector vivo, contraera una enfermedad.

@@ -7,42 +7,42 @@ devil-sign-invalid-user = You do not have the power to fulfill this contract!
 devil-contract-mind-shielded-failed = A voice comes from your Nanotrasen™ mindshield. "Nice try."
 
 contract-summon-flavor = {$name}'s hand bursts into flames before revealing a black roll of parchment...
-burn-contract-prompt = Burn contract.
-burn-contract-popup-success = The contract bursts into flames! It seems someones fate has been sealed...
-burn-contract-popup-fail = You cannot burn a contract during a deal!
+burn-contract-prompt = quemar contrato
+burn-contract-popup-success = ¡El contrato estalla en llamas! Parece que el destino de alguien ha sido sellado...
+burn-contract-popup-fail = ¡No se puede quemar un contrato durante un trato!
 
 
-contract-victim-signed = A chill runs down your spine as you lift the pen...
-contract-devil-signed = The contract pulses with dark energy...
-contract-soul-added = You gain another soul in your possession...
-contract-uneven-odds = These odds aren't fair. You need {$number} more contract weight.
-devil-contract-examined = This contract has a weight of: {$weight}.
+contract-victim-signed = Un escalofrio recorre tu espalda mientras levantas el boligrafo...
+contract-devil-signed = El contrato pulsa con energia oscura...
+contract-soul-added = Obtienes otra alma en tu posesion...
+contract-uneven-odds = Estos tratos no son justos. Necesitas {$number} de peso de contrato mas.
+devil-contract-examined = Este contrato tiene un peso de: {$weight}.
 
-devil-deal-time-ran-out = Your vision goes black as your muscles fail you. You've run out of time.
+devil-deal-time-ran-out = Tu vision se vuelve negra cuando tus musculos te fallan. Se te acabo el tiempo.
 
-revival-contract-accepted = You feel your connection to your body strengthen...
-revival-contract-rejected = You reject the unholy offer.
-revival-contract-expired = Times up.
-revival-contract-prompt = {$offerer} offers to restore your life for a price... Do you accept?
-revival-contract-use-success = You offer {$target} a deal no man could refuse...
-revival-contract-use-failed = You cannot offer {$target} this deal.
+revival-contract-accepted = Sientes que tu conexion con tu cuerpo se fortalece...
+revival-contract-rejected = Rechazas la oferta impia.
+revival-contract-expired = Se acabo el tiempo.
+revival-contract-prompt = {$offerer} ofrece restaurar tu vida por un precio... ¿Aceptas?
+revival-contract-use-success = Ofreces a {$target} un trato que ningun hombre podria rechazar...
+revival-contract-use-failed = No puedes ofrecer a {$target} esta oferta.
 
-revival-contract-prompt-reject = Reject Offer
-revival-contract-prompt-accept = Accept Offer
+revival-contract-prompt-reject = Rechazar oferta
+revival-contract-prompt-accept = Aceptar oferta
 
-revival-contract-menu-title = Contract From the Depths
-revival-contract-menu-prompt = Sell your soul for a second chance?
+revival-contract-menu-title = Contrato desde las profundidades
+revival-contract-menu-prompt = ¿Vender tu alma por una segunda oportunidad?
 
-default-contract-content = This binding contract made this day between:
+default-contract-content = Tsu contrato vinculante celebrado este dia entre:
 
-            - The Infernal Party (Hereinafter "Contractor")
-            - The Mortal Party (Hereinafter "Contractee")
+            - El Partido Infernal (En adelante "Contractor")
+            - el Mortal (En adelante “Contractee”)
 
-            {"["}bold]Clauses of Binding:{"["}/bold]
-            {"["}italic]The following parties give up the following possessions{"["}/italic{"]"}
+            {"["}bold]Clausulas de vinculacion:{"["}/bold]
+            {"["}italic]Las siguientes partes renuncian a las siguientes posesiones{"["}/italic{"]"}
 
             Contractee: Soul Ownership
             Contractee: Death
 
-            {"["}italic]All clauses come into effect upon signing of this paper by both parties.{"["}/italic]
-            {"["}italic]{"["}color=#ac3a0d]Clauses may not be broken. Ever.{"["}/color]{"["}/italic]
+            {"["}italic]Todas las clausulas entran en vigor al momento de la firma de este documento por ambas partes.{"["}/italic]
+            {"["}italic]{"["}color=#ac3a0d]Las clausulas no se pueden infringir. Alguna vez.{"["}/color]{"["}/italic]

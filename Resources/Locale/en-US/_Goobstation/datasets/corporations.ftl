@@ -1,7 +1,7 @@
-traitor-corporations-flavor-dataset-1 = ARC Terrorist
-traitor-corporations-flavor-dataset-2 = Bee Liberation Front
+traitor-corporations-flavor-dataset-1 = Terrorista ARC
+traitor-corporations-flavor-dataset-2 = Frente de Liberación de las Abejas
 traitor-corporations-flavor-dataset-3 = Cybersun Industries
-traitor-corporations-flavor-dataset-4 = Gorlex Marauders
+traitor-corporations-flavor-dataset-4 = Merodeadores Gorlex
 traitor-corporations-flavor-dataset-5 = Corporate Climber
 traitor-corporations-flavor-dataset-6 = Donk Corporation
 traitor-corporations-flavor-dataset-7 = Legal Trouble

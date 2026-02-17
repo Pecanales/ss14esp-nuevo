@@ -1,80 +1,80 @@
-# SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>  
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>  
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>  
+#  
+# SPDX-License-Identifier: AGPL-3.0-or-later  
 
-traitor-arcterrorist-intro = You are an ARC terrorist.
-traitor-arcterrorist-goal = The creatures of this world must be freed from the iron grasp of Nanotrasen, and you are their only hope!
-traitor-arcterrorist-allies = You may cooperate with other syndicate agents if you support our cause. Maybe you can convince the Bee Liberation Front agents to cooperate for once?
-traitor-arcterrorist-uplink = The Syndicate have graciously given one of their PDA-uplinks for your task.
-traitor-arcterrorist-roundend = [color=green]an activist from the Animal Rights Consortium[/color]
+traitor-arcterrorist-intro = Eres un terrorista del ARC.  
+traitor-arcterrorist-goal = ¡Las criaturas de este mundo deben ser liberadas del ferreo control de Nanotrasen, y tu eres su unica esperanza!  
+traitor-arcterrorist-allies = Puedes cooperar con otros agentes del sindicato si apoyan nuestra causa. ¿Quizas puedas convencer a los agentes del Frente de Liberacion de las Abejas para que cooperen por una vez?  
+traitor-arcterrorist-uplink = El Sindicato te ha proporcionado generosamente uno de sus PDA-uplinks para tu tarea.  
+traitor-arcterrorist-roundend = [color=green]un activista del Consorcio de Derechos de los Animales[/color]  
 
-traitor-beeliberationfront-intro = You are a Bee Liberation Front activist.
-traitor-beeliberationfront-goal = We must prove ourselves to the Syndicate or we will not be able to join. Animal Rights Consort will roll us!
-traitor-beeliberationfront-allies = You may cooperate with other syndicate agents if they support our cause. Maybe you can recruit an Animal Rights Consort to be useful for once?
-traitor-beeliberationfront-uplink = The Syndicate have graciously given one of their PDA-uplinks to see if we are worthy.
-traitor-beeliberationfront-roundend = [color=green]an activist from Bee Liberation Front[/color]
+traitor-beeliberationfront-intro = Eres un activista del Frente de Liberacion de las Abejas.  
+traitor-beeliberationfront-goal = ¡Debemos demostrarnos al Sindicato o no podremos unirnos! ¡El Consorcio de Derechos de los Animales nos aplastara!  
+traitor-beeliberationfront-allies = Puedes cooperar con otros agentes del sindicato si apoyan nuestra causa. ¿Quizas puedas reclutar a un miembro del Consorcio de Derechos de los Animales para que sea util por una vez?  
+traitor-beeliberationfront-uplink = El Sindicato te ha proporcionado generosamente uno de sus PDA-uplinks para ver si somos dignos.  
+traitor-beeliberationfront-roundend = [color=green]un activista del Frente de Liberacion de las Abejas[/color]  
 
-traitor-cybersunindustries-intro = You are a specialist from Cybersun Industries.
-traitor-cybersunindustries-goal = Do not establish substantial presence on the designated facility, as larger incidents are harder to cover up.
-traitor-cybersunindustries-allies = Fellow Cybersun operatives are to be trusted. Members of the MI13 organization can be trusted. All other syndicate agents are not to be trusted.
-traitor-cybersunindustries-uplink = You have been supplied the tools for the job in the form of a syndicate uplink located in your PDA.
-traitor-cybersunindustries-roundend = [color=yellow]a specialist from Cybersun Industries[/color]
+traitor-cybersunindustries-intro = Eres un especialista de Cybersun Industries.  
+traitor-cybersunindustries-goal = No establezcas una presencia sustancial en la instalacion designada, ya que los incidentes mayores son mas dificiles de encubrir.  
+traitor-cybersunindustries-allies = Los operativos de Cybersun son de confianza. Los miembros de la organizacion MI13 son confiables. Todos los demas agentes del sindicato no son de confianza.  
+traitor-cybersunindustries-uplink = Se te han proporcionado las herramientas para el trabajo en forma de un uplink del sindicato ubicado en tu PDA.  
+traitor-cybersunindustries-roundend = [color=yellow]un especialista de Cybersun Industries[/color]  
 
-traitor-corporateclimber-intro = You are a Corporate Climber.
-traitor-corporateclimber-goal = Killing needlessly would make you some kind of traitor, or at least definitely seen as one. This is all just a means to an end.
-traitor-corporateclimber-allies = Death to the Syndicate.
-traitor-corporateclimber-uplink = You have connections to the black market for the deeds. Your uplink is located in your PDA. Knock off a few loose weights, and your climb will be so much smoother.
-traitor-corporateclimber-roundend = [color=yellow]a corporate climber.[/color]
+traitor-corporateclimber-intro = Eres un Trepador Corporativo.  
+traitor-corporateclimber-goal = Matar innecesariamente te haria algun tipo de traidor, o al menos definitivamente serias visto como uno. Todo esto es solo un medio para un fin.  
+traitor-corporateclimber-allies = Muerte al Sindicato.  
+traitor-corporateclimber-uplink = Tienes conexiones con el mercado negro para los trabajos. Tu uplink esta ubicado en tu PDA. Elimina algunos pesos muertos, y tu ascenso sera mucho mas suave.  
+traitor-corporateclimber-roundend = [color=yellow]un trepador corporativo.[/color]  
 
-traitor-donkcorporation-intro = You are a Donk Co. infiltrator.
-traitor-donkcorporation-goal = We do not approve of mindless killing of innocent workers; get in, get done, get out is our motto.
-traitor-donkcorporation-allies = Members of Waffle Co. are to be killed on sight; they are not allowed to be on the station while we're around.
-traitor-donkcorporation-uplink = You have been provided with a syndicate uplink located in your PDA to accomplish your task.
-traitor-donkcorporation-roundend = [color=orange]an employee from Donk Corporation[/color]
+traitor-donkcorporation-intro = Eres un infiltrado de Donk Co.  
+traitor-donkcorporation-goal = No aprobamos el asesinato sin sentido de trabajadores inocentes; entra, haz tu trabajo y sal, ese es nuestro lema.  
+traitor-donkcorporation-allies = Los miembros de Waffle Co. deben ser eliminados a la vista; no se les permite estar en la estacion mientras estemos aqui.  
+traitor-donkcorporation-uplink = Se te ha proporcionado un uplink del sindicato ubicado en tu PDA para cumplir tu tarea.  
+traitor-donkcorporation-roundend = [color=orange]un empleado de Donk Corporation[/color]  
 
-traitor-gorlexmarauders-intro = You are a Gorlex Marauder.
-traitor-gorlexmarauders-goal = Getting noticed is not an issue, and you may use any level of ordinance to get the job done. That being said, do not make this sloppy by dragging in random slaughter.
-traitor-gorlexmarauders-allies = You may collaborate with any friends of the Syndicate coalition, but keep an eye on any of those Tiger punks if they do show up.
-traitor-gorlexmarauders-uplink = You have been provided with a syndicate uplink located in your PDA to accomplish your task.
-traitor-gorlexmarauders-roundend = [color=red]a Gorlex Marauder[/color]
+traitor-gorlexmarauders-intro = Eres un Saqueador de Gorlex.  
+traitor-gorlexmarauders-goal = Ser notado no es un problema, y puedes usar cualquier nivel de armamento para hacer el trabajo. Dicho esto, no lo hagas de manera descuidada arrastrando matanzas aleatorias.  
+traitor-gorlexmarauders-allies = Puedes colaborar con cualquier amigo de la coalicion del Sindicato, pero manten un ojo en esos punks de Tiger si aparecen.  
+traitor-gorlexmarauders-uplink = Se te ha proporcionado un uplink del sindicato ubicado en tu PDA para cumplir tu tarea.  
+traitor-gorlexmarauders-roundend = [color=red]un Saqueador de Gorlex[/color]  
 
-traitor-legaltrouble-intro = You are in legal trouble.
-traitor-legaltrouble-goal =  Try to finish your to-do list, and don't get caught. If they find out what you're actually doing, this scandal will go galactic.
-traitor-legaltrouble-allies = Death to the Syndicate.
-traitor-legaltrouble-uplink =  You've connected to the black market to clean this mess up. Your uplink is located in your PDA. If there's no evidence, there's no crime.
-traitor-legaltrouble-roundend = [color=white]in Legal Trouble[/color]
+traitor-legaltrouble-intro = Estas en problemas legales.  
+traitor-legaltrouble-goal = Trata de terminar tu lista de tareas y no te dejes atrapar. Si descubren lo que realmente estas haciendo, este escandalo se volvera galactico.  
+traitor-legaltrouble-allies = Muerte al Sindicato.  
+traitor-legaltrouble-uplink = Te has conectado al mercado negro para limpiar este desastre. Tu uplink esta ubicado en tu PDA. Si no hay evidencia, no hay crimen.  
+traitor-legaltrouble-roundend = [color=white]en Problemas Legales[/color]  
 
-traitor-mi13-intro = You are an MI13 agent.
-traitor-mi13-goal =  Avoid killing innocent personnel at all costs. You are not here to mindlessly kill people, as that would attract too much attention and is not our goal. Avoid detection at all costs.
-traitor-mi13-allies = You are the only operative we are sending, any others are fake. All other syndicate agents are not to be trusted, with the exception of Cybersun specialists.
-traitor-mi13-uplink = You have been provided with a syndicate uplink located in your PDA to accomplish your task.
-traitor-mi13-roundend = [color=cyan]an MI13 agent[/color]
+traitor-mi13-intro = Eres un agente de MI13.  
+traitor-mi13-goal = Evita matar a personal inocente a toda costa. No estas aqui para matar gente sin sentido, ya que eso atraeria demasiada atencion y no es nuestro objetivo. Evita la deteccion a toda costa.  
+traitor-mi13-allies = Eres el unico operativo que estamos enviando, cualquier otro es falso. Todos los demas agentes del sindicato no son de confianza, con la excepcion de los especialistas de Cybersun.  
+traitor-mi13-uplink = Se te ha proporcionado un uplink del sindicato ubicado en tu PDA para cumplir tu tarea.  
+traitor-mi13-roundend = [color=cyan]un agente de MI13[/color]  
 
-traitor-tigercooperative-intro = You are a Tiger Cooperative Fanatic.
-traitor-tigercooperative-goal = Remember the teachings of Hy-lurgixon; kill first, ask questions later!
-traitor-tigercooperative-allies = Only the enlightened Tiger brethren can be trusted; all others must be expelled from this mortal realm!
-traitor-tigercooperative-uplink = You have been provided with a syndicate uplink from your friends at Cybersun Industries to prove yourself to the changeling hive. If you accomplish your tasks, you will be assimilated.
-traitor-tigercooperative-roundend = [color=crimson]a Tiger Cooperative Fanatic[/color]
+traitor-tigercooperative-intro = Eres un Fanatico de la Cooperativa Tiger.  
+traitor-tigercooperative-goal = ¡Recuerda las enseñanzas de Hy-lurgixon; mata primero, pregunta despues!  
+traitor-tigercooperative-allies = Solo los hermanos iluminados de Tiger son de confianza; ¡todos los demas deben ser expulsados de este reino mortal!  
+traitor-tigercooperative-uplink = Se te ha proporcionado un uplink del sindicato de tus amigos en Cybersun Industries para demostrarte a la colmena de cambiantes. Si cumples tus tareas, seras asimilado.  
+traitor-tigercooperative-roundend = [color=crimson]un Fanatico de la Cooperativa Tiger[/color]  
 
-traitor-wafflecorporation-intro = You are a Waffle Co. infiltrator.
-traitor-wafflecorporation-goal = You are not here for a station-wide demonstration. Again, other Waffle Co. infiltrators may be, so watch out. Your job is to only accomplish your objectives.
-traitor-wafflecorporation-allies = Members of Donk Co. are to be killed on sight; they are not allowed to be on the station while we're around.
-traitor-wafflecorporation-uplink = You have been provided with a syndicate uplink located in your PDA to accomplish your task.
-traitor-wafflecorporation-roundend = [color=orange]an employee from Waffle Corporation[/color]
+traitor-wafflecorporation-intro = Eres un infiltrado de Waffle Co.  
+traitor-wafflecorporation-goal = No estas aqui para una demostracion a nivel de estacion. Nuevamente, otros infiltrados de Waffle Co. podrian estarlo, asi que ten cuidado. Tu trabajo es solo cumplir tus objetivos.  
+traitor-wafflecorporation-allies = Los miembros de Donk Co. deben ser eliminados a la vista; no se les permite estar en la estacion mientras estemos aqui.  
+traitor-wafflecorporation-uplink = Se te ha proporcionado un uplink del sindicato ubicado en tu PDA para cumplir tu tarea.  
+traitor-wafflecorporation-roundend = [color=orange]un empleado de Waffle Corporation[/color]  
 
-traitor-wafflecorporationterrorist-intro = You are a Waffle Corporation terrorist.
-traitor-wafflecorporationterrorist-goal = Our investors need a demonstration of our pledge to destroying Nanotrasen. Let's give them a loud one!
-traitor-wafflecorporationterrorist-allies = Most other syndicate agents are not to be trusted, except for members of the Gorlex Marauders.
-traitor-wafflecorporationterrorist-uplink = You have been provided with a syndicate uplink located in your PDA to accomplish your task.
-traitor-wafflecorporationterrorist-roundend = [color=red]a terrorist from Waffle Corporation[/color]
+traitor-wafflecorporationterrorist-intro = Eres un terrorista de Waffle Corporation.  
+traitor-wafflecorporationterrorist-goal = Nuestros inversores necesitan una demostracion de nuestro compromiso con la destruccion de Nanotrasen. ¡Demosles una ruidosa!  
+traitor-wafflecorporationterrorist-allies = La mayoria de los otros agentes del sindicato no son de confianza, excepto los miembros de los Saqueadores de Gorlex.  
+traitor-wafflecorporationterrorist-uplink = Se te ha proporcionado un uplink del sindicato ubicado en tu PDA para cumplir tu tarea.  
+traitor-wafflecorporationterrorist-roundend = [color=red]un terrorista de Waffle Corporation[/color]  
 
-traitor-neulithivfederationvisionary-intro = You are a Neulithiv Federation Visionary
-traitor-neulithivfederationvisionary-goal =  The Space Wizards Federation wants us to prove we can work with them well. Draw as much attention to yourself as possible while still completing your task.
-traitor-neulithivfederationvisionary-allies = Members of the Space Wizards Federation and other visionaries can be trusted. It's your choice whether to trust other Syndicate members.
-traitor-neulithivfederationvisionary-uplink = The federation has granted you an uplink in your PDA. Use it wisely.
-traitor-neulithivfederationvisionary-roundend = [color=violet]a Federation Visionary[/color]
+traitor-neulithivfederationvisionary-intro = Eres un Visionario de la Federacion Neulithiv.  
+traitor-neulithivfederationvisionary-goal = La Federacion de Magos Espaciales quiere que demostremos que podemos trabajar bien con ellos. Llama la mayor atencion posible mientras completas tu tarea.  
+traitor-neulithivfederationvisionary-allies = Los miembros de la Federacion de Magos Espaciales y otros visionarios son de confianza. Es tu eleccion si confias en otros miembros del Sindicato.  
+traitor-neulithivfederationvisionary-uplink = La federacion te ha otorgado un uplink en tu PDA. Úsalo sabiamente.  
+traitor-neulithivfederationvisionary-roundend = [color=violet]un Visionario de la Federacion[/color]  
 
-issuers-corporate-flavor-1 = NanoTrasen
-issuers-corporate-flavor-2 = Central Command
+issuers-corporate-flavor-1 = NanoTrasen  
+issuers-corporate-flavor-2 = Comando Central
